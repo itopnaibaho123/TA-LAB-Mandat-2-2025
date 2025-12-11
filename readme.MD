@@ -11,8 +11,7 @@ Instruksi langkah-demi-langkah: Import staging, transform dengan KTR (Pentaho), 
 1. MySQL client dan server terinstall (versi apa pun yang kompatibel).
 2. PostgreSQL (psql) terinstall dan dapat diakses.
 3. Pentaho Data Integration (Spoon) untuk membuat/menjalankan KTR.
-4. (Opsional tapi direkomendasikan) Python 3 + pandas + openpyxl untuk ekspor ke Excel.
-5. Akses ke folder project: `project/` di mana file KTR, SQL, dan hasil akan disimpan.
+4. Akses ke folder project: `/` di mana file KTR, SQL, dan hasil akan disimpan.
 
 ---
 
