@@ -1,21 +1,21 @@
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1,588,'ursola PURDY','upurdy0@cdbaby.com'),
-	 (2,492,'RUTHANNE vatini','rvatini1@fema.gov'),
-	 (2,873,'RUTHANNE vatini','rvatini1@fema.gov'),
-	 (3,327,'REIDAR Turbitt','rturbitt2@geocities.jp'),
-	 (4,85,'RiCh Kirsz','rkirsz3@jalbum.net'),
-	 (4,230,'RiCh Kirsz','rkirsz3@jalbum.net'),
-	 (5,133,'Carline KUPIS','ckupis4@tamu.edu'),
-	 (5,708,'Carline KUPIS','ckupis4@tamu.edu'),
-	 (6,127,'KANDY ADAMEC','kadamec5@weather.com'),
-	 (6,617,'KANDY ADAMEC','kadamec5@weather.com');
+	 (1,588,'Ursola Purdy','upurdy0@cdbaby.com'),
+	 (2,492,'Ruthanne Vatini','rvatini1@fema.gov'),
+	 (2,873,'Ruthanne Vatini','rvatini1@fema.gov'),
+	 (3,327,'Reidar Turbitt','rturbitt2@geocities.jp'),
+	 (4,85,'Rich Kirsz','rkirsz3@jalbum.net'),
+	 (4,230,'Rich Kirsz','rkirsz3@jalbum.net'),
+	 (5,133,'Carline Kupis','ckupis4@tamu.edu'),
+	 (5,708,'Carline Kupis','ckupis4@tamu.edu'),
+	 (6,127,'Kandy Adamec','kadamec5@weather.com'),
+	 (6,617,'Kandy Adamec','kadamec5@weather.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (7,986,'jermain Giraudeau','jgiraudeau6@elpais.com'),
-	 (8,162,'NOLLY Bonicelli','nbonicelli7@examiner.com'),
-	 (8,273,'NOLLY Bonicelli','nbonicelli7@examiner.com'),
-	 (8,463,'NOLLY Bonicelli','nbonicelli7@examiner.com'),
-	 (9,326,'phebe curdell','pcurdell8@usa.gov'),
-	 (10,980,'Euell GUILDER','eguilder9@themeforest.net'),
+	 (7,986,'Jermain Giraudeau','jgiraudeau6@elpais.com'),
+	 (8,162,'Nolly Bonicelli','nbonicelli7@examiner.com'),
+	 (8,273,'Nolly Bonicelli','nbonicelli7@examiner.com'),
+	 (8,463,'Nolly Bonicelli','nbonicelli7@examiner.com'),
+	 (9,326,'Phebe Curdell','pcurdell8@usa.gov'),
+	 (10,980,'Euell Guilder','eguilder9@themeforest.net'),
 	 (11,636,'Teriann Marritt','tmarritta@va.gov'),
 	 (12,820,'Filmer Douse','fdouseb@foxnews.com'),
 	 (13,392,'Daisey Lamball','dlamballc@skyrock.com'),
@@ -70,9 +70,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (40,798,'Natty Bencher','nbencher13@hatena.ne.jp'),
 	 (41,705,'Gertrude Choak','gchoak14@skype.com'),
 	 (41,989,'Gertrude Choak','gchoak14@skype.com'),
-	 (42,391,'Anna-diana Tilburn','atilburn15@simplemachines.org'),
-	 (42,650,'Anna-diana Tilburn','atilburn15@simplemachines.org'),
-	 (43,56,'"La verne" Figg','lfigg16@blogspot.com'),
+	 (42,391,'Anna-Diana Tilburn','atilburn15@simplemachines.org'),
+	 (42,650,'Anna-Diana Tilburn','atilburn15@simplemachines.org'),
+	 (43,56,'"La Verne" Figg','lfigg16@blogspot.com'),
 	 (44,102,'Nicolina Scorthorne','nscorthorne17@dagondesign.com'),
 	 (45,828,'Zora Hurles','zhurles18@csmonitor.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
@@ -120,9 +120,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (71,810,'Corinne Chimienti','cchimienti1y@weather.com'),
 	 (72,668,'Gustavo Sidnall','gsidnall1z@prlog.org');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (73,119,'Ruthi McGeever','rmcgeever20@sakura.ne.jp'),
-	 (73,361,'Ruthi McGeever','rmcgeever20@sakura.ne.jp'),
-	 (73,437,'Ruthi McGeever','rmcgeever20@sakura.ne.jp'),
+	 (73,119,'Ruthi Mcgeever','rmcgeever20@sakura.ne.jp'),
+	 (73,361,'Ruthi Mcgeever','rmcgeever20@sakura.ne.jp'),
+	 (73,437,'Ruthi Mcgeever','rmcgeever20@sakura.ne.jp'),
 	 (74,197,'Ozzie Petters','opetters21@rediff.com'),
 	 (75,606,'Enrichetta Morrill','emorrill22@irs.gov'),
 	 (76,595,'Randall Gilcrist','rgilcrist23@jiathis.com'),
@@ -197,7 +197,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (113,355,'Calypso Sorbie','csorbie34@xing.com'),
 	 (113,764,'Calypso Sorbie','csorbie34@xing.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (114,216,'Aurelie MacSherry','amacsherry35@is.gd'),
+	 (114,216,'Aurelie Macsherry','amacsherry35@is.gd'),
 	 (115,45,'Zebulen Haggar','zhaggar36@mozilla.org'),
 	 (115,482,'Zebulen Haggar','zhaggar36@mozilla.org'),
 	 (115,854,'Zebulen Haggar','zhaggar36@mozilla.org'),
@@ -294,11 +294,11 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (166,813,'Myles Salasar','msalasar4l@dion.ne.jp'),
 	 (167,629,'Hervey Erik','herik4m@zimbio.com'),
 	 (167,728,'Hervey Erik','herik4m@zimbio.com'),
-	 (168,120,'Lynsey McPeice','lmcpeice4n@technorati.com');
+	 (168,120,'Lynsey Mcpeice','lmcpeice4n@technorati.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (168,633,'Lynsey McPeice','lmcpeice4n@technorati.com'),
-	 (168,697,'Lynsey McPeice','lmcpeice4n@technorati.com'),
-	 (168,941,'Lynsey McPeice','lmcpeice4n@technorati.com'),
+	 (168,633,'Lynsey Mcpeice','lmcpeice4n@technorati.com'),
+	 (168,697,'Lynsey Mcpeice','lmcpeice4n@technorati.com'),
+	 (168,941,'Lynsey Mcpeice','lmcpeice4n@technorati.com'),
 	 (169,15,'Roberto Swiggs','rswiggs4o@imdb.com'),
 	 (169,156,'Roberto Swiggs','rswiggs4o@imdb.com'),
 	 (169,939,'Roberto Swiggs','rswiggs4o@imdb.com'),
@@ -332,8 +332,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (184,994,'Ruttger Royce','rroyce53@google.es'),
 	 (185,854,'Cad Tomas','ctomas54@typepad.com'),
 	 (186,796,'Constance Raeburn','craeburn55@loc.gov'),
-	 (187,237,'Miner McLay','mmclay56@plala.or.jp'),
-	 (187,437,'Miner McLay','mmclay56@plala.or.jp'),
+	 (187,237,'Miner Mclay','mmclay56@plala.or.jp'),
+	 (187,437,'Miner Mclay','mmclay56@plala.or.jp'),
 	 (188,720,'Jonell Cescon','jcescon57@arizona.edu'),
 	 (189,121,'Yance Hartwright','yhartwright58@surveymonkey.com'),
 	 (190,248,'Lyndy Redmond','lredmond59@yandex.ru'),
@@ -355,8 +355,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (197,594,'Koralle Ricarde','kricarde5g@cdc.gov'),
 	 (198,294,'Lynette Davidofski','ldavidofski5h@nbcnews.com'),
 	 (198,827,'Lynette Davidofski','ldavidofski5h@nbcnews.com'),
-	 (199,426,'Bjorn McCloud','bmccloud5i@aboutads.info'),
-	 (199,515,'Bjorn McCloud','bmccloud5i@aboutads.info'),
+	 (199,426,'Bjorn Mccloud','bmccloud5i@aboutads.info'),
+	 (199,515,'Bjorn Mccloud','bmccloud5i@aboutads.info'),
 	 (200,456,'Benedict Kehir','bkehir5j@4shared.com'),
 	 (200,560,'Benedict Kehir','bkehir5j@4shared.com'),
 	 (201,552,'Sherline Sivell','ssivell5k@weibo.com'),
@@ -375,7 +375,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (209,342,'Anthe Erdes','aerdes5s@nydailynews.com'),
 	 (210,511,'Letisha Bielby','lbielby5t@mtv.com'),
-	 (211,924,'Desiri MacDunleavy','dmacdunleavy5u@behance.net'),
+	 (211,924,'Desiri Macdunleavy','dmacdunleavy5u@behance.net'),
 	 (212,783,'Hi Goodredge','hgoodredge5v@ovh.net'),
 	 (212,876,'Hi Goodredge','hgoodredge5v@ovh.net'),
 	 (213,538,'Hayden Andrew','handrew5w@lulu.com'),
@@ -419,16 +419,15 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (234,647,'Murray Senussi','msenussi6h@shareasale.com'),
 	 (235,138,'Tarrah Chiechio','tchiechio6i@microsoft.com'),
-	 (1587,830,'Bev Try','btryga@1688.com'),
 	 (235,920,'Tarrah Chiechio','tchiechio6i@microsoft.com'),
 	 (236,367,'Kaspar Scanlon','kscanlon6j@tinyurl.com'),
 	 (237,664,'Eachelle Adamec','eadamec6k@reverbnation.com'),
 	 (238,344,'Cathrine Soda','csoda6l@unc.edu'),
 	 (238,802,'Cathrine Soda','csoda6l@unc.edu'),
 	 (239,380,'Stavros Murney','smurney6m@marketwatch.com'),
-	 (239,429,'Stavros Murney','smurney6m@marketwatch.com');
+	 (239,429,'Stavros Murney','smurney6m@marketwatch.com'),
+	 (240,635,'Fletch Canfield','fcanfield6n@bigcartel.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (240,635,'Fletch Canfield','fcanfield6n@bigcartel.com'),
 	 (240,808,'Fletch Canfield','fcanfield6n@bigcartel.com'),
 	 (241,344,'Francis Cutmore','fcutmore6o@domainmarket.com'),
 	 (241,587,'Francis Cutmore','fcutmore6o@domainmarket.com'),
@@ -437,9 +436,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (242,184,'Valerye Marrable','vmarrable6p@archive.org'),
 	 (243,828,'Steffen Brunstan','sbrunstan6q@topsy.com'),
 	 (244,250,'Melany Viscovi','mviscovi6r@ed.gov'),
-	 (244,553,'Melany Viscovi','mviscovi6r@ed.gov');
+	 (244,553,'Melany Viscovi','mviscovi6r@ed.gov'),
+	 (245,499,'Kaela Isaq','kisaq6s@wiley.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (245,499,'Kaela Isaq','kisaq6s@wiley.com'),
 	 (246,41,'Alli Puttergill','aputtergill6t@xing.com'),
 	 (246,759,'Alli Puttergill','aputtergill6t@xing.com'),
 	 (247,211,'Morris Morales','mmorales6u@zdnet.com'),
@@ -448,9 +447,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (248,261,'Edyth Revie','erevie6v@liveinternet.ru'),
 	 (248,578,'Edyth Revie','erevie6v@liveinternet.ru'),
 	 (249,301,'Van Glayzer','vglayzer6w@list-manage.com'),
-	 (250,211,'Fabio Hawksley','fhawksley6x@mozilla.org');
+	 (250,211,'Fabio Hawksley','fhawksley6x@mozilla.org'),
+	 (251,172,'Chrissy Notton','cnotton6y@sbwire.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (251,172,'Chrissy Notton','cnotton6y@sbwire.com'),
 	 (251,458,'Chrissy Notton','cnotton6y@sbwire.com'),
 	 (251,565,'Chrissy Notton','cnotton6y@sbwire.com'),
 	 (251,643,'Chrissy Notton','cnotton6y@sbwire.com'),
@@ -459,9 +458,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (253,486,'Licha Broadwell','lbroadwell70@craigslist.org'),
 	 (253,820,'Licha Broadwell','lbroadwell70@craigslist.org'),
 	 (254,362,'Bobette Lewendon','blewendon71@mac.com'),
-	 (254,443,'Bobette Lewendon','blewendon71@mac.com');
+	 (254,443,'Bobette Lewendon','blewendon71@mac.com'),
+	 (255,122,'Nolan More','nmore72@census.gov');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (255,122,'Nolan More','nmore72@census.gov'),
 	 (256,347,'Sidnee Thurby','sthurby73@goodreads.com'),
 	 (256,601,'Sidnee Thurby','sthurby73@goodreads.com'),
 	 (257,330,'Artemas Frankiewicz','afrankiewicz74@google.co.jp'),
@@ -470,9 +469,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (260,25,'Carina Brotherhood','cbrotherhood77@zimbio.com'),
 	 (261,240,'Walton Kindall','wkindall78@mayoclinic.com'),
 	 (261,340,'Walton Kindall','wkindall78@mayoclinic.com'),
-	 (261,563,'Walton Kindall','wkindall78@mayoclinic.com');
+	 (261,563,'Walton Kindall','wkindall78@mayoclinic.com'),
+	 (261,647,'Walton Kindall','wkindall78@mayoclinic.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (261,647,'Walton Kindall','wkindall78@mayoclinic.com'),
 	 (262,65,'Beverie Tapson','btapson79@earthlink.net'),
 	 (262,984,'Beverie Tapson','btapson79@earthlink.net'),
 	 (263,7,'Adeline Sellner','asellner7a@yelp.com'),
@@ -481,9 +480,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (265,130,'Fania Jeanesson','fjeanesson7c@walmart.com'),
 	 (265,157,'Fania Jeanesson','fjeanesson7c@walmart.com'),
 	 (265,558,'Fania Jeanesson','fjeanesson7c@walmart.com'),
-	 (266,348,'Nadean Birtwhistle','nbirtwhistle7d@blogger.com');
+	 (266,348,'Nadean Birtwhistle','nbirtwhistle7d@blogger.com'),
+	 (267,264,'Derrek Kops','dkops7e@toplist.cz');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (267,264,'Derrek Kops','dkops7e@toplist.cz'),
 	 (267,309,'Derrek Kops','dkops7e@toplist.cz'),
 	 (267,608,'Derrek Kops','dkops7e@toplist.cz'),
 	 (267,646,'Derrek Kops','dkops7e@toplist.cz'),
@@ -492,9 +491,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (270,478,'Merry Coenraets','mcoenraets7h@utexas.edu'),
 	 (271,430,'Shayna Farbrother','sfarbrother7i@dailymotion.com'),
 	 (271,673,'Shayna Farbrother','sfarbrother7i@dailymotion.com'),
-	 (271,792,'Shayna Farbrother','sfarbrother7i@dailymotion.com');
+	 (271,792,'Shayna Farbrother','sfarbrother7i@dailymotion.com'),
+	 (272,36,'Alaster Lemmers','alemmers7j@cornell.edu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (272,36,'Alaster Lemmers','alemmers7j@cornell.edu'),
 	 (272,256,'Alaster Lemmers','alemmers7j@cornell.edu'),
 	 (272,858,'Alaster Lemmers','alemmers7j@cornell.edu'),
 	 (273,522,'Malchy Drissell','mdrissell7k@umich.edu'),
@@ -503,9 +502,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (275,197,'Jeremiah "De Lascy"','jdelascy7m@home.pl'),
 	 (276,235,'Gaylor Polack','gpolack7n@nydailynews.com'),
 	 (276,323,'Gaylor Polack','gpolack7n@nydailynews.com'),
-	 (276,914,'Gaylor Polack','gpolack7n@nydailynews.com');
+	 (276,914,'Gaylor Polack','gpolack7n@nydailynews.com'),
+	 (277,525,'Joelie Menhci','jmenhci7o@livejournal.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (277,525,'Joelie Menhci','jmenhci7o@livejournal.com'),
 	 (278,579,'Gonzalo Perch','gperch7p@vinaora.com'),
 	 (278,716,'Gonzalo Perch','gperch7p@vinaora.com'),
 	 (279,232,'Ardeen Greenstreet','agreenstreet7q@accuweather.com'),
@@ -514,9 +513,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (280,999,'Isahella Flinn','iflinn7r@lycos.com'),
 	 (281,824,'Bobette Domerq','bdomerq7s@behance.net'),
 	 (282,625,'Andie Henniger','ahenniger7t@de.vu'),
-	 (282,699,'Andie Henniger','ahenniger7t@de.vu');
+	 (282,699,'Andie Henniger','ahenniger7t@de.vu'),
+	 (282,1000,'Andie Henniger','ahenniger7t@de.vu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (282,1000,'Andie Henniger','ahenniger7t@de.vu'),
 	 (283,172,'Morly Albone','malbone7u@imdb.com'),
 	 (283,229,'Morly Albone','malbone7u@imdb.com'),
 	 (283,944,'Morly Albone','malbone7u@imdb.com'),
@@ -525,9 +524,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (285,729,'Aube Prator','aprator7w@unicef.org'),
 	 (286,381,'Shamus Weavill','sweavill7x@acquirethisname.com'),
 	 (287,250,'Hillery Hallifax','hhallifax7y@google.pl'),
-	 (288,274,'Peirce Strainge','pstrainge7z@vk.com');
+	 (288,274,'Peirce Strainge','pstrainge7z@vk.com'),
+	 (288,800,'Peirce Strainge','pstrainge7z@vk.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (288,800,'Peirce Strainge','pstrainge7z@vk.com'),
 	 (289,572,'Rutter Corp','rcorp80@wikispaces.com'),
 	 (289,624,'Rutter Corp','rcorp80@wikispaces.com'),
 	 (289,831,'Rutter Corp','rcorp80@wikispaces.com'),
@@ -536,9 +535,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (292,70,'Redd Foyston','rfoyston83@zimbio.com'),
 	 (293,398,'Jenna Zettler','jzettler84@webs.com'),
 	 (293,793,'Jenna Zettler','jzettler84@webs.com'),
-	 (294,879,'Cristina Lewty','clewty85@cornell.edu');
+	 (294,879,'Cristina Lewty','clewty85@cornell.edu'),
+	 (295,368,'Morley Jiras','mjiras86@blogspot.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (295,368,'Morley Jiras','mjiras86@blogspot.com'),
 	 (296,37,'Sosanna Hubane','shubane87@csmonitor.com'),
 	 (296,584,'Sosanna Hubane','shubane87@csmonitor.com'),
 	 (297,206,'Bili Stanyforth','bstanyforth88@hubpages.com'),
@@ -547,9 +546,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (298,95,'Rafaelia Mitroshinov','rmitroshinov89@1688.com'),
 	 (299,167,'Yvonne Maccree','ymaccree8a@mac.com'),
 	 (299,260,'Yvonne Maccree','ymaccree8a@mac.com'),
-	 (300,635,'Fernande L''Episcopio','flepiscopio8b@smugmug.com');
+	 (300,635,'Fernande L''Episcopio','flepiscopio8b@smugmug.com'),
+	 (301,242,'Mignon Ranger','mranger8c@accuweather.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (301,242,'Mignon Ranger','mranger8c@accuweather.com'),
 	 (301,596,'Mignon Ranger','mranger8c@accuweather.com'),
 	 (302,227,'Delmore Tamplin','dtamplin8d@ibm.com'),
 	 (302,352,'Delmore Tamplin','dtamplin8d@ibm.com'),
@@ -558,9 +557,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (305,923,'Osmund Fattore','ofattore8g@taobao.com'),
 	 (306,426,'Vladamir Ellerey','vellerey8h@upenn.edu'),
 	 (307,571,'Corabella Whittam','cwhittam8i@reddit.com'),
-	 (308,62,'Letti Duligall','lduligall8j@photobucket.com');
+	 (308,62,'Letti Duligall','lduligall8j@photobucket.com'),
+	 (308,947,'Letti Duligall','lduligall8j@photobucket.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (308,947,'Letti Duligall','lduligall8j@photobucket.com'),
 	 (309,121,'Lonni Janus','ljanus8k@icq.com'),
 	 (310,30,'Neddie Buy','nbuy8l@bravesites.com'),
 	 (311,91,'Ansell Johnson','ajohnson8m@creativecommons.org'),
@@ -569,20 +568,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (313,758,'Herc Matthewson','hmatthewson8o@google.ca'),
 	 (314,392,'Gallard Whanstall','gwhanstall8p@nba.com'),
 	 (314,516,'Gallard Whanstall','gwhanstall8p@nba.com'),
-	 (314,889,'Gallard Whanstall','gwhanstall8p@nba.com');
+	 (314,889,'Gallard Whanstall','gwhanstall8p@nba.com'),
+	 (315,667,'Isak Geipel','igeipel8q@hud.gov');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (315,667,'Isak Geipel','igeipel8q@hud.gov'),
 	 (316,982,'Shelton Leyfield','sleyfield8r@nps.gov'),
-	 (317,63,'Stesha McAlees','smcalees8s@wikispaces.com'),
+	 (317,63,'Stesha Mcalees','smcalees8s@wikispaces.com'),
 	 (318,267,'Lonee Bellefant','lbellefant8t@blogs.com'),
 	 (318,470,'Lonee Bellefant','lbellefant8t@blogs.com'),
-	 (319,153,'Win McManamon','wmcmanamon8u@ovh.net'),
-	 (319,243,'Win McManamon','wmcmanamon8u@ovh.net'),
-	 (319,511,'Win McManamon','wmcmanamon8u@ovh.net'),
+	 (319,153,'Win Mcmanamon','wmcmanamon8u@ovh.net'),
+	 (319,243,'Win Mcmanamon','wmcmanamon8u@ovh.net'),
+	 (319,511,'Win Mcmanamon','wmcmanamon8u@ovh.net'),
 	 (320,634,'Hubey Bagshawe','hbagshawe8v@ted.com'),
-	 (321,25,'Stephine Madsen','smadsen8w@seesaa.net');
+	 (321,25,'Stephine Madsen','smadsen8w@seesaa.net'),
+	 (321,341,'Stephine Madsen','smadsen8w@seesaa.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (321,341,'Stephine Madsen','smadsen8w@seesaa.net'),
 	 (321,808,'Stephine Madsen','smadsen8w@seesaa.net'),
 	 (322,392,'Reid Hattrick','rhattrick8x@theglobeandmail.com'),
 	 (322,405,'Reid Hattrick','rhattrick8x@theglobeandmail.com'),
@@ -591,9 +590,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (323,835,'Chicky Tumini','ctumini8y@moonfruit.com'),
 	 (323,976,'Chicky Tumini','ctumini8y@moonfruit.com'),
 	 (324,101,'Jemima Hugonin','jhugonin8z@sohu.com'),
-	 (325,985,'Hamnet Fogt','hfogt90@nps.gov');
+	 (325,985,'Hamnet Fogt','hfogt90@nps.gov'),
+	 (326,448,'Miguel Fieldsend','mfieldsend91@cornell.edu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (326,448,'Miguel Fieldsend','mfieldsend91@cornell.edu'),
 	 (327,770,'Oran Pittet','opittet92@etsy.com'),
 	 (328,746,'Aguistin Trounce','atrounce93@hibu.com'),
 	 (328,976,'Aguistin Trounce','atrounce93@hibu.com'),
@@ -602,9 +601,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (330,695,'Jacquelyn Thewlis','jthewlis95@nydailynews.com'),
 	 (331,260,'Eb Sydenham','esydenham96@domainmarket.com'),
 	 (331,535,'Eb Sydenham','esydenham96@domainmarket.com'),
-	 (332,795,'Ralph Mobley','rmobley97@w3.org');
+	 (332,795,'Ralph Mobley','rmobley97@w3.org'),
+	 (333,291,'Blancha Facer','bfacer98@live.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (333,291,'Blancha Facer','bfacer98@live.com'),
 	 (333,808,'Blancha Facer','bfacer98@live.com'),
 	 (334,504,'Mariya Taber','mtaber99@mayoclinic.com'),
 	 (335,370,'Margaretha Praundl','mpraundl9a@fastcompany.com'),
@@ -613,9 +612,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (337,441,'Chiquita Ede','cede9c@alibaba.com'),
 	 (337,727,'Chiquita Ede','cede9c@alibaba.com'),
 	 (338,161,'Thorstein Roskelly','troskelly9d@macromedia.com'),
-	 (338,784,'Thorstein Roskelly','troskelly9d@macromedia.com');
+	 (338,784,'Thorstein Roskelly','troskelly9d@macromedia.com'),
+	 (339,857,'Dahlia Pagelsen','dpagelsen9e@fema.gov');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (339,857,'Dahlia Pagelsen','dpagelsen9e@fema.gov'),
 	 (339,899,'Dahlia Pagelsen','dpagelsen9e@fema.gov'),
 	 (340,523,'Nani Long','nlong9f@hexun.com'),
 	 (340,984,'Nani Long','nlong9f@hexun.com'),
@@ -624,9 +623,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (342,688,'Harris Filpi','hfilpi9h@theguardian.com'),
 	 (342,915,'Harris Filpi','hfilpi9h@theguardian.com'),
 	 (343,623,'Fawn Bythway','fbythway9i@rambler.ru'),
-	 (343,885,'Fawn Bythway','fbythway9i@rambler.ru');
+	 (343,885,'Fawn Bythway','fbythway9i@rambler.ru'),
+	 (344,311,'Mariette Tulley','mtulley9j@yahoo.co.jp');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (344,311,'Mariette Tulley','mtulley9j@yahoo.co.jp'),
 	 (345,446,'Jeniece Delves','jdelves9k@bandcamp.com'),
 	 (346,549,'Benjie Cardnell','bcardnell9l@nba.com'),
 	 (347,22,'Ephrem "Mc Ilwrick"','emcilwrick9m@wikimedia.org'),
@@ -635,9 +634,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (348,452,'Odessa Reece','oreece9n@networkadvertising.org'),
 	 (349,56,'Kaitlyn Basill','kbasill9o@webeden.co.uk'),
 	 (349,933,'Kaitlyn Basill','kbasill9o@webeden.co.uk'),
-	 (350,655,'Aron Buxsey','abuxsey9p@wunderground.com');
+	 (350,655,'Aron Buxsey','abuxsey9p@wunderground.com'),
+	 (351,67,'Rodina Poleye','rpoleye9q@sourceforge.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (351,67,'Rodina Poleye','rpoleye9q@sourceforge.net'),
 	 (351,112,'Rodina Poleye','rpoleye9q@sourceforge.net'),
 	 (352,486,'Rocky Rockall','rrockall9r@pen.io'),
 	 (353,161,'Lorita Underdown','lunderdown9s@newsvine.com'),
@@ -646,9 +645,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (355,269,'Cly Pethrick','cpethrick9u@issuu.com'),
 	 (356,505,'Boothe Chalmers','bchalmers9v@skyrock.com'),
 	 (356,744,'Boothe Chalmers','bchalmers9v@skyrock.com'),
-	 (357,770,'Jon "Del Castello"','jdelcastello9w@gravatar.com');
+	 (357,770,'Jon "Del Castello"','jdelcastello9w@gravatar.com'),
+	 (358,733,'Harri Syers','hsyers9x@theglobeandmail.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (358,733,'Harri Syers','hsyers9x@theglobeandmail.com'),
 	 (359,953,'Anderea Maylott','amaylott9y@theatlantic.com'),
 	 (359,968,'Anderea Maylott','amaylott9y@theatlantic.com'),
 	 (360,72,'Dulci Portman','dportman9z@phoca.cz'),
@@ -657,9 +656,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (361,785,'Lucilia Partleton','lpartletona0@auda.org.au'),
 	 (362,810,'Alta Dundredge','adundredgea1@cnet.com'),
 	 (363,724,'Talbert Vedenyakin','tvedenyakina2@privacy.gov.au'),
-	 (364,312,'Melvyn Iwanicki','miwanickia3@hatena.ne.jp');
+	 (364,312,'Melvyn Iwanicki','miwanickia3@hatena.ne.jp'),
+	 (365,443,'Lucy Jacklin','ljacklina4@earthlink.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (365,443,'Lucy Jacklin','ljacklina4@earthlink.net'),
 	 (366,36,'Giulia Borrowman','gborrowmana5@github.com'),
 	 (366,516,'Giulia Borrowman','gborrowmana5@github.com'),
 	 (367,718,'Charlton Brimner','cbrimnera6@digg.com'),
@@ -668,9 +667,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (368,80,'Nevil Tavinor','ntavinora7@blogspot.com'),
 	 (368,298,'Nevil Tavinor','ntavinora7@blogspot.com'),
 	 (369,590,'Arvy Jobbing','ajobbinga8@alibaba.com'),
-	 (369,662,'Arvy Jobbing','ajobbinga8@alibaba.com');
+	 (369,662,'Arvy Jobbing','ajobbinga8@alibaba.com'),
+	 (370,625,'Fayette Dillway','fdillwaya9@about.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (370,625,'Fayette Dillway','fdillwaya9@about.com'),
 	 (371,133,'Rozella Gwilt','rgwiltaa@ed.gov'),
 	 (371,471,'Rozella Gwilt','rgwiltaa@ed.gov'),
 	 (371,566,'Rozella Gwilt','rgwiltaa@ed.gov'),
@@ -679,9 +678,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (373,984,'Malinda Mapstone','mmapstoneac@livejournal.com'),
 	 (374,331,'Dixie Devenish','ddevenishad@newyorker.com'),
 	 (374,413,'Dixie Devenish','ddevenishad@newyorker.com'),
-	 (375,719,'Barny Shadwick','bshadwickae@nymag.com');
+	 (375,719,'Barny Shadwick','bshadwickae@nymag.com'),
+	 (376,658,'Bridgette Sailer','bsaileraf@desdev.cn');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (376,658,'Bridgette Sailer','bsaileraf@desdev.cn'),
 	 (377,732,'Avram Febre','afebreag@go.com'),
 	 (377,925,'Avram Febre','afebreag@go.com'),
 	 (378,586,'Pattie Blues','pbluesah@sakura.ne.jp'),
@@ -690,9 +689,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (379,898,'Roch Columbine','rcolumbineai@dyndns.org'),
 	 (380,459,'Hyacinth Medlicott','hmedlicottaj@a8.net'),
 	 (381,671,'Hall Jerome','hjeromeak@jalbum.net'),
-	 (381,960,'Hall Jerome','hjeromeak@jalbum.net');
+	 (381,960,'Hall Jerome','hjeromeak@jalbum.net'),
+	 (382,58,'Adah Cotty','acottyal@cbslocal.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (382,58,'Adah Cotty','acottyal@cbslocal.com'),
 	 (383,223,'Mikkel Youle','myouleam@infoseek.co.jp'),
 	 (383,462,'Mikkel Youle','myouleam@infoseek.co.jp'),
 	 (384,967,'Amalita Digginson','adigginsonan@friendfeed.com'),
@@ -701,9 +700,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (386,965,'Vance Schutter','vschutterap@blinklist.com'),
 	 (387,109,'Ashlee Bourne','abourneaq@barnesandnoble.com'),
 	 (387,432,'Ashlee Bourne','abourneaq@barnesandnoble.com'),
-	 (388,244,'Jeramie Leggis','jleggisar@google.es');
+	 (388,244,'Jeramie Leggis','jleggisar@google.es'),
+	 (388,432,'Jeramie Leggis','jleggisar@google.es');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (388,432,'Jeramie Leggis','jleggisar@google.es'),
 	 (389,19,'Sibley Lobb','slobbas@cam.ac.uk'),
 	 (390,241,'Emlyn Stanney','estanneyat@hatena.ne.jp'),
 	 (391,128,'Felix Gallardo','fgallardoau@telegraph.co.uk'),
@@ -712,9 +711,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (392,289,'Maressa Stolte','mstolteav@discovery.com'),
 	 (393,519,'Lindy Espina','lespinaaw@4shared.com'),
 	 (393,908,'Lindy Espina','lespinaaw@4shared.com'),
-	 (394,142,'Pris Colleymore','pcolleymoreax@google.it');
+	 (394,142,'Pris Colleymore','pcolleymoreax@google.it'),
+	 (394,664,'Pris Colleymore','pcolleymoreax@google.it');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (394,664,'Pris Colleymore','pcolleymoreax@google.it'),
 	 (395,199,'Oates Gosz','ogoszay@canalblog.com'),
 	 (395,898,'Oates Gosz','ogoszay@canalblog.com'),
 	 (396,636,'Shara Cathro','scathroaz@hubpages.com'),
@@ -723,9 +722,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (398,269,'Tommy Badsworth','tbadsworthb1@thetimes.co.uk'),
 	 (399,917,'Vince Nesbit','vnesbitb2@shinystat.com'),
 	 (400,7,'Mil Lindley','mlindleyb3@cisco.com'),
-	 (400,231,'Mil Lindley','mlindleyb3@cisco.com');
+	 (400,231,'Mil Lindley','mlindleyb3@cisco.com'),
+	 (400,853,'Mil Lindley','mlindleyb3@cisco.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (400,853,'Mil Lindley','mlindleyb3@cisco.com'),
 	 (400,861,'Mil Lindley','mlindleyb3@cisco.com'),
 	 (400,929,'Mil Lindley','mlindleyb3@cisco.com'),
 	 (401,22,'Gil Perfili','gperfilib4@apple.com'),
@@ -734,9 +733,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (404,904,'Georgette Hurt','ghurtb7@answers.com'),
 	 (405,200,'Bertrand Attreed','battreedb8@phoca.cz'),
 	 (405,858,'Bertrand Attreed','battreedb8@phoca.cz'),
-	 (405,930,'Bertrand Attreed','battreedb8@phoca.cz');
+	 (405,930,'Bertrand Attreed','battreedb8@phoca.cz'),
+	 (405,946,'Bertrand Attreed','battreedb8@phoca.cz');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (405,946,'Bertrand Attreed','battreedb8@phoca.cz'),
 	 (406,58,'Seline Vasyutin','svasyutinb9@ucsd.edu'),
 	 (406,232,'Seline Vasyutin','svasyutinb9@ucsd.edu'),
 	 (407,110,'Luella Bernardino','lbernardinoba@constantcontact.com'),
@@ -745,9 +744,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (408,862,'Sher Chaffin','schaffinbb@mail.ru'),
 	 (408,932,'Sher Chaffin','schaffinbb@mail.ru'),
 	 (409,214,'Onfroi Oakenfield','ooakenfieldbc@uiuc.edu'),
-	 (410,496,'Rriocard McPhail','rmcphailbd@huffingtonpost.com');
+	 (410,496,'Rriocard Mcphail','rmcphailbd@huffingtonpost.com'),
+	 (410,981,'Rriocard Mcphail','rmcphailbd@huffingtonpost.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (410,981,'Rriocard McPhail','rmcphailbd@huffingtonpost.com'),
 	 (411,560,'Maddy Climar','mclimarbe@free.fr'),
 	 (412,755,'Cynthy Woolham','cwoolhambf@de.vu'),
 	 (412,766,'Cynthy Woolham','cwoolhambf@de.vu'),
@@ -755,10 +754,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (414,117,'Kerstin Stormonth','kstormonthbh@chron.com'),
 	 (414,302,'Kerstin Stormonth','kstormonthbh@chron.com'),
 	 (415,107,'Victoria Moukes','vmoukesbi@comsenz.com'),
-	 (416,236,'Zaria MacCafferky','zmaccafferkybj@trellian.com'),
-	 (416,387,'Zaria MacCafferky','zmaccafferkybj@trellian.com');
+	 (416,236,'Zaria Maccafferky','zmaccafferkybj@trellian.com'),
+	 (416,387,'Zaria Maccafferky','zmaccafferkybj@trellian.com'),
+	 (416,674,'Zaria Maccafferky','zmaccafferkybj@trellian.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (416,674,'Zaria MacCafferky','zmaccafferkybj@trellian.com'),
 	 (417,461,'Devin Iacoviello','diacoviellobk@zdnet.com'),
 	 (417,641,'Devin Iacoviello','diacoviellobk@zdnet.com'),
 	 (418,184,'Elsey Tresvina','etresvinabl@usatoday.com'),
@@ -767,9 +766,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (419,296,'Glenine Nare','gnarebm@wiley.com'),
 	 (419,881,'Glenine Nare','gnarebm@wiley.com'),
 	 (420,999,'Cathrine Nickell','cnickellbn@mtv.com'),
-	 (421,952,'Heinrik Sibylla','hsibyllabo@theatlantic.com');
+	 (421,952,'Heinrik Sibylla','hsibyllabo@theatlantic.com'),
+	 (422,166,'Dian Lesaunier','dlesaunierbp@foxnews.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (422,166,'Dian Lesaunier','dlesaunierbp@foxnews.com'),
 	 (422,808,'Dian Lesaunier','dlesaunierbp@foxnews.com'),
 	 (423,459,'Giorgia Edler','gedlerbq@cmu.edu'),
 	 (423,480,'Giorgia Edler','gedlerbq@cmu.edu'),
@@ -778,9 +777,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (425,647,'Lorilee Yesinov','lyesinovbs@whitehouse.gov'),
 	 (425,654,'Lorilee Yesinov','lyesinovbs@whitehouse.gov'),
 	 (426,708,'Mort Zienkiewicz','mzienkiewiczbt@ihg.com'),
-	 (427,534,'Britt Legendre','blegendrebu@infoseek.co.jp');
+	 (427,534,'Britt Legendre','blegendrebu@infoseek.co.jp'),
+	 (427,735,'Britt Legendre','blegendrebu@infoseek.co.jp');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (427,735,'Britt Legendre','blegendrebu@infoseek.co.jp'),
 	 (428,235,'Yance Basini-Gazzi','ybasinigazzibv@aboutads.info'),
 	 (429,135,'Danit Darbyshire','ddarbyshirebw@oaic.gov.au'),
 	 (429,218,'Danit Darbyshire','ddarbyshirebw@oaic.gov.au'),
@@ -789,9 +788,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (431,672,'Robert Swedeland','rswedelandby@desdev.cn'),
 	 (432,90,'Mara Georgievski','mgeorgievskibz@ebay.com'),
 	 (433,882,'Cleve Wegener','cwegenerc0@xinhuanet.com'),
-	 (434,56,'Anni Maase','amaasec1@myspace.com');
+	 (434,56,'Anni Maase','amaasec1@myspace.com'),
+	 (434,507,'Anni Maase','amaasec1@myspace.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (434,507,'Anni Maase','amaasec1@myspace.com'),
 	 (435,599,'Kent Trippitt','ktrippittc2@1und1.de'),
 	 (436,478,'Erma Realy','erealyc3@facebook.com'),
 	 (436,807,'Erma Realy','erealyc3@facebook.com'),
@@ -800,9 +799,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (437,700,'Sherline "Degli Antoni"','sdegliantonic4@yellowbook.com'),
 	 (438,368,'Rebekkah Slipper','rslipperc5@weebly.com'),
 	 (439,116,'Inglis Newberry','inewberryc6@wired.com'),
-	 (440,582,'Dulci Barme','dbarmec7@cam.ac.uk');
+	 (440,582,'Dulci Barme','dbarmec7@cam.ac.uk'),
+	 (440,858,'Dulci Barme','dbarmec7@cam.ac.uk');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (440,858,'Dulci Barme','dbarmec7@cam.ac.uk'),
 	 (440,956,'Dulci Barme','dbarmec7@cam.ac.uk'),
 	 (441,282,'Grissel Ancliff','gancliffc8@ca.gov'),
 	 (441,876,'Grissel Ancliff','gancliffc8@ca.gov'),
@@ -811,9 +810,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (443,452,'Ofella Juzek','ojuzekca@artisteer.com'),
 	 (444,418,'Angil Savatier','asavatiercb@wsj.com'),
 	 (444,981,'Angil Savatier','asavatiercb@wsj.com'),
-	 (445,92,'Onfroi Ottewell','oottewellcc@google.com.hk');
+	 (445,92,'Onfroi Ottewell','oottewellcc@google.com.hk'),
+	 (446,319,'Ly Breit','lbreitcd@baidu.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (446,319,'Ly Breit','lbreitcd@baidu.com'),
 	 (446,560,'Ly Breit','lbreitcd@baidu.com'),
 	 (447,484,'Morgan Snaden','msnadence@paypal.com'),
 	 (447,826,'Morgan Snaden','msnadence@paypal.com'),
@@ -822,9 +821,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (449,153,'Kathleen Fenemore','kfenemorecg@wix.com'),
 	 (450,58,'Shir Armytage','sarmytagech@chron.com'),
 	 (450,66,'Shir Armytage','sarmytagech@chron.com'),
-	 (451,184,'Bethina Cady','bcadyci@squarespace.com');
+	 (451,184,'Bethina Cady','bcadyci@squarespace.com'),
+	 (451,980,'Bethina Cady','bcadyci@squarespace.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (451,980,'Bethina Cady','bcadyci@squarespace.com'),
 	 (452,814,'Koenraad Kingsnoad','kkingsnoadcj@who.int'),
 	 (453,627,'Morey Bastone','mbastoneck@netlog.com'),
 	 (453,795,'Morey Bastone','mbastoneck@netlog.com'),
@@ -833,9 +832,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (454,974,'Cross Laxton','claxtoncl@ucoz.com'),
 	 (455,122,'Joycelin Pagon','jpagoncm@is.gd'),
 	 (455,816,'Joycelin Pagon','jpagoncm@is.gd'),
-	 (456,331,'Hestia Westhofer','hwesthofercn@reverbnation.com');
+	 (456,331,'Hestia Westhofer','hwesthofercn@reverbnation.com'),
+	 (457,268,'Keely Robinson','krobinsonco@google.nl');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (457,268,'Keely Robinson','krobinsonco@google.nl'),
 	 (457,773,'Keely Robinson','krobinsonco@google.nl'),
 	 (458,252,'Margareta Rentalll','mrentalllcp@cam.ac.uk'),
 	 (458,425,'Margareta Rentalll','mrentalllcp@cam.ac.uk'),
@@ -844,9 +843,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (460,188,'Genna Bontine','gbontinecr@shutterfly.com'),
 	 (460,524,'Genna Bontine','gbontinecr@shutterfly.com'),
 	 (461,245,'Crista Wherton','cwhertoncs@wikia.com'),
-	 (461,910,'Crista Wherton','cwhertoncs@wikia.com');
+	 (461,910,'Crista Wherton','cwhertoncs@wikia.com'),
+	 (462,638,'Grant Righy','grighyct@ask.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (462,638,'Grant Righy','grighyct@ask.com'),
 	 (463,576,'Dorothy Brizland','dbrizlandcu@blogger.com'),
 	 (464,394,'Randall Leslie','rlesliecv@ebay.co.uk'),
 	 (465,295,'Micky Pontin','mpontincw@desdev.cn'),
@@ -855,9 +854,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (466,293,'Nikki Shearsby','nshearsbycx@yellowpages.com'),
 	 (467,268,'Barnaby Golagley','bgolagleycy@europa.eu'),
 	 (467,963,'Barnaby Golagley','bgolagleycy@europa.eu'),
-	 (468,507,'Sargent Inwood','sinwoodcz@odnoklassniki.ru');
+	 (468,507,'Sargent Inwood','sinwoodcz@odnoklassniki.ru'),
+	 (469,719,'Lammond Boys','lboysd0@forbes.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (469,719,'Lammond Boys','lboysd0@forbes.com'),
 	 (469,815,'Lammond Boys','lboysd0@forbes.com'),
 	 (470,617,'Shirley Elson','selsond1@google.fr'),
 	 (471,20,'Brenn Corneljes','bcorneljesd2@technorati.com'),
@@ -866,9 +865,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (472,633,'Hazlett Colqueran','hcolquerand3@guardian.co.uk'),
 	 (472,770,'Hazlett Colqueran','hcolquerand3@guardian.co.uk'),
 	 (473,616,'Simona Prahm','sprahmd4@joomla.org'),
-	 (474,37,'Leanor Smither','lsmitherd5@ted.com');
+	 (474,37,'Leanor Smither','lsmitherd5@ted.com'),
+	 (474,141,'Leanor Smither','lsmitherd5@ted.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (474,141,'Leanor Smither','lsmitherd5@ted.com'),
 	 (474,974,'Leanor Smither','lsmitherd5@ted.com'),
 	 (475,2,'Elbertina Holleworth','eholleworthd6@shareasale.com'),
 	 (475,442,'Elbertina Holleworth','eholleworthd6@shareasale.com'),
@@ -877,10 +876,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (478,132,'Ardelis Trythall','atrythalld9@vk.com'),
 	 (479,95,'Amity Dash','adashda@accuweather.com'),
 	 (480,23,'Wendell Bernhardsson','wbernhardssondb@uiuc.edu'),
-	 (480,802,'Wendell Bernhardsson','wbernhardssondb@uiuc.edu');
+	 (480,802,'Wendell Bernhardsson','wbernhardssondb@uiuc.edu'),
+	 (480,970,'Wendell Bernhardsson','wbernhardssondb@uiuc.edu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (480,970,'Wendell Bernhardsson','wbernhardssondb@uiuc.edu'),
-	 (481,800,'Kaleb MacClenan','kmacclenandc@ocn.ne.jp'),
+	 (481,800,'Kaleb Macclenan','kmacclenandc@ocn.ne.jp'),
 	 (482,117,'Vernen Newnham','vnewnhamdd@cmu.edu'),
 	 (482,903,'Vernen Newnham','vnewnhamdd@cmu.edu'),
 	 (483,274,'Antonie Liebmann','aliebmannde@blogs.com'),
@@ -888,9 +887,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (484,898,'Welby Reyes','wreyesdf@sciencedaily.com'),
 	 (485,561,'Jinny Meader','jmeaderdg@examiner.com'),
 	 (486,806,'Becka Scarlin','bscarlindh@phoca.cz'),
-	 (487,226,'Di Draxford','ddraxforddi@noaa.gov');
+	 (487,226,'Di Draxford','ddraxforddi@noaa.gov'),
+	 (487,974,'Di Draxford','ddraxforddi@noaa.gov');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (487,974,'Di Draxford','ddraxforddi@noaa.gov'),
 	 (488,243,'Raquela Gwilliam','rgwilliamdj@typepad.com'),
 	 (488,797,'Raquela Gwilliam','rgwilliamdj@typepad.com'),
 	 (489,267,'Aurore Lebarree','alebarreedk@xing.com'),
@@ -899,9 +898,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (490,352,'Jolyn Padly','jpadlydl@biblegateway.com'),
 	 (490,652,'Jolyn Padly','jpadlydl@biblegateway.com'),
 	 (491,195,'Jayme Benge','jbengedm@goodreads.com'),
-	 (492,445,'Tirrell Littler','tlittlerdn@etsy.com');
+	 (492,445,'Tirrell Littler','tlittlerdn@etsy.com'),
+	 (492,853,'Tirrell Littler','tlittlerdn@etsy.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (492,853,'Tirrell Littler','tlittlerdn@etsy.com'),
 	 (493,102,'Anastasia Brilon','abrilondo@bing.com'),
 	 (493,284,'Anastasia Brilon','abrilondo@bing.com'),
 	 (494,450,'Zia Iacabucci','ziacabuccidp@sitemeter.com'),
@@ -910,20 +909,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (495,737,'Della Mirrlees','dmirrleesdq@gov.uk'),
 	 (496,379,'Hayden Towriss','htowrissdr@columbia.edu'),
 	 (497,120,'Ailina Gladhill','agladhillds@pcworld.com'),
-	 (497,283,'Ailina Gladhill','agladhillds@pcworld.com');
+	 (497,283,'Ailina Gladhill','agladhillds@pcworld.com'),
+	 (498,698,'Loleta Mitchall','lmitchalldt@creativecommons.org');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (498,698,'Loleta Mitchall','lmitchalldt@creativecommons.org'),
 	 (499,248,'Herculie Fruin','hfruindu@liveinternet.ru'),
 	 (499,688,'Herculie Fruin','hfruindu@liveinternet.ru'),
-	 (500,543,'Aurelia MacGowan','amacgowandv@opera.com'),
-	 (500,908,'Aurelia MacGowan','amacgowandv@opera.com'),
+	 (500,543,'Aurelia Macgowan','amacgowandv@opera.com'),
+	 (500,908,'Aurelia Macgowan','amacgowandv@opera.com'),
 	 (501,215,'Salome Elliman','sellimandw@1688.com'),
 	 (501,578,'Salome Elliman','sellimandw@1688.com'),
 	 (502,574,'Dodi Gotobed','dgotobeddx@epa.gov'),
 	 (502,606,'Dodi Gotobed','dgotobeddx@epa.gov'),
-	 (502,848,'Dodi Gotobed','dgotobeddx@epa.gov');
+	 (502,848,'Dodi Gotobed','dgotobeddx@epa.gov'),
+	 (503,193,'Ricki Woollons','rwoollonsdy@cisco.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (503,193,'Ricki Woollons','rwoollonsdy@cisco.com'),
 	 (503,954,'Ricki Woollons','rwoollonsdy@cisco.com'),
 	 (504,464,'Trula D''Arrigo','tdarrigodz@netvibes.com'),
 	 (505,175,'Jenilee Ayliffe','jayliffee0@ycombinator.com'),
@@ -932,9 +931,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (507,67,'Lawrence "De Cristofalo"','ldecristofaloe2@pen.io'),
 	 (508,874,'Vivie Crabtree','vcrabtreee3@i2i.jp'),
 	 (509,207,'Isiahi Kezourec','ikezourece4@mayoclinic.com'),
-	 (509,408,'Isiahi Kezourec','ikezourece4@mayoclinic.com');
+	 (509,408,'Isiahi Kezourec','ikezourece4@mayoclinic.com'),
+	 (509,599,'Isiahi Kezourec','ikezourece4@mayoclinic.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (509,599,'Isiahi Kezourec','ikezourece4@mayoclinic.com'),
 	 (510,194,'Marya Harradine','mharradinee5@altervista.org'),
 	 (510,251,'Marya Harradine','mharradinee5@altervista.org'),
 	 (510,756,'Marya Harradine','mharradinee5@altervista.org'),
@@ -943,9 +942,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (513,95,'Fallon Cromwell','fcromwelle8@wordpress.com'),
 	 (513,863,'Fallon Cromwell','fcromwelle8@wordpress.com'),
 	 (514,136,'Weston Aulton','waultone9@acquirethisname.com'),
-	 (514,680,'Weston Aulton','waultone9@acquirethisname.com');
+	 (514,680,'Weston Aulton','waultone9@acquirethisname.com'),
+	 (515,642,'Ronda Scoble','rscobleea@nasa.gov');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (515,642,'Ronda Scoble','rscobleea@nasa.gov'),
 	 (516,720,'Beniamino Rillatt','brillatteb@blogspot.com'),
 	 (516,962,'Beniamino Rillatt','brillatteb@blogspot.com'),
 	 (517,552,'Jourdan Lounds','jloundsec@nydailynews.com'),
@@ -954,9 +953,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (518,786,'Durant Thebe','dthebeed@loc.gov'),
 	 (518,888,'Durant Thebe','dthebeed@loc.gov'),
 	 (519,65,'Mona Eckery','meckeryee@miitbeian.gov.cn'),
-	 (519,358,'Mona Eckery','meckeryee@miitbeian.gov.cn');
+	 (519,358,'Mona Eckery','meckeryee@miitbeian.gov.cn'),
+	 (520,328,'Rad Bernth','rbernthef@jugem.jp');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (520,328,'Rad Bernth','rbernthef@jugem.jp'),
 	 (520,825,'Rad Bernth','rbernthef@jugem.jp'),
 	 (521,207,'Chevalier Gowenlock','cgowenlockeg@hugedomains.com'),
 	 (522,327,'Ulrika Rope','uropeeh@imgur.com'),
@@ -965,9 +964,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (524,272,'Jarid Mauchline','jmauchlineej@hp.com'),
 	 (524,454,'Jarid Mauchline','jmauchlineej@hp.com'),
 	 (524,744,'Jarid Mauchline','jmauchlineej@hp.com'),
-	 (525,19,'Cristi Boustred','cboustredek@bing.com');
+	 (525,19,'Cristi Boustred','cboustredek@bing.com'),
+	 (525,706,'Cristi Boustred','cboustredek@bing.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (525,706,'Cristi Boustred','cboustredek@bing.com'),
 	 (525,840,'Cristi Boustred','cboustredek@bing.com'),
 	 (526,735,'Keane Adamoli','kadamoliel@prnewswire.com'),
 	 (527,528,'Hirsch Pickworth','hpickworthem@shinystat.com'),
@@ -976,9 +975,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (528,718,'Laurel Brassington','lbrassingtonen@smh.com.au'),
 	 (529,836,'Kienan Fenkel','kfenkeleo@amazon.co.uk'),
 	 (529,908,'Kienan Fenkel','kfenkeleo@amazon.co.uk'),
-	 (530,78,'Leonanie Nolleth','lnollethep@4shared.com');
+	 (530,78,'Leonanie Nolleth','lnollethep@4shared.com'),
+	 (530,874,'Leonanie Nolleth','lnollethep@4shared.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (530,874,'Leonanie Nolleth','lnollethep@4shared.com'),
 	 (530,971,'Leonanie Nolleth','lnollethep@4shared.com'),
 	 (531,45,'Ailina Arthur','aarthureq@reuters.com'),
 	 (532,370,'Fran Hourigan','fhouriganer@ning.com'),
@@ -987,20 +986,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (533,761,'Stuart Slyford','sslyfordes@ucoz.com'),
 	 (533,857,'Stuart Slyford','sslyfordes@ucoz.com'),
 	 (534,403,'Chastity Cornewall','ccornewallet@dailymail.co.uk'),
-	 (535,529,'Emelen Duckworth','educkwortheu@moonfruit.com');
+	 (535,529,'Emelen Duckworth','educkwortheu@moonfruit.com'),
+	 (536,121,'Crysta Hibling','chiblingev@marketwatch.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (536,121,'Crysta Hibling','chiblingev@marketwatch.com'),
 	 (537,9,'Catina Cromar','ccromarew@quantcast.com'),
 	 (538,337,'Dottie Poyntz','dpoyntzex@europa.eu'),
 	 (538,803,'Dottie Poyntz','dpoyntzex@europa.eu'),
-	 (539,828,'Jane McCreath','jmccreathey@samsung.com'),
-	 (539,879,'Jane McCreath','jmccreathey@samsung.com'),
+	 (539,828,'Jane Mccreath','jmccreathey@samsung.com'),
+	 (539,879,'Jane Mccreath','jmccreathey@samsung.com'),
 	 (540,75,'Tonya Eitter','teitterez@google.com.br'),
 	 (540,829,'Tonya Eitter','teitterez@google.com.br'),
 	 (541,30,'Vina Parks','vparksf0@patch.com'),
-	 (541,928,'Vina Parks','vparksf0@patch.com');
+	 (541,928,'Vina Parks','vparksf0@patch.com'),
+	 (542,675,'Lyndy Newcom','lnewcomf1@topsy.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (542,675,'Lyndy Newcom','lnewcomf1@topsy.com'),
 	 (543,745,'Tierney Sturte','tsturtef2@army.mil'),
 	 (543,853,'Tierney Sturte','tsturtef2@army.mil'),
 	 (544,129,'Winifield Esh','weshf3@icio.us'),
@@ -1009,9 +1008,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (545,78,'Nowell Handke','nhandkef4@cpanel.net'),
 	 (545,263,'Nowell Handke','nhandkef4@cpanel.net'),
 	 (546,109,'Danice Matthiesen','dmatthiesenf5@i2i.jp'),
-	 (546,232,'Danice Matthiesen','dmatthiesenf5@i2i.jp');
+	 (546,232,'Danice Matthiesen','dmatthiesenf5@i2i.jp'),
+	 (547,21,'Fabe Filintsev','ffilintsevf6@boston.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (547,21,'Fabe Filintsev','ffilintsevf6@boston.com'),
 	 (548,212,'Poppy Curnucke','pcurnuckef7@go.com'),
 	 (549,409,'Lorelle Davidson','ldavidsonf8@admin.ch'),
 	 (549,550,'Lorelle Davidson','ldavidsonf8@admin.ch'),
@@ -1020,9 +1019,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (551,355,'Deonne Lowen','dlowenfa@freewebs.com'),
 	 (551,800,'Deonne Lowen','dlowenfa@freewebs.com'),
 	 (551,998,'Deonne Lowen','dlowenfa@freewebs.com'),
-	 (552,505,'Elianora Golder','egolderfb@google.ru');
+	 (552,505,'Elianora Golder','egolderfb@google.ru'),
+	 (552,869,'Elianora Golder','egolderfb@google.ru');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (552,869,'Elianora Golder','egolderfb@google.ru'),
 	 (553,196,'Meridel Bradborne','mbradbornefc@dmoz.org'),
 	 (554,232,'Jammie Boosey','jbooseyfd@bbc.co.uk'),
 	 (555,38,'Patsy Hicks','phicksfe@pinterest.com'),
@@ -1031,9 +1030,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (557,560,'Meier Allbones','mallbonesfg@sogou.com'),
 	 (558,330,'Agnella Massie','amassiefh@google.ca'),
 	 (559,389,'Cthrine Spence','cspencefi@cnbc.com'),
-	 (560,226,'Donia Jannings','djanningsfj@bizjournals.com');
+	 (560,226,'Donia Jannings','djanningsfj@bizjournals.com'),
+	 (561,50,'Tammie Middle','tmiddlefk@acquirethisname.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (561,50,'Tammie Middle','tmiddlefk@acquirethisname.com'),
 	 (561,331,'Tammie Middle','tmiddlefk@acquirethisname.com'),
 	 (562,494,'Eddi "De Mattei"','edematteifl@latimes.com'),
 	 (563,148,'Monte Birdall','mbirdallfm@businesswire.com'),
@@ -1042,9 +1041,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (565,70,'Theo Maureen','tmaureenfo@youku.com'),
 	 (565,85,'Theo Maureen','tmaureenfo@youku.com'),
 	 (565,182,'Theo Maureen','tmaureenfo@youku.com'),
-	 (566,366,'Kissie Sneller','ksnellerfp@vk.com');
+	 (566,366,'Kissie Sneller','ksnellerfp@vk.com'),
+	 (567,537,'Rivkah Flott','rflottfq@amazon.de');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (567,537,'Rivkah Flott','rflottfq@amazon.de'),
 	 (567,933,'Rivkah Flott','rflottfq@amazon.de'),
 	 (568,11,'Raquel Coleford','rcolefordfr@indiegogo.com'),
 	 (568,123,'Raquel Coleford','rcolefordfr@indiegogo.com'),
@@ -1053,9 +1052,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (570,627,'Astrid Moules','amoulesft@networkadvertising.org'),
 	 (570,788,'Astrid Moules','amoulesft@networkadvertising.org'),
 	 (571,703,'Freeman Blore','fblorefu@comcast.net'),
-	 (572,969,'Hardy Studdert','hstuddertfv@flavors.me');
+	 (572,969,'Hardy Studdert','hstuddertfv@flavors.me'),
+	 (573,6,'Marlin Tackle','mtacklefw@mit.edu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (573,6,'Marlin Tackle','mtacklefw@mit.edu'),
 	 (573,393,'Marlin Tackle','mtacklefw@mit.edu'),
 	 (573,800,'Marlin Tackle','mtacklefw@mit.edu'),
 	 (574,3,'Shermy Pauls','spaulsfx@google.pl'),
@@ -1064,9 +1063,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (576,123,'Fiona Elderbrant','felderbrantfz@163.com'),
 	 (577,360,'Dicky Hof','dhofg0@tumblr.com'),
 	 (578,172,'Lynea Matskevich','lmatskevichg1@japanpost.jp'),
-	 (579,494,'Bennie Trigg','btriggg2@stanford.edu');
+	 (579,494,'Bennie Trigg','btriggg2@stanford.edu'),
+	 (580,268,'Maighdiln Damiral','mdamiralg3@google.com.hk');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (580,268,'Maighdiln Damiral','mdamiralg3@google.com.hk'),
 	 (581,599,'Robyn Westpfel','rwestpfelg4@blogtalkradio.com'),
 	 (581,624,'Robyn Westpfel','rwestpfelg4@blogtalkradio.com'),
 	 (582,572,'Roseann Utridge','rutridgeg5@free.fr'),
@@ -1075,9 +1074,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (585,420,'Leoline Colrein','lcolreing8@europa.eu'),
 	 (586,456,'Harrie Malt','hmaltg9@walmart.com'),
 	 (587,764,'Puff Owthwaite','powthwaitega@xing.com'),
-	 (588,316,'Rock Collyns','rcollynsgb@washington.edu');
+	 (588,316,'Rock Collyns','rcollynsgb@washington.edu'),
+	 (589,720,'Aldridge Sharrier','asharriergc@clickbank.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (589,720,'Aldridge Sharrier','asharriergc@clickbank.net'),
 	 (589,922,'Aldridge Sharrier','asharriergc@clickbank.net'),
 	 (590,85,'Josephina Bunson','jbunsongd@biglobe.ne.jp'),
 	 (590,923,'Josephina Bunson','jbunsongd@biglobe.ne.jp'),
@@ -1086,9 +1085,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (592,876,'Staford Antognazzi','santognazzigf@chronoengine.com'),
 	 (593,551,'Lorita Ouldred','louldredgg@wordpress.org'),
 	 (593,581,'Lorita Ouldred','louldredgg@wordpress.org'),
-	 (593,849,'Lorita Ouldred','louldredgg@wordpress.org');
+	 (593,849,'Lorita Ouldred','louldredgg@wordpress.org'),
+	 (594,612,'Derek Schober','dschobergh@networksolutions.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (594,612,'Derek Schober','dschobergh@networksolutions.com'),
 	 (595,159,'Pearl Nutbeem','pnutbeemgi@sitemeter.com'),
 	 (596,537,'Gerianna Valente','gvalentegj@wunderground.com'),
 	 (597,438,'Patty O''Rudden','poruddengk@ted.com'),
@@ -1097,20 +1096,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (598,796,'Paxton Baroux','pbarouxgl@free.fr'),
 	 (599,77,'Jamesy Scandred','jscandredgm@imdb.com'),
 	 (600,850,'Sallee Heaviside','sheavisidegn@oakley.com'),
-	 (600,914,'Sallee Heaviside','sheavisidegn@oakley.com');
+	 (600,914,'Sallee Heaviside','sheavisidegn@oakley.com'),
+	 (601,937,'Kerry Pepis','kpepisgo@163.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (601,937,'Kerry Pepis','kpepisgo@163.com'),
 	 (602,60,'Wat Probart','wprobartgp@prlog.org'),
 	 (602,974,'Wat Probart','wprobartgp@prlog.org'),
 	 (603,677,'Craig Graine','cgrainegq@altervista.org'),
-	 (604,589,'Agace MacKinnon','amackinnongr@live.com'),
-	 (604,951,'Agace MacKinnon','amackinnongr@live.com'),
+	 (604,589,'Agace Mackinnon','amackinnongr@live.com'),
+	 (604,951,'Agace Mackinnon','amackinnongr@live.com'),
 	 (605,168,'Clayborn Greenfield','cgreenfieldgs@stumbleupon.com'),
 	 (605,766,'Clayborn Greenfield','cgreenfieldgs@stumbleupon.com'),
 	 (606,562,'Neall Fligg','nfligggt@1688.com'),
-	 (606,689,'Neall Fligg','nfligggt@1688.com');
+	 (606,689,'Neall Fligg','nfligggt@1688.com'),
+	 (606,939,'Neall Fligg','nfligggt@1688.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (606,939,'Neall Fligg','nfligggt@1688.com'),
 	 (606,973,'Neall Fligg','nfligggt@1688.com'),
 	 (607,323,'Rosetta Clegg','rclegggu@skyrock.com'),
 	 (607,371,'Rosetta Clegg','rclegggu@skyrock.com'),
@@ -1119,9 +1118,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (608,414,'Sigismondo Collicott','scollicottgv@youtu.be'),
 	 (608,675,'Sigismondo Collicott','scollicottgv@youtu.be'),
 	 (608,679,'Sigismondo Collicott','scollicottgv@youtu.be'),
-	 (609,988,'Isadora Kittoe','ikittoegw@biblegateway.com');
+	 (609,988,'Isadora Kittoe','ikittoegw@biblegateway.com'),
+	 (610,835,'Regan Athersmith','rathersmithgx@newyorker.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (610,835,'Regan Athersmith','rathersmithgx@newyorker.com'),
 	 (611,342,'Grantley Sanderson','gsandersongy@bloglines.com'),
 	 (611,600,'Grantley Sanderson','gsandersongy@bloglines.com'),
 	 (612,548,'Gerianna Vinecombe','gvinecombegz@admin.ch'),
@@ -1130,9 +1129,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (613,700,'Lorne Blaney','lblaneyh0@trellian.com'),
 	 (614,39,'Thorstein Crufts','tcruftsh1@yahoo.com'),
 	 (615,153,'Mamie Weathers','mweathersh2@simplemachines.org'),
-	 (616,548,'Culver Seys','cseysh3@tiny.cc');
+	 (616,548,'Culver Seys','cseysh3@tiny.cc'),
+	 (616,876,'Culver Seys','cseysh3@tiny.cc');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (616,876,'Culver Seys','cseysh3@tiny.cc'),
 	 (617,162,'Valentine Fonteyne','vfonteyneh4@livejournal.com'),
 	 (617,520,'Valentine Fonteyne','vfonteyneh4@livejournal.com'),
 	 (618,36,'Melissa Capoun','mcapounh5@illinois.edu'),
@@ -1141,9 +1140,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (619,660,'Craig D''Acth','cdacthh6@jigsy.com'),
 	 (620,24,'Salomone Rummin','srumminh7@opera.com'),
 	 (621,323,'Keely Ferebee','kferebeeh8@senate.gov'),
-	 (621,998,'Keely Ferebee','kferebeeh8@senate.gov');
+	 (621,998,'Keely Ferebee','kferebeeh8@senate.gov'),
+	 (622,115,'Alisa Normanell','anormanellh9@bluehost.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (622,115,'Alisa Normanell','anormanellh9@bluehost.com'),
 	 (622,600,'Alisa Normanell','anormanellh9@bluehost.com'),
 	 (622,716,'Alisa Normanell','anormanellh9@bluehost.com'),
 	 (622,893,'Alisa Normanell','anormanellh9@bluehost.com'),
@@ -1151,11 +1150,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (624,784,'Sidonnie Bartel','sbartelhb@plala.or.jp'),
 	 (625,920,'Merwyn Marshallsay','mmarshallsayhc@bloglines.com'),
 	 (626,196,'Audy Dods','adodshd@fema.gov'),
-	 (1587,884,'Bev Try','btryga@1688.com'),
-	 (627,118,'Ellerey Mucklestone','emucklestonehe@domainmarket.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (627,118,'Ellerey Mucklestone','emucklestonehe@domainmarket.com'),
 	 (628,338,'Carey Paolini','cpaolinihf@admin.ch'),
-	 (628,714,'Carey Paolini','cpaolinihf@admin.ch'),
+	 (628,714,'Carey Paolini','cpaolinihf@admin.ch');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (629,46,'Nicko Coppard','ncoppardhg@loc.gov'),
 	 (629,728,'Nicko Coppard','ncoppardhg@loc.gov'),
 	 (630,229,'Tarrah Tullot','ttullothh@aboutads.info'),
@@ -1163,10 +1161,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (631,294,'Dare Danelut','ddaneluthi@amazon.co.jp'),
 	 (631,783,'Dare Danelut','ddaneluthi@amazon.co.jp'),
 	 (631,800,'Dare Danelut','ddaneluthi@amazon.co.jp'),
-	 (632,813,'Zarah Huerta','zhuertahj@goo.gl');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (632,813,'Zarah Huerta','zhuertahj@goo.gl'),
 	 (633,371,'Pierette Duplain','pduplainhk@netscape.com'),
-	 (633,428,'Pierette Duplain','pduplainhk@netscape.com'),
+	 (633,428,'Pierette Duplain','pduplainhk@netscape.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (633,974,'Pierette Duplain','pduplainhk@netscape.com'),
 	 (634,733,'Robinet Bailey','rbaileyhl@state.tx.us'),
 	 (635,401,'Andonis Roswarne','aroswarnehm@sbwire.com'),
@@ -1174,10 +1172,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (636,292,'Gill Summerfield','gsummerfieldhn@canalblog.com'),
 	 (636,724,'Gill Summerfield','gsummerfieldhn@canalblog.com'),
 	 (636,786,'Gill Summerfield','gsummerfieldhn@canalblog.com'),
-	 (637,775,'Dina Angelini','dangeliniho@tripadvisor.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (637,775,'Dina Angelini','dangeliniho@tripadvisor.com'),
 	 (638,483,'Halimeda Briant','hbrianthp@scribd.com'),
-	 (638,608,'Halimeda Briant','hbrianthp@scribd.com'),
+	 (638,608,'Halimeda Briant','hbrianthp@scribd.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (639,549,'Joela Liptrot','jliptrothq@over-blog.com'),
 	 (640,151,'Conrade Kollatsch','ckollatschhr@is.gd'),
 	 (641,298,'Kendell Aldis','kaldishs@naver.com'),
@@ -1185,10 +1183,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (642,968,'Ky Mitchiner','kmitchinerht@europa.eu'),
 	 (643,375,'Kate Vaughn','kvaughnhu@upenn.edu'),
 	 (643,403,'Kate Vaughn','kvaughnhu@upenn.edu'),
-	 (643,443,'Kate Vaughn','kvaughnhu@upenn.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (643,443,'Kate Vaughn','kvaughnhu@upenn.edu'),
 	 (644,938,'Ferne Dalbey','fdalbeyhv@examiner.com'),
-	 (645,888,'Rena Hentze','rhentzehw@plala.or.jp'),
+	 (645,888,'Rena Hentze','rhentzehw@plala.or.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (646,402,'Grantley Clyburn','gclyburnhx@house.gov'),
 	 (647,876,'Claudio Woan','cwoanhy@nytimes.com'),
 	 (648,85,'Tessie Sleigh','tsleighhz@ftc.gov'),
@@ -1196,10 +1194,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (648,271,'Tessie Sleigh','tsleighhz@ftc.gov'),
 	 (649,725,'Clair Heaysman','cheaysmani0@netvibes.com'),
 	 (650,471,'Reuben Usher','rusheri1@nps.gov'),
-	 (650,803,'Reuben Usher','rusheri1@nps.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (650,803,'Reuben Usher','rusheri1@nps.gov'),
 	 (651,106,'Dorie Burkinshaw','dburkinshawi2@skype.com'),
-	 (652,815,'Cornie Banthorpe','cbanthorpei3@elegantthemes.com'),
+	 (652,815,'Cornie Banthorpe','cbanthorpei3@elegantthemes.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (652,909,'Cornie Banthorpe','cbanthorpei3@elegantthemes.com'),
 	 (653,481,'Ricardo Silber','rsilberi4@wikimedia.org'),
 	 (654,195,'Cecile Hrinishin','chrinishini5@newsvine.com'),
@@ -1207,10 +1205,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (656,445,'Ahmad Skittrell','askittrelli7@microsoft.com'),
 	 (656,682,'Ahmad Skittrell','askittrelli7@microsoft.com'),
 	 (657,99,'Sven Decent','sdecenti8@usda.gov'),
-	 (657,317,'Sven Decent','sdecenti8@usda.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (657,317,'Sven Decent','sdecenti8@usda.gov'),
 	 (658,465,'Yankee Kremer','ykremeri9@google.pl'),
-	 (658,875,'Yankee Kremer','ykremeri9@google.pl'),
+	 (658,875,'Yankee Kremer','ykremeri9@google.pl');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (659,67,'Tobey Vallens','tvallensia@mapquest.com'),
 	 (659,642,'Tobey Vallens','tvallensia@mapquest.com'),
 	 (659,764,'Tobey Vallens','tvallensia@mapquest.com'),
@@ -1218,10 +1216,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (661,348,'Parke Grinham','pgrinhamic@soundcloud.com'),
 	 (661,536,'Parke Grinham','pgrinhamic@soundcloud.com'),
 	 (662,760,'Normand Muldoon','nmuldoonid@wix.com'),
-	 (663,461,'Teodoro Thraves','tthravesie@google.de');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (663,461,'Teodoro Thraves','tthravesie@google.de'),
 	 (664,566,'Mirilla Hexum','mhexumif@twitpic.com'),
-	 (665,267,'Pip Depper','pdepperig@tmall.com'),
+	 (665,267,'Pip Depper','pdepperig@tmall.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (665,731,'Pip Depper','pdepperig@tmall.com'),
 	 (666,61,'Adriane Kays','akaysih@amazon.de'),
 	 (666,69,'Adriane Kays','akaysih@amazon.de'),
@@ -1229,10 +1227,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (667,207,'Spence Crier','scrierii@tumblr.com'),
 	 (668,102,'Juliana Tribell','jtribellij@prlog.org'),
 	 (668,414,'Juliana Tribell','jtribellij@prlog.org'),
-	 (668,619,'Juliana Tribell','jtribellij@prlog.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (668,619,'Juliana Tribell','jtribellij@prlog.org'),
 	 (669,647,'Annemarie Musterd','amusterdik@europa.eu'),
-	 (670,265,'Louisette Brattan','lbrattanil@salon.com'),
+	 (670,265,'Louisette Brattan','lbrattanil@salon.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (670,878,'Louisette Brattan','lbrattanil@salon.com'),
 	 (671,797,'Ronica Possell','rpossellim@constantcontact.com'),
 	 (672,328,'Hardy Dundendale','hdundendalein@fotki.com'),
@@ -1240,10 +1238,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (673,140,'Fran Valero','fvaleroio@tmall.com'),
 	 (674,737,'Horace Craske','hcraskeip@ameblo.jp'),
 	 (674,766,'Horace Craske','hcraskeip@ameblo.jp'),
-	 (674,910,'Horace Craske','hcraskeip@ameblo.jp');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (674,910,'Horace Craske','hcraskeip@ameblo.jp'),
 	 (675,973,'Dore Edington','dedingtoniq@bluehost.com'),
-	 (676,412,'Jasen Chansonnau','jchansonnauir@wikispaces.com'),
+	 (676,412,'Jasen Chansonnau','jchansonnauir@wikispaces.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (677,324,'Nial Giraux','ngirauxis@nationalgeographic.com'),
 	 (677,650,'Nial Giraux','ngirauxis@nationalgeographic.com'),
 	 (677,822,'Nial Giraux','ngirauxis@nationalgeographic.com'),
@@ -1251,10 +1249,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (678,742,'Raeann Doole','rdooleit@wired.com'),
 	 (679,944,'Benetta Bussell','bbusselliu@wp.com'),
 	 (680,298,'Granville Cluff','gcluffiv@virginia.edu'),
-	 (680,331,'Granville Cluff','gcluffiv@virginia.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (680,331,'Granville Cluff','gcluffiv@virginia.edu'),
 	 (681,235,'Vivi Lightman','vlightmaniw@flickr.com'),
-	 (681,446,'Vivi Lightman','vlightmaniw@flickr.com'),
+	 (681,446,'Vivi Lightman','vlightmaniw@flickr.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (681,834,'Vivi Lightman','vlightmaniw@flickr.com'),
 	 (682,940,'Vonny Edmondson','vedmondsonix@seesaa.net'),
 	 (683,183,'Archibaldo Bustin','abustiniy@java.com'),
@@ -1262,10 +1260,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (683,840,'Archibaldo Bustin','abustiniy@java.com'),
 	 (684,866,'Emma Samweyes','esamweyesiz@addtoany.com'),
 	 (685,87,'Sly Botham','sbothamj0@dell.com'),
-	 (685,161,'Sly Botham','sbothamj0@dell.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (685,161,'Sly Botham','sbothamj0@dell.com'),
 	 (686,502,'Rubie Lauks','rlauksj1@vkontakte.ru'),
-	 (686,547,'Rubie Lauks','rlauksj1@vkontakte.ru'),
+	 (686,547,'Rubie Lauks','rlauksj1@vkontakte.ru');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (686,698,'Rubie Lauks','rlauksj1@vkontakte.ru'),
 	 (687,534,'Kennett Ambroisin','kambroisinj2@ft.com'),
 	 (688,668,'Gloriane Bowe','gbowej3@webs.com'),
@@ -1273,10 +1271,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (690,72,'Marty Gatheridge','mgatheridgej5@bandcamp.com'),
 	 (690,791,'Marty Gatheridge','mgatheridgej5@bandcamp.com'),
 	 (691,577,'Raynell Stoneley','rstoneleyj6@slideshare.net'),
-	 (692,900,'Appolonia Czyz','aczyzj7@buzzfeed.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (692,900,'Appolonia Czyz','aczyzj7@buzzfeed.com'),
 	 (693,597,'Marj Brisse','mbrissej8@addthis.com'),
-	 (694,363,'Abel Trower','atrowerj9@ucoz.ru'),
+	 (694,363,'Abel Trower','atrowerj9@ucoz.ru');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (695,648,'Lucia Fearon','lfearonja@bloglines.com'),
 	 (696,665,'Barri Loughton','bloughtonjb@artisteer.com'),
 	 (697,878,'Eda Garrish','egarrishjc@reuters.com'),
@@ -1284,10 +1282,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (699,158,'Franky Downie','fdownieje@weebly.com'),
 	 (700,159,'Shamus Othick','sothickjf@apache.org'),
 	 (700,906,'Shamus Othick','sothickjf@apache.org'),
-	 (701,599,'Burlie Richmond','brichmondjg@shareasale.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (701,599,'Burlie Richmond','brichmondjg@shareasale.com'),
 	 (701,947,'Burlie Richmond','brichmondjg@shareasale.com'),
-	 (701,969,'Burlie Richmond','brichmondjg@shareasale.com'),
+	 (701,969,'Burlie Richmond','brichmondjg@shareasale.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (702,197,'Mag Dring','mdringjh@cbc.ca'),
 	 (702,579,'Mag Dring','mdringjh@cbc.ca'),
 	 (703,337,'Oralee Melesk','omeleskji@bizjournals.com'),
@@ -1295,10 +1293,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (704,708,'Moe Gerkens','mgerkensjj@g.co'),
 	 (705,404,'Ginnifer Elvidge','gelvidgejk@cbc.ca'),
 	 (705,939,'Ginnifer Elvidge','gelvidgejk@cbc.ca'),
-	 (706,893,'Martin Lidgley','mlidgleyjl@amazon.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (706,893,'Martin Lidgley','mlidgleyjl@amazon.com'),
 	 (707,610,'Nertie Beautyman','nbeautymanjm@cnet.com'),
-	 (708,899,'Allianora Boerder','aboerderjn@myspace.com'),
+	 (708,899,'Allianora Boerder','aboerderjn@myspace.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (708,911,'Allianora Boerder','aboerderjn@myspace.com'),
 	 (709,619,'Hermia Donnelly','hdonnellyjo@google.com.au'),
 	 (710,375,'Jewel Jarnell','jjarnelljp@army.mil'),
@@ -1306,10 +1304,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (711,81,'Ardella Walley','awalleyjq@hexun.com'),
 	 (711,955,'Ardella Walley','awalleyjq@hexun.com'),
 	 (712,387,'Penni Nobriga','pnobrigajr@exblog.jp'),
-	 (713,98,'Harlin Passfield','hpassfieldjs@yahoo.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (713,98,'Harlin Passfield','hpassfieldjs@yahoo.com'),
 	 (713,583,'Harlin Passfield','hpassfieldjs@yahoo.com'),
-	 (714,67,'Kilian Mayer','kmayerjt@unc.edu'),
+	 (714,67,'Kilian Mayer','kmayerjt@unc.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (714,531,'Kilian Mayer','kmayerjt@unc.edu'),
 	 (715,107,'Dulcy Thrush','dthrushju@edublogs.org'),
 	 (716,23,'Addison Sigg','asiggjv@goo.gl'),
@@ -1317,10 +1315,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (717,588,'Wilhelm Loosley','wloosleyjw@phoca.cz'),
 	 (717,632,'Wilhelm Loosley','wloosleyjw@phoca.cz'),
 	 (718,251,'Derick Casella','dcasellajx@hostgator.com'),
-	 (718,321,'Derick Casella','dcasellajx@hostgator.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (718,321,'Derick Casella','dcasellajx@hostgator.com'),
 	 (719,136,'Jeffry Spohrmann','jspohrmannjy@homestead.com'),
-	 (719,377,'Jeffry Spohrmann','jspohrmannjy@homestead.com'),
+	 (719,377,'Jeffry Spohrmann','jspohrmannjy@homestead.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (720,941,'Bryan Ansett','bansettjz@weebly.com'),
 	 (721,53,'Edita Bardwell','ebardwellk0@accuweather.com'),
 	 (721,149,'Edita Bardwell','ebardwellk0@accuweather.com'),
@@ -1328,21 +1326,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (723,876,'Netty Dinnage','ndinnagek2@oaic.gov.au'),
 	 (724,723,'Oren Crecy','ocrecyk3@telegraph.co.uk'),
 	 (725,111,'Ive Jachimiak','ijachimiakk4@toplist.cz'),
-	 (725,198,'Ive Jachimiak','ijachimiakk4@toplist.cz');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (725,198,'Ive Jachimiak','ijachimiakk4@toplist.cz'),
 	 (726,105,'Maurine Jahns','mjahnsk5@alexa.com'),
-	 (727,120,'Derrek Pellman','dpellmank6@pinterest.com'),
-	 (728,70,'Hayyim "de la Tremoille"','hdelatremoillek7@netvibes.com'),
+	 (727,120,'Derrek Pellman','dpellmank6@pinterest.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (728,70,'Hayyim "De La Tremoille"','hdelatremoillek7@netvibes.com'),
 	 (729,45,'Jackqueline Sidnell','jsidnellk8@answers.com'),
 	 (729,441,'Jackqueline Sidnell','jsidnellk8@answers.com'),
 	 (729,880,'Jackqueline Sidnell','jsidnellk8@answers.com'),
 	 (730,974,'Ramsey Snaden','rsnadenk9@ebay.co.uk'),
 	 (731,16,'Roxanna Burchmore','rburchmoreka@boston.com'),
 	 (731,192,'Roxanna Burchmore','rburchmoreka@boston.com'),
-	 (732,910,'Randa Punyer','rpunyerkb@deliciousdays.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (732,910,'Randa Punyer','rpunyerkb@deliciousdays.com'),
 	 (733,677,'Aguste Alleburton','aalleburtonkc@yellowbook.com'),
-	 (734,395,'Harriot Korpolak','hkorpolakkd@nih.gov'),
+	 (734,395,'Harriot Korpolak','hkorpolakkd@nih.gov');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (734,740,'Harriot Korpolak','hkorpolakkd@nih.gov'),
 	 (735,301,'Sue Bohlin','sbohlinke@mapy.cz'),
 	 (735,558,'Sue Bohlin','sbohlinke@mapy.cz'),
@@ -1350,10 +1348,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (736,755,'Oran Feirn','ofeirnkf@dropbox.com'),
 	 (737,59,'Carmine Sporton','csportonkg@craigslist.org'),
 	 (737,197,'Carmine Sporton','csportonkg@craigslist.org'),
-	 (737,597,'Carmine Sporton','csportonkg@craigslist.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (737,597,'Carmine Sporton','csportonkg@craigslist.org'),
 	 (737,633,'Carmine Sporton','csportonkg@craigslist.org'),
-	 (737,833,'Carmine Sporton','csportonkg@craigslist.org'),
+	 (737,833,'Carmine Sporton','csportonkg@craigslist.org');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (738,441,'Nancie Naper','nnaperkh@artisteer.com'),
 	 (739,555,'Serena Prudence','sprudenceki@about.com'),
 	 (740,192,'Craggie Othick','cothickkj@engadget.com'),
@@ -1361,10 +1359,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (741,244,'Orsa Lotwich','olotwichkk@desdev.cn'),
 	 (742,571,'Rosmunda Quaife','rquaifekl@ifeng.com'),
 	 (742,769,'Rosmunda Quaife','rquaifekl@ifeng.com'),
-	 (743,619,'Curr Lansberry','clansberrykm@cocolog-nifty.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (743,619,'Curr Lansberry','clansberrykm@cocolog-nifty.com'),
 	 (743,761,'Curr Lansberry','clansberrykm@cocolog-nifty.com'),
-	 (744,763,'Nels Antrag','nantragkn@sphinn.com'),
+	 (744,763,'Nels Antrag','nantragkn@sphinn.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (744,850,'Nels Antrag','nantragkn@sphinn.com'),
 	 (745,475,'Florance Cullingford','fcullingfordko@youtube.com'),
 	 (746,23,'Nady Portman','nportmankp@unblog.fr'),
@@ -1372,10 +1370,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (746,696,'Nady Portman','nportmankp@unblog.fr'),
 	 (747,666,'Sileas Mattingly','smattinglykq@eepurl.com'),
 	 (748,176,'Ritchie Whittet','rwhittetkr@odnoklassniki.ru'),
-	 (748,638,'Ritchie Whittet','rwhittetkr@odnoklassniki.ru');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (748,638,'Ritchie Whittet','rwhittetkr@odnoklassniki.ru'),
 	 (748,884,'Ritchie Whittet','rwhittetkr@odnoklassniki.ru'),
-	 (749,63,'Rancell Colyer','rcolyerks@hexun.com'),
+	 (749,63,'Rancell Colyer','rcolyerks@hexun.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (749,243,'Rancell Colyer','rcolyerks@hexun.com'),
 	 (750,540,'Othella Khan','okhankt@about.com'),
 	 (750,638,'Othella Khan','okhankt@about.com'),
@@ -1383,10 +1381,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (751,727,'Lynnett Heaffey','lheaffeyku@telegraph.co.uk'),
 	 (752,259,'Seline Waghorne','swaghornekv@parallels.com'),
 	 (752,453,'Seline Waghorne','swaghornekv@parallels.com'),
-	 (753,411,'Horst "Van Der Hoog"','hvanderhoogkw@weebly.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (753,411,'Horst "Van Der Hoog"','hvanderhoogkw@weebly.com'),
 	 (753,486,'Horst "Van Der Hoog"','hvanderhoogkw@weebly.com'),
-	 (754,111,'Kalvin Wasiel','kwasielkx@amazon.com'),
+	 (754,111,'Kalvin Wasiel','kwasielkx@amazon.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (754,503,'Kalvin Wasiel','kwasielkx@amazon.com'),
 	 (755,85,'Pearline Dreamer','pdreamerky@alexa.com'),
 	 (755,399,'Pearline Dreamer','pdreamerky@alexa.com'),
@@ -1394,10 +1392,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (757,61,'Tyrus Seiler','tseilerl0@biglobe.ne.jp'),
 	 (757,663,'Tyrus Seiler','tseilerl0@biglobe.ne.jp'),
 	 (758,17,'Shannah Norcliffe','snorcliffel1@soundcloud.com'),
-	 (758,224,'Shannah Norcliffe','snorcliffel1@soundcloud.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (758,224,'Shannah Norcliffe','snorcliffel1@soundcloud.com'),
 	 (759,334,'Konstance Vynarde','kvynardel2@nifty.com'),
-	 (759,820,'Konstance Vynarde','kvynardel2@nifty.com'),
+	 (759,820,'Konstance Vynarde','kvynardel2@nifty.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (760,186,'Lacey Woolbrook','lwoolbrookl3@slideshare.net'),
 	 (760,841,'Lacey Woolbrook','lwoolbrookl3@slideshare.net'),
 	 (761,712,'Veradis Fulk','vfulkl4@elegantthemes.com'),
@@ -1405,10 +1403,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (762,911,'Leonard Fullerlove','lfullerlovel5@comcast.net'),
 	 (763,177,'Lauri Oldrey','loldreyl6@ucla.edu'),
 	 (763,217,'Lauri Oldrey','loldreyl6@ucla.edu'),
-	 (764,129,'Giuditta Giorgetti','ggiorgettil7@state.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (764,129,'Giuditta Giorgetti','ggiorgettil7@state.gov'),
 	 (764,869,'Giuditta Giorgetti','ggiorgettil7@state.gov'),
-	 (765,188,'Cyrillus Claisse','cclaissel8@narod.ru'),
+	 (765,188,'Cyrillus Claisse','cclaissel8@narod.ru');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (765,486,'Cyrillus Claisse','cclaissel8@narod.ru'),
 	 (766,174,'Goldia Malia','gmalial9@parallels.com'),
 	 (766,847,'Goldia Malia','gmalial9@parallels.com'),
@@ -1416,21 +1414,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (767,215,'Lynette Hucke','lhuckela@com.com'),
 	 (767,991,'Lynette Hucke','lhuckela@com.com'),
 	 (768,556,'Traver Bumpus','tbumpuslb@mashable.com'),
-	 (769,844,'Tull Jansens','tjansenslc@ameblo.jp');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (769,844,'Tull Jansens','tjansenslc@ameblo.jp'),
 	 (770,273,'Anabel Poon','apoonld@google.es'),
-	 (771,617,'Adair Frome','afromele@1688.com'),
+	 (771,617,'Adair Frome','afromele@1688.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (771,798,'Adair Frome','afromele@1688.com'),
 	 (771,885,'Adair Frome','afromele@1688.com'),
-	 (772,343,'Tybalt McOwen','tmcowenlf@storify.com'),
-	 (772,855,'Tybalt McOwen','tmcowenlf@storify.com'),
+	 (772,343,'Tybalt Mcowen','tmcowenlf@storify.com'),
+	 (772,855,'Tybalt Mcowen','tmcowenlf@storify.com'),
 	 (773,473,'Louie Winckle','lwincklelg@shop-pro.jp'),
 	 (773,475,'Louie Winckle','lwincklelg@shop-pro.jp'),
 	 (773,568,'Louie Winckle','lwincklelg@shop-pro.jp'),
-	 (773,698,'Louie Winckle','lwincklelg@shop-pro.jp');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (773,698,'Louie Winckle','lwincklelg@shop-pro.jp'),
 	 (773,963,'Louie Winckle','lwincklelg@shop-pro.jp'),
-	 (774,195,'Brock Pietersen','bpietersenlh@independent.co.uk'),
+	 (774,195,'Brock Pietersen','bpietersenlh@independent.co.uk');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (774,684,'Brock Pietersen','bpietersenlh@independent.co.uk'),
 	 (775,991,'Donavon Jatczak','djatczakli@google.com.hk'),
 	 (776,110,'Maurizia Hartshorne','mhartshornelj@deliciousdays.com'),
@@ -1438,10 +1436,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (777,950,'Meade Ohms','mohmslk@bloomberg.com'),
 	 (778,644,'Nathan Haggith','nhaggithll@ifeng.com'),
 	 (779,481,'Kaitlin Traher','ktraherlm@yelp.com'),
-	 (779,569,'Kaitlin Traher','ktraherlm@yelp.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (779,569,'Kaitlin Traher','ktraherlm@yelp.com'),
 	 (780,809,'Dore Franchi','dfranchiln@edublogs.org'),
-	 (781,227,'Leonerd Cannon','lcannonlo@ucsd.edu'),
+	 (781,227,'Leonerd Cannon','lcannonlo@ucsd.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (781,427,'Leonerd Cannon','lcannonlo@ucsd.edu'),
 	 (781,461,'Leonerd Cannon','lcannonlo@ucsd.edu'),
 	 (782,630,'Myrtie Iuorio','miuoriolp@oakley.com'),
@@ -1449,10 +1447,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (783,152,'Maia Hedgeley','mhedgeleylq@fda.gov'),
 	 (783,187,'Maia Hedgeley','mhedgeleylq@fda.gov'),
 	 (783,927,'Maia Hedgeley','mhedgeleylq@fda.gov'),
-	 (784,686,'Lanie Allbon','lallbonlr@house.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (784,686,'Lanie Allbon','lallbonlr@house.gov'),
 	 (785,164,'Harley Carnew','hcarnewls@angelfire.com'),
-	 (786,278,'Emmy Palfrey','epalfreylt@twitter.com'),
+	 (786,278,'Emmy Palfrey','epalfreylt@twitter.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (787,815,'Harlen Darkins','hdarkinslu@desdev.cn'),
 	 (787,863,'Harlen Darkins','hdarkinslu@desdev.cn'),
 	 (788,90,'Carlotta Baccus','cbaccuslv@dion.ne.jp'),
@@ -1460,10 +1458,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (789,239,'Mano Wilkinson','mwilkinsonlw@census.gov'),
 	 (790,485,'Svend Hamnett','shamnettlx@barnesandnoble.com'),
 	 (790,721,'Svend Hamnett','shamnettlx@barnesandnoble.com'),
-	 (791,621,'Pauli Forrestill','pforrestillly@shutterfly.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (791,621,'Pauli Forrestill','pforrestillly@shutterfly.com'),
 	 (792,467,'Hadley Aikin','haikinlz@ning.com'),
-	 (792,955,'Hadley Aikin','haikinlz@ning.com'),
+	 (792,955,'Hadley Aikin','haikinlz@ning.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (793,69,'Harland Brands','hbrandsm0@businesswire.com'),
 	 (793,245,'Harland Brands','hbrandsm0@businesswire.com'),
 	 (793,766,'Harland Brands','hbrandsm0@businesswire.com'),
@@ -1471,10 +1469,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (795,889,'June Eustice','jeusticem2@java.com'),
 	 (796,489,'Noel Firmage','nfirmagem3@sourceforge.net'),
 	 (796,752,'Noel Firmage','nfirmagem3@sourceforge.net'),
-	 (796,914,'Noel Firmage','nfirmagem3@sourceforge.net');
+	 (796,914,'Noel Firmage','nfirmagem3@sourceforge.net'),
+	 (797,118,'Sarene Mclurg','smclurgm4@edublogs.org'),
+	 (798,799,'Ursula Peniman','upenimanm5@prweb.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (797,118,'Sarene McLurg','smclurgm4@edublogs.org'),
-	 (798,799,'Ursula Peniman','upenimanm5@prweb.com'),
 	 (798,996,'Ursula Peniman','upenimanm5@prweb.com'),
 	 (799,363,'Meara Lindroos','mlindroosm6@mashable.com'),
 	 (799,560,'Meara Lindroos','mlindroosm6@mashable.com'),
@@ -1482,32 +1480,32 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (801,615,'Nester Klaessen','nklaessenm8@bloglines.com'),
 	 (802,853,'Ethelyn Shambrook','eshambrookm9@salon.com'),
 	 (803,557,'Fifine Kinworthy','fkinworthyma@studiopress.com'),
-	 (804,207,'Elinor McCrudden','emccruddenmb@about.me');
+	 (804,207,'Elinor Mccrudden','emccruddenmb@about.me'),
+	 (804,242,'Elinor Mccrudden','emccruddenmb@about.me'),
+	 (804,502,'Elinor Mccrudden','emccruddenmb@about.me');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (804,242,'Elinor McCrudden','emccruddenmb@about.me'),
-	 (804,502,'Elinor McCrudden','emccruddenmb@about.me'),
-	 (804,693,'Elinor McCrudden','emccruddenmb@about.me'),
+	 (804,693,'Elinor Mccrudden','emccruddenmb@about.me'),
 	 (805,115,'Agnes Dunnico','adunnicomc@independent.co.uk'),
 	 (805,655,'Agnes Dunnico','adunnicomc@independent.co.uk'),
 	 (805,926,'Agnes Dunnico','adunnicomc@independent.co.uk'),
 	 (806,215,'Gwyn Cathcart','gcathcartmd@histats.com'),
 	 (807,597,'Wilfrid Curee','wcureeme@japanpost.jp'),
 	 (808,543,'Ondrea Haversham','ohavershammf@ibm.com'),
-	 (809,760,'Kristoffer Lintot','klintotmg@exblog.jp');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (809,760,'Kristoffer Lintot','klintotmg@exblog.jp'),
 	 (809,788,'Kristoffer Lintot','klintotmg@exblog.jp'),
-	 (810,208,'Mickie "Chinge de Hals"','mchingedehalsmh@themeforest.net'),
-	 (810,561,'Mickie "Chinge de Hals"','mchingedehalsmh@themeforest.net'),
+	 (810,208,'Mickie "Chinge De Hals"','mchingedehalsmh@themeforest.net');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (810,561,'Mickie "Chinge De Hals"','mchingedehalsmh@themeforest.net'),
 	 (811,141,'Flore Fateley','ffateleymi@gov.uk'),
 	 (812,960,'Cullin Fransseni','cfranssenimj@histats.com'),
 	 (813,35,'Abigael Trowbridge','atrowbridgemk@meetup.com'),
 	 (814,145,'Clerc Midghall','cmidghallml@163.com'),
 	 (815,561,'Franciska Zamboniari','fzamboniarimm@opensource.org'),
 	 (816,373,'Chuck Felkin','cfelkinmn@guardian.co.uk'),
-	 (817,759,'Hugues Verry','hverrymo@sourceforge.net');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (817,759,'Hugues Verry','hverrymo@sourceforge.net'),
 	 (818,209,'Chrissy Lydiate','clydiatemp@msu.edu'),
-	 (818,412,'Chrissy Lydiate','clydiatemp@msu.edu'),
+	 (818,412,'Chrissy Lydiate','clydiatemp@msu.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (818,787,'Chrissy Lydiate','clydiatemp@msu.edu'),
 	 (819,803,'Jinny Tomblings','jtomblingsmq@illinois.edu'),
 	 (819,826,'Jinny Tomblings','jtomblingsmq@illinois.edu'),
@@ -1515,10 +1513,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (821,72,'Doretta Eilhertsen','deilhertsenms@forbes.com'),
 	 (821,955,'Doretta Eilhertsen','deilhertsenms@forbes.com'),
 	 (822,498,'Merill Sparkwell','msparkwellmt@shareasale.com'),
-	 (823,736,'Ursola Rumbelow','urumbelowmu@prweb.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (823,736,'Ursola Rumbelow','urumbelowmu@prweb.com'),
 	 (824,416,'Kinna Georgelin','kgeorgelinmv@deviantart.com'),
-	 (825,649,'Carolan Pratten','cprattenmw@cyberchimps.com'),
+	 (825,649,'Carolan Pratten','cprattenmw@cyberchimps.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (826,566,'Merrily Feltoe','mfeltoemx@nih.gov'),
 	 (826,619,'Merrily Feltoe','mfeltoemx@nih.gov'),
 	 (827,815,'Zacharia Georg','zgeorgmy@angelfire.com'),
@@ -1526,21 +1524,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (829,93,'Bartholomew Yurukhin','byurukhinn0@infoseek.co.jp'),
 	 (829,988,'Bartholomew Yurukhin','byurukhinn0@infoseek.co.jp'),
 	 (830,749,'Gian Penburton','gpenburtonn1@sitemeter.com'),
-	 (831,659,'Darbee Kalvin','dkalvinn2@prnewswire.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (831,659,'Darbee Kalvin','dkalvinn2@prnewswire.com'),
 	 (831,806,'Darbee Kalvin','dkalvinn2@prnewswire.com'),
-	 (832,820,'Cad Yanshin','cyanshinn3@pen.io'),
-	 (833,220,'Clem McAloren','cmcalorenn4@geocities.jp'),
-	 (833,856,'Clem McAloren','cmcalorenn4@geocities.jp'),
-	 (833,915,'Clem McAloren','cmcalorenn4@geocities.jp'),
+	 (832,820,'Cad Yanshin','cyanshinn3@pen.io');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (833,220,'Clem Mcaloren','cmcalorenn4@geocities.jp'),
+	 (833,856,'Clem Mcaloren','cmcalorenn4@geocities.jp'),
+	 (833,915,'Clem Mcaloren','cmcalorenn4@geocities.jp'),
 	 (834,356,'Thibaud Bangle','tbanglen5@illinois.edu'),
 	 (834,367,'Thibaud Bangle','tbanglen5@illinois.edu'),
 	 (835,91,'Beverie Barden','bbardenn6@addthis.com'),
 	 (836,347,'Mic Stoffler','mstofflern7@hexun.com'),
-	 (836,853,'Mic Stoffler','mstofflern7@hexun.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (836,853,'Mic Stoffler','mstofflern7@hexun.com'),
 	 (837,97,'Crista Casella','ccasellan8@bing.com'),
-	 (837,814,'Crista Casella','ccasellan8@bing.com'),
+	 (837,814,'Crista Casella','ccasellan8@bing.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (837,926,'Crista Casella','ccasellan8@bing.com'),
 	 (838,106,'Faythe Laker','flakern9@nationalgeographic.com'),
 	 (838,683,'Faythe Laker','flakern9@nationalgeographic.com'),
@@ -1548,10 +1546,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (839,909,'Melisenda Kendred','mkendredna@slashdot.org'),
 	 (840,673,'Benedicto Haddinton','bhaddintonnb@purevolume.com'),
 	 (841,137,'Bria Gotfrey','bgotfreync@shareasale.com'),
-	 (841,439,'Bria Gotfrey','bgotfreync@shareasale.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (841,439,'Bria Gotfrey','bgotfreync@shareasale.com'),
 	 (841,540,'Bria Gotfrey','bgotfreync@shareasale.com'),
-	 (842,241,'Lance Boddis','lboddisnd@over-blog.com'),
+	 (842,241,'Lance Boddis','lboddisnd@over-blog.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (843,90,'Karen Bartholin','kbartholinne@goo.ne.jp'),
 	 (844,353,'Ardeen Percifull','apercifullnf@archive.org'),
 	 (844,496,'Ardeen Percifull','apercifullnf@archive.org'),
@@ -1559,10 +1557,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (845,967,'Cesaro Oglethorpe','coglethorpeng@icio.us'),
 	 (846,862,'Godart Newstead','gnewsteadnh@mediafire.com'),
 	 (847,622,'Cleon Duffell','cduffellni@1688.com'),
-	 (847,711,'Cleon Duffell','cduffellni@1688.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (847,711,'Cleon Duffell','cduffellni@1688.com'),
 	 (848,884,'Adele Bromehead','abromeheadnj@unblog.fr'),
-	 (848,924,'Adele Bromehead','abromeheadnj@unblog.fr'),
+	 (848,924,'Adele Bromehead','abromeheadnj@unblog.fr');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (849,205,'Zak Rizzardi','zrizzardink@mediafire.com'),
 	 (850,692,'Inna Burke','iburkenl@exblog.jp'),
 	 (850,731,'Inna Burke','iburkenl@exblog.jp'),
@@ -1570,21 +1568,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (851,549,'Carlin Malinowski','cmalinowskinm@canalblog.com'),
 	 (852,58,'Lia Cleaton','lcleatonnn@yelp.com'),
 	 (852,313,'Lia Cleaton','lcleatonnn@yelp.com'),
-	 (853,23,'Nissa Santora','nsantorano@drupal.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (853,23,'Nissa Santora','nsantorano@drupal.org'),
 	 (854,28,'Costa Alennikov','calennikovnp@artisteer.com'),
-	 (854,257,'Costa Alennikov','calennikovnp@artisteer.com'),
+	 (854,257,'Costa Alennikov','calennikovnp@artisteer.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (854,295,'Costa Alennikov','calennikovnp@artisteer.com'),
 	 (855,324,'Ike Nunns','inunnsnq@cbslocal.com'),
 	 (855,753,'Ike Nunns','inunnsnq@cbslocal.com'),
-	 (856,104,'Vanda McGreil','vmcgreilnr@slideshare.net'),
-	 (856,381,'Vanda McGreil','vmcgreilnr@slideshare.net'),
-	 (856,905,'Vanda McGreil','vmcgreilnr@slideshare.net'),
-	 (856,925,'Vanda McGreil','vmcgreilnr@slideshare.net'),
-	 (857,516,'Joshuah Benit','jbenitns@livejournal.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (856,104,'Vanda Mcgreil','vmcgreilnr@slideshare.net'),
+	 (856,381,'Vanda Mcgreil','vmcgreilnr@slideshare.net'),
+	 (856,905,'Vanda Mcgreil','vmcgreilnr@slideshare.net'),
+	 (856,925,'Vanda Mcgreil','vmcgreilnr@slideshare.net'),
+	 (857,516,'Joshuah Benit','jbenitns@livejournal.com'),
 	 (858,55,'Othelia Drabble','odrabblent@yelp.com'),
-	 (858,158,'Othelia Drabble','odrabblent@yelp.com'),
+	 (858,158,'Othelia Drabble','odrabblent@yelp.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (859,352,'Arabelle Pillinger','apillingernu@scribd.com'),
 	 (859,733,'Arabelle Pillinger','apillingernu@scribd.com'),
 	 (860,780,'Conan Vaune','cvaunenv@upenn.edu'),
@@ -1592,10 +1590,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (861,656,'Cedric Edwin','cedwinnw@va.gov'),
 	 (861,657,'Cedric Edwin','cedwinnw@va.gov'),
 	 (862,49,'Dyana Hows','dhowsnx@acquirethisname.com'),
-	 (862,618,'Dyana Hows','dhowsnx@acquirethisname.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (862,618,'Dyana Hows','dhowsnx@acquirethisname.com'),
 	 (863,137,'Wally Hartup','whartupny@harvard.edu'),
-	 (863,300,'Wally Hartup','whartupny@harvard.edu'),
+	 (863,300,'Wally Hartup','whartupny@harvard.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (864,1000,'Orv Bottelstone','obottelstonenz@a8.net'),
 	 (865,578,'Briana Featonby','bfeatonbyo0@cbsnews.com'),
 	 (865,889,'Briana Featonby','bfeatonbyo0@cbsnews.com'),
@@ -1603,10 +1601,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (867,361,'Patin Casaletto','pcasalettoo2@globo.com'),
 	 (867,582,'Patin Casaletto','pcasalettoo2@globo.com'),
 	 (868,884,'Gilligan Duffin','gduffino3@sina.com.cn'),
-	 (869,841,'Bobbee Pellant','bpellanto4@baidu.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (869,841,'Bobbee Pellant','bpellanto4@baidu.com'),
 	 (870,111,'Florette Sobczak','fsobczako5@people.com.cn'),
-	 (870,189,'Florette Sobczak','fsobczako5@people.com.cn'),
+	 (870,189,'Florette Sobczak','fsobczako5@people.com.cn');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (870,240,'Florette Sobczak','fsobczako5@people.com.cn'),
 	 (871,382,'Hayward Dymoke','hdymokeo6@surveymonkey.com'),
 	 (871,518,'Hayward Dymoke','hdymokeo6@surveymonkey.com'),
@@ -1614,10 +1612,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (873,16,'Neel Bonny','nbonnyo8@indiatimes.com'),
 	 (874,562,'Cordy Dumbarton','cdumbartono9@xinhuanet.com'),
 	 (875,493,'Kippar Casaroli','kcasarolioa@skype.com'),
-	 (876,808,'Brandi Lyon','blyonob@guardian.co.uk');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (876,808,'Brandi Lyon','blyonob@guardian.co.uk'),
 	 (876,955,'Brandi Lyon','blyonob@guardian.co.uk'),
-	 (877,767,'Karola Hellin','khellinoc@drupal.org'),
+	 (877,767,'Karola Hellin','khellinoc@drupal.org');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (878,119,'Calhoun Mecchi','cmecchiod@google.ca'),
 	 (879,90,'Amy Jaynes','ajaynesoe@uiuc.edu'),
 	 (880,156,'Kingston Seiler','kseilerof@forbes.com'),
@@ -1625,10 +1623,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (882,260,'Elna Hawtin','ehawtinoh@auda.org.au'),
 	 (883,391,'Roxy Cotton','rcottonoi@booking.com'),
 	 (883,815,'Roxy Cotton','rcottonoi@booking.com'),
-	 (884,217,'Zebadiah Bulcroft','zbulcroftoj@fastcompany.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (884,217,'Zebadiah Bulcroft','zbulcroftoj@fastcompany.com'),
 	 (885,728,'Ingunna Matschuk','imatschukok@facebook.com'),
-	 (886,922,'Rubina Summerlie','rsummerlieol@foxnews.com'),
+	 (886,922,'Rubina Summerlie','rsummerlieol@foxnews.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (886,928,'Rubina Summerlie','rsummerlieol@foxnews.com'),
 	 (887,192,'Malina Johnson','mjohnsonom@goo.gl'),
 	 (887,389,'Malina Johnson','mjohnsonom@goo.gl'),
@@ -1636,10 +1634,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (888,381,'Waylin Skuce','wskuceon@shutterfly.com'),
 	 (889,206,'Farrell Cabrera','fcabreraoo@freewebs.com'),
 	 (889,469,'Farrell Cabrera','fcabreraoo@freewebs.com'),
-	 (890,757,'Ninon Duesberry','nduesberryop@hostgator.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (890,757,'Ninon Duesberry','nduesberryop@hostgator.com'),
 	 (891,68,'Alvis Atkirk','aatkirkoq@vk.com'),
-	 (892,112,'Lek Perryman','lperrymanor@ning.com'),
+	 (892,112,'Lek Perryman','lperrymanor@ning.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (892,266,'Lek Perryman','lperrymanor@ning.com'),
 	 (892,629,'Lek Perryman','lperrymanor@ning.com'),
 	 (893,956,'Malissa Bolesworth','mbolesworthos@discuz.net'),
@@ -1647,10 +1645,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (894,935,'Ezekiel Masi','emasiot@reference.com'),
 	 (894,973,'Ezekiel Masi','emasiot@reference.com'),
 	 (895,100,'Fidela Caro','fcaroou@eepurl.com'),
-	 (896,824,'Tim Matterson','tmattersonov@cdc.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (896,824,'Tim Matterson','tmattersonov@cdc.gov'),
 	 (897,244,'Odelinda Ruppel','oruppelow@prweb.com'),
-	 (897,282,'Odelinda Ruppel','oruppelow@prweb.com'),
+	 (897,282,'Odelinda Ruppel','oruppelow@prweb.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (897,742,'Odelinda Ruppel','oruppelow@prweb.com'),
 	 (898,905,'Nixie Musk','nmuskox@mapquest.com'),
 	 (899,581,'Austen Alyutin','aalyutinoy@scribd.com'),
@@ -1658,10 +1656,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (900,739,'Bernete Purle','bpurleoz@sciencedirect.com'),
 	 (901,587,'Jemie Redmille','jredmillep0@cnet.com'),
 	 (901,637,'Jemie Redmille','jredmillep0@cnet.com'),
-	 (901,772,'Jemie Redmille','jredmillep0@cnet.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (901,772,'Jemie Redmille','jredmillep0@cnet.com'),
 	 (901,898,'Jemie Redmille','jredmillep0@cnet.com'),
-	 (902,775,'Corby Mattsson','cmattssonp1@elegantthemes.com'),
+	 (902,775,'Corby Mattsson','cmattssonp1@elegantthemes.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (903,547,'Tessi Carbin','tcarbinp2@oaic.gov.au'),
 	 (903,645,'Tessi Carbin','tcarbinp2@oaic.gov.au'),
 	 (904,291,'Florie Laurencot','flaurencotp3@cnn.com'),
@@ -1669,10 +1667,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (905,665,'Murial Firmager','mfirmagerp4@marriott.com'),
 	 (906,976,'Mollee Silk','msilkp5@ox.ac.uk'),
 	 (907,901,'Kevin Wheway','kwhewayp6@google.com.hk'),
-	 (908,259,'Griffie Toombes','gtoombesp7@123-reg.co.uk');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (908,259,'Griffie Toombes','gtoombesp7@123-reg.co.uk'),
 	 (908,362,'Griffie Toombes','gtoombesp7@123-reg.co.uk'),
-	 (908,896,'Griffie Toombes','gtoombesp7@123-reg.co.uk'),
+	 (908,896,'Griffie Toombes','gtoombesp7@123-reg.co.uk');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (909,236,'Trenton Spenceley','tspenceleyp8@dot.gov'),
 	 (909,703,'Trenton Spenceley','tspenceleyp8@dot.gov'),
 	 (910,244,'Giuseppe Saull','gsaullp9@bigcartel.com'),
@@ -1680,10 +1678,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (910,780,'Giuseppe Saull','gsaullp9@bigcartel.com'),
 	 (911,71,'Hope Norquoy','hnorquoypa@meetup.com'),
 	 (911,102,'Hope Norquoy','hnorquoypa@meetup.com'),
-	 (912,317,'Brigit Pettipher','bpettipherpb@mapy.cz');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (912,317,'Brigit Pettipher','bpettipherpb@mapy.cz'),
 	 (912,856,'Brigit Pettipher','bpettipherpb@mapy.cz'),
-	 (913,795,'Shoshanna Simioli','ssimiolipc@amazon.co.jp'),
+	 (913,795,'Shoshanna Simioli','ssimiolipc@amazon.co.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (914,47,'Ivar Corona','icoronapd@joomla.org'),
 	 (914,746,'Ivar Corona','icoronapd@joomla.org'),
 	 (915,208,'Elnore Ginty','egintype@yellowbook.com'),
@@ -1691,10 +1689,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (916,100,'Cyrillus Phelip','cphelippf@aboutads.info'),
 	 (917,9,'Roda Chetwind','rchetwindpg@hatena.ne.jp'),
 	 (918,471,'Sergei Matokhnin','smatokhninph@squarespace.com'),
-	 (918,521,'Sergei Matokhnin','smatokhninph@squarespace.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (918,521,'Sergei Matokhnin','smatokhninph@squarespace.com'),
 	 (919,23,'Lyndsie Cosgrave','lcosgravepi@harvard.edu'),
-	 (919,519,'Lyndsie Cosgrave','lcosgravepi@harvard.edu'),
+	 (919,519,'Lyndsie Cosgrave','lcosgravepi@harvard.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (920,128,'Ellette Riccio','ericciopj@foxnews.com'),
 	 (920,474,'Ellette Riccio','ericciopj@foxnews.com'),
 	 (921,62,'Eugenie Ahearne','eahearnepk@paypal.com'),
@@ -1702,21 +1700,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (921,500,'Eugenie Ahearne','eahearnepk@paypal.com'),
 	 (921,823,'Eugenie Ahearne','eahearnepk@paypal.com'),
 	 (922,844,'Christan Hannah','channahpl@tripadvisor.com'),
-	 (922,936,'Christan Hannah','channahpl@tripadvisor.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (922,936,'Christan Hannah','channahpl@tripadvisor.com'),
 	 (923,320,'Romy Burridge','rburridgepm@surveymonkey.com'),
-	 (923,555,'Romy Burridge','rburridgepm@surveymonkey.com'),
-	 (924,816,'Mavra McAlpine','mmcalpinepn@toplist.cz'),
+	 (923,555,'Romy Burridge','rburridgepm@surveymonkey.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (924,816,'Mavra Mcalpine','mmcalpinepn@toplist.cz'),
 	 (925,239,'Edee Willoughby','ewilloughbypo@google.co.jp'),
 	 (925,762,'Edee Willoughby','ewilloughbypo@google.co.jp'),
 	 (926,52,'Hallsy Goodings','hgoodingspp@wired.com'),
 	 (927,867,'Gaby Olley','golleypq@hubpages.com'),
 	 (928,11,'Liam Chazotte','lchazottepr@thetimes.co.uk'),
 	 (928,87,'Liam Chazotte','lchazottepr@thetimes.co.uk'),
-	 (929,13,'Beatrix Deveraux','bdeverauxps@va.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (929,13,'Beatrix Deveraux','bdeverauxps@va.gov'),
 	 (929,973,'Beatrix Deveraux','bdeverauxps@va.gov'),
-	 (930,60,'Ashby Strong','astrongpt@mit.edu'),
+	 (930,60,'Ashby Strong','astrongpt@mit.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (930,544,'Ashby Strong','astrongpt@mit.edu'),
 	 (930,554,'Ashby Strong','astrongpt@mit.edu'),
 	 (931,519,'Donovan Weinmann','dweinmannpu@hp.com'),
@@ -1724,10 +1722,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (931,636,'Donovan Weinmann','dweinmannpu@hp.com'),
 	 (932,89,'Lief Cockram','lcockrampv@globo.com'),
 	 (932,787,'Lief Cockram','lcockrampv@globo.com'),
-	 (933,850,'Lou Stenett','lstenettpw@netlog.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (933,850,'Lou Stenett','lstenettpw@netlog.com'),
 	 (934,44,'Ivan Orpyne','iorpynepx@theatlantic.com'),
-	 (934,305,'Ivan Orpyne','iorpynepx@theatlantic.com'),
+	 (934,305,'Ivan Orpyne','iorpynepx@theatlantic.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (934,492,'Ivan Orpyne','iorpynepx@theatlantic.com'),
 	 (934,565,'Ivan Orpyne','iorpynepx@theatlantic.com'),
 	 (935,310,'Kira Lethbury','klethburypy@dedecms.com'),
@@ -1735,21 +1733,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (935,610,'Kira Lethbury','klethburypy@dedecms.com'),
 	 (936,72,'Elmore Peyto','epeytopz@github.io'),
 	 (936,484,'Elmore Peyto','epeytopz@github.io'),
-	 (936,563,'Elmore Peyto','epeytopz@github.io');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (936,563,'Elmore Peyto','epeytopz@github.io'),
 	 (937,91,'Jackquelin Schulkins','jschulkinsq0@wix.com'),
-	 (937,993,'Jackquelin Schulkins','jschulkinsq0@wix.com'),
+	 (937,993,'Jackquelin Schulkins','jschulkinsq0@wix.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (938,214,'Courtnay Scales','cscalesq1@stumbleupon.com'),
 	 (938,247,'Courtnay Scales','cscalesq1@stumbleupon.com'),
 	 (938,898,'Courtnay Scales','cscalesq1@stumbleupon.com'),
 	 (939,75,'Ora Lyttle','olyttleq2@altervista.org'),
 	 (939,645,'Ora Lyttle','olyttleq2@altervista.org'),
 	 (940,555,'Sibylla Vittet','svittetq3@bbb.org'),
-	 (941,366,'Fanechka McTague','fmctagueq4@pcworld.com'),
-	 (941,879,'Fanechka McTague','fmctagueq4@pcworld.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (941,366,'Fanechka Mctague','fmctagueq4@pcworld.com'),
+	 (941,879,'Fanechka Mctague','fmctagueq4@pcworld.com'),
 	 (942,26,'Dulcinea Polak','dpolakq5@loc.gov'),
-	 (943,21,'Prescott Revie','previeq6@amazonaws.com'),
+	 (943,21,'Prescott Revie','previeq6@amazonaws.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (944,799,'Gwenore Irving','girvingq7@prlog.org'),
 	 (944,891,'Gwenore Irving','girvingq7@prlog.org'),
 	 (945,503,'Lars Sambiedge','lsambiedgeq8@g.co'),
@@ -1757,10 +1755,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (946,69,'Nolie Boich','nboichq9@cbc.ca'),
 	 (947,787,'Marcelline Fridd','mfriddqa@liveinternet.ru'),
 	 (948,345,'Avrit Rockall','arockallqb@slideshare.net'),
-	 (949,412,'Carlyle Storey','cstoreyqc@wikispaces.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (949,412,'Carlyle Storey','cstoreyqc@wikispaces.com'),
 	 (950,973,'Risa Adam','radamqd@chicagotribune.com'),
-	 (951,625,'Wilma MacGorrie','wmacgorrieqe@nba.com'),
+	 (951,625,'Wilma Macgorrie','wmacgorrieqe@nba.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (952,268,'Cosmo Hendrix','chendrixqf@stanford.edu'),
 	 (953,394,'Emmi Wassell','ewassellqg@apple.com'),
 	 (953,560,'Emmi Wassell','ewassellqg@apple.com'),
@@ -1768,10 +1766,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (954,782,'Lynea Mattam','lmattamqh@hhs.gov'),
 	 (954,925,'Lynea Mattam','lmattamqh@hhs.gov'),
 	 (955,194,'Mercedes Gorger','mgorgerqi@bizjournals.com'),
-	 (955,236,'Mercedes Gorger','mgorgerqi@bizjournals.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (955,236,'Mercedes Gorger','mgorgerqi@bizjournals.com'),
 	 (955,637,'Mercedes Gorger','mgorgerqi@bizjournals.com'),
-	 (956,96,'Nelli Provest','nprovestqj@youku.com'),
+	 (956,96,'Nelli Provest','nprovestqj@youku.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (956,436,'Nelli Provest','nprovestqj@youku.com'),
 	 (957,113,'Danyette Lilley','dlilleyqk@mlb.com'),
 	 (958,219,'Munmro Morling','mmorlingql@eepurl.com'),
@@ -1779,10 +1777,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (958,985,'Munmro Morling','mmorlingql@eepurl.com'),
 	 (959,128,'Aron Nixon','anixonqm@about.com'),
 	 (960,464,'Lester Pedden','lpeddenqn@apache.org'),
-	 (961,95,'Carilyn Tixier','ctixierqo@globo.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (961,95,'Carilyn Tixier','ctixierqo@globo.com'),
 	 (962,105,'Nikaniki Openshaw','nopenshawqp@cbsnews.com'),
-	 (963,201,'Pearla Caze','pcazeqq@stanford.edu'),
+	 (963,201,'Pearla Caze','pcazeqq@stanford.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (963,786,'Pearla Caze','pcazeqq@stanford.edu'),
 	 (963,846,'Pearla Caze','pcazeqq@stanford.edu'),
 	 (964,474,'Wallache Beake','wbeakeqr@ibm.com'),
@@ -1790,10 +1788,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (966,240,'Merrick Bramble','mbrambleqt@symantec.com'),
 	 (966,786,'Merrick Bramble','mbrambleqt@symantec.com'),
 	 (967,190,'Nanette Elphinstone','nelphinstonequ@fc2.com'),
-	 (967,722,'Nanette Elphinstone','nelphinstonequ@fc2.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (967,722,'Nanette Elphinstone','nelphinstonequ@fc2.com'),
 	 (968,814,'Gram Lavelle','glavelleqv@yale.edu'),
-	 (969,877,'Luciano McAviy','lmcaviyqw@issuu.com'),
+	 (969,877,'Luciano Mcaviy','lmcaviyqw@issuu.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (970,280,'Dorise Allmen','dallmenqx@wikispaces.com'),
 	 (970,503,'Dorise Allmen','dallmenqx@wikispaces.com'),
 	 (971,19,'Hagen Claiden','hclaidenqy@marriott.com'),
@@ -1801,10 +1799,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (972,430,'Dionysus Ropking','dropkingqz@redcross.org'),
 	 (973,385,'Nikolia Southcott','nsouthcottr0@simplemachines.org'),
 	 (973,988,'Nikolia Southcott','nsouthcottr0@simplemachines.org'),
-	 (974,593,'Aviva Oxnam','aoxnamr1@deviantart.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (974,593,'Aviva Oxnam','aoxnamr1@deviantart.com'),
 	 (975,996,'Engracia Odgaard','eodgaardr2@unesco.org'),
-	 (976,304,'Janel Inworth','jinworthr3@wikispaces.com'),
+	 (976,304,'Janel Inworth','jinworthr3@wikispaces.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (977,13,'Karolina Gresswood','kgresswoodr4@cargocollective.com'),
 	 (977,189,'Karolina Gresswood','kgresswoodr4@cargocollective.com'),
 	 (978,139,'Traci Vanyashin','tvanyashinr5@posterous.com'),
@@ -1812,10 +1810,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (978,693,'Traci Vanyashin','tvanyashinr5@posterous.com'),
 	 (979,12,'Danell Mace','dmacer6@clickbank.net'),
 	 (979,525,'Danell Mace','dmacer6@clickbank.net'),
-	 (980,772,'Nolana Sweetsur','nsweetsurr7@youtu.be');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (980,772,'Nolana Sweetsur','nsweetsurr7@youtu.be'),
 	 (981,331,'Johan Chastelain','jchastelainr8@biglobe.ne.jp'),
-	 (981,494,'Johan Chastelain','jchastelainr8@biglobe.ne.jp'),
+	 (981,494,'Johan Chastelain','jchastelainr8@biglobe.ne.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (982,838,'Analise Sullivan','asullivanr9@tinypic.com'),
 	 (983,312,'Wash Uttridge','wuttridgera@nasa.gov'),
 	 (983,659,'Wash Uttridge','wuttridgera@nasa.gov'),
@@ -1823,32 +1821,32 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (984,294,'Berty Illwell','billwellrb@networkadvertising.org'),
 	 (985,544,'Bank Kiddle','bkiddlerc@virginia.edu'),
 	 (986,133,'Carmela Jarvie','cjarvierd@princeton.edu'),
-	 (986,258,'Carmela Jarvie','cjarvierd@princeton.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (986,258,'Carmela Jarvie','cjarvierd@princeton.edu'),
 	 (986,301,'Carmela Jarvie','cjarvierd@princeton.edu'),
-	 (987,768,'Madelina Scougal','mscougalre@wired.com'),
+	 (987,768,'Madelina Scougal','mscougalre@wired.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (987,935,'Madelina Scougal','mscougalre@wired.com'),
 	 (988,677,'Petra Lickorish','plickorishrf@amazon.com'),
-	 (989,757,'Emmalynne "Van der Veldt"','evanderveldtrg@networkadvertising.org'),
+	 (989,757,'Emmalynne "Van Der Veldt"','evanderveldtrg@networkadvertising.org'),
 	 (990,592,'Kermy Elton','keltonrh@sun.com'),
 	 (990,816,'Kermy Elton','keltonrh@sun.com'),
 	 (991,483,'Ingram Mazzey','imazzeyri@pen.io'),
 	 (992,36,'Kevina Brahm','kbrahmrj@posterous.com'),
-	 (993,953,'Rasia Edland','redlandrk@quantcast.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (993,953,'Rasia Edland','redlandrk@quantcast.com'),
 	 (993,993,'Rasia Edland','redlandrk@quantcast.com'),
-	 (994,326,'Archibold MacNab','amacnabrl@nih.gov'),
-	 (994,603,'Archibold MacNab','amacnabrl@nih.gov'),
-	 (994,618,'Archibold MacNab','amacnabrl@nih.gov'),
+	 (994,326,'Archibold Macnab','amacnabrl@nih.gov');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (994,603,'Archibold Macnab','amacnabrl@nih.gov'),
+	 (994,618,'Archibold Macnab','amacnabrl@nih.gov'),
 	 (995,851,'Marlee Vause','mvauserm@discovery.com'),
 	 (996,323,'Kare Rein','kreinrn@seattletimes.com'),
 	 (996,469,'Kare Rein','kreinrn@seattletimes.com'),
 	 (997,535,'Phaedra Moresby','pmoresbyro@desdev.cn'),
 	 (998,537,'Forbes Rattrie','frattrierp@foxnews.com'),
-	 (998,812,'Forbes Rattrie','frattrierp@foxnews.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (998,812,'Forbes Rattrie','frattrierp@foxnews.com'),
 	 (999,867,'Gus Willavoys','gwillavoysrq@deliciousdays.com'),
-	 (1000,318,'Fanechka Bartomeu','fbartomeurr@washington.edu'),
+	 (1000,318,'Fanechka Bartomeu','fbartomeurr@washington.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1000,421,'Fanechka Bartomeu','fbartomeurr@washington.edu'),
 	 (1001,268,'Ricky Lafranconi','rlafranconi0@rakuten.co.jp'),
 	 (1001,270,'Ricky Lafranconi','rlafranconi0@rakuten.co.jp'),
@@ -1856,10 +1854,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1002,223,'Elva Shearme','eshearme1@unblog.fr'),
 	 (1002,225,'Elva Shearme','eshearme1@unblog.fr'),
 	 (1003,464,'Dorothy Agutter','dagutter2@irs.gov'),
-	 (1003,845,'Dorothy Agutter','dagutter2@irs.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1003,845,'Dorothy Agutter','dagutter2@irs.gov'),
 	 (1004,498,'Dianne Marling','dmarling3@microsoft.com'),
-	 (1004,735,'Dianne Marling','dmarling3@microsoft.com'),
+	 (1004,735,'Dianne Marling','dmarling3@microsoft.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1004,765,'Dianne Marling','dmarling3@microsoft.com'),
 	 (1005,152,'Tabbie Bartolijn','tbartolijn4@tinyurl.com'),
 	 (1005,345,'Tabbie Bartolijn','tbartolijn4@tinyurl.com'),
@@ -1867,21 +1865,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1006,361,'Holden Gollin','hgollin5@edublogs.org'),
 	 (1007,266,'Alis Goodie','agoodie6@ycombinator.com'),
 	 (1007,318,'Alis Goodie','agoodie6@ycombinator.com'),
-	 (1008,37,'Desi O''Hengerty','dohengerty7@wunderground.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1008,37,'Desi O''Hengerty','dohengerty7@wunderground.com'),
 	 (1009,512,'Peria Free','pfree8@wiley.com'),
-	 (1009,575,'Peria Free','pfree8@wiley.com'),
+	 (1009,575,'Peria Free','pfree8@wiley.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1010,869,'Aldous Tinston','atinston9@microsoft.com'),
 	 (1010,946,'Aldous Tinston','atinston9@microsoft.com'),
-	 (1011,656,'Derril McLane','dmclanea@purevolume.com'),
+	 (1011,656,'Derril Mclane','dmclanea@purevolume.com'),
 	 (1012,665,'Milicent Mogenot','mmogenotb@ca.gov'),
 	 (1013,325,'Kris Soot','ksootc@un.org'),
 	 (1013,701,'Kris Soot','ksootc@un.org'),
 	 (1014,605,'Wallas Smorthwaite','wsmorthwaited@skyrock.com'),
-	 (1015,327,'Kathi McClunaghan','kmcclunaghane@dedecms.com');
+	 (1015,327,'Kathi Mcclunaghan','kmcclunaghane@dedecms.com'),
+	 (1015,703,'Kathi Mcclunaghan','kmcclunaghane@dedecms.com'),
+	 (1016,10,'Andras Kraut','akrautf@ovh.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1015,703,'Kathi McClunaghan','kmcclunaghane@dedecms.com'),
-	 (1016,10,'Andras Kraut','akrautf@ovh.net'),
 	 (1017,361,'Fern O''Gavin','fogaving@bravesites.com'),
 	 (1017,760,'Fern O''Gavin','fogaving@bravesites.com'),
 	 (1018,16,'Evvie Petch','epetchh@comcast.net'),
@@ -1889,10 +1887,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1019,816,'Brantley Bollin','bbollini@washingtonpost.com'),
 	 (1020,834,'Perkin Sparkwill','psparkwillj@quantcast.com'),
 	 (1021,271,'Tad Weighell','tweighellk@apache.org'),
-	 (1021,578,'Tad Weighell','tweighellk@apache.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1021,578,'Tad Weighell','tweighellk@apache.org'),
 	 (1022,89,'Rycca Burdess','rburdessl@geocities.com'),
-	 (1022,833,'Rycca Burdess','rburdessl@geocities.com'),
+	 (1022,833,'Rycca Burdess','rburdessl@geocities.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1022,855,'Rycca Burdess','rburdessl@geocities.com'),
 	 (1022,875,'Rycca Burdess','rburdessl@geocities.com'),
 	 (1023,56,'Noell Rapi','nrapim@cocolog-nifty.com'),
@@ -1900,10 +1898,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1024,553,'Domenic Farry','dfarryn@paginegialle.it'),
 	 (1024,873,'Domenic Farry','dfarryn@paginegialle.it'),
 	 (1025,806,'Eleanora Scriviner','escrivinero@gizmodo.com'),
-	 (1026,409,'Elie Heater','eheaterp@booking.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1026,409,'Elie Heater','eheaterp@booking.com'),
 	 (1026,466,'Elie Heater','eheaterp@booking.com'),
-	 (1026,722,'Elie Heater','eheaterp@booking.com'),
+	 (1026,722,'Elie Heater','eheaterp@booking.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1027,665,'Letitia Levane','llevaneq@statcounter.com'),
 	 (1028,125,'Dinny Christin','dchristinr@bloglovin.com'),
 	 (1028,482,'Dinny Christin','dchristinr@bloglovin.com'),
@@ -1911,32 +1909,32 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1028,733,'Dinny Christin','dchristinr@bloglovin.com'),
 	 (1029,484,'Linea Gaither','lgaithers@gmpg.org'),
 	 (1029,804,'Linea Gaither','lgaithers@gmpg.org'),
-	 (1030,216,'Brear Coggins','bcogginst@wikispaces.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1030,216,'Brear Coggins','bcogginst@wikispaces.com'),
 	 (1030,728,'Brear Coggins','bcogginst@wikispaces.com'),
-	 (1031,587,'Mack Stonehewer','mstoneheweru@ameblo.jp'),
+	 (1031,587,'Mack Stonehewer','mstoneheweru@ameblo.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1032,967,'Meir Arnauduc','marnauducv@cbslocal.com'),
 	 (1033,436,'Carrissa Skarr','cskarrw@answers.com'),
-	 (1034,223,'Meade McLevie','mmcleviex@imdb.com'),
-	 (1034,907,'Meade McLevie','mmcleviex@imdb.com'),
+	 (1034,223,'Meade Mclevie','mmcleviex@imdb.com'),
+	 (1034,907,'Meade Mclevie','mmcleviex@imdb.com'),
 	 (1035,966,'Pietrek Moen','pmoeny@nhs.uk'),
 	 (1036,323,'Waylen Sarjent','wsarjentz@huffingtonpost.com'),
 	 (1037,586,'Astrid Clough','aclough10@artisteer.com'),
-	 (1037,732,'Astrid Clough','aclough10@artisteer.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1037,732,'Astrid Clough','aclough10@artisteer.com'),
 	 (1038,80,'Susan "Del Dello"','sdeldello11@digg.com'),
-	 (1039,445,'Alfons Blabie','ablabie12@uol.com.br'),
+	 (1039,445,'Alfons Blabie','ablabie12@uol.com.br');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1039,641,'Alfons Blabie','ablabie12@uol.com.br'),
 	 (1040,236,'Kendra Margarson','kmargarson13@google.fr'),
-	 (1041,885,'Anna-diana Coton','acoton14@telegraph.co.uk'),
-	 (1041,909,'Anna-diana Coton','acoton14@telegraph.co.uk'),
+	 (1041,885,'Anna-Diana Coton','acoton14@telegraph.co.uk'),
+	 (1041,909,'Anna-Diana Coton','acoton14@telegraph.co.uk'),
 	 (1042,948,'Correy Churchard','cchurchard15@tripod.com'),
 	 (1043,257,'Yvor Bristoe','ybristoe16@webnode.com'),
 	 (1043,515,'Yvor Bristoe','ybristoe16@webnode.com'),
-	 (1043,674,'Yvor Bristoe','ybristoe16@webnode.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1043,674,'Yvor Bristoe','ybristoe16@webnode.com'),
 	 (1044,378,'Jeanie Castelletti','jcastelletti17@amazonaws.com'),
-	 (1045,99,'Kevin Slatcher','kslatcher18@foxnews.com'),
+	 (1045,99,'Kevin Slatcher','kslatcher18@foxnews.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1045,196,'Kevin Slatcher','kslatcher18@foxnews.com'),
 	 (1045,317,'Kevin Slatcher','kslatcher18@foxnews.com'),
 	 (1046,335,'Constance Garraway','cgarraway19@joomla.org'),
@@ -1944,10 +1942,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1048,652,'Angus Berardt','aberardt1b@phpbb.com'),
 	 (1049,466,'Carolann Cloke','ccloke1c@sun.com'),
 	 (1050,526,'Vaclav Tattershall','vtattershall1d@bigcartel.com'),
-	 (1051,700,'Fairlie Sedgeworth','fsedgeworth1e@liveinternet.ru');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1051,700,'Fairlie Sedgeworth','fsedgeworth1e@liveinternet.ru'),
 	 (1051,726,'Fairlie Sedgeworth','fsedgeworth1e@liveinternet.ru'),
-	 (1052,233,'Earvin Brownett','ebrownett1f@people.com.cn'),
+	 (1052,233,'Earvin Brownett','ebrownett1f@people.com.cn');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1052,851,'Earvin Brownett','ebrownett1f@people.com.cn'),
 	 (1053,283,'Judie Parkes','jparkes1g@hud.gov'),
 	 (1054,162,'Cammie Faraker','cfaraker1h@yellowpages.com'),
@@ -1955,21 +1953,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1055,357,'Cleopatra Bernade','cbernade1i@smh.com.au'),
 	 (1055,360,'Cleopatra Bernade','cbernade1i@smh.com.au'),
 	 (1056,435,'Cacilie Jarret','cjarret1j@answers.com'),
-	 (1056,803,'Cacilie Jarret','cjarret1j@answers.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1056,803,'Cacilie Jarret','cjarret1j@answers.com'),
 	 (1056,895,'Cacilie Jarret','cjarret1j@answers.com'),
-	 (1057,455,'Ddene Droogan','ddroogan1k@ycombinator.com'),
+	 (1057,455,'Ddene Droogan','ddroogan1k@ycombinator.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1057,462,'Ddene Droogan','ddroogan1k@ycombinator.com'),
 	 (1058,961,'Elyssa Caves','ecaves1l@pbs.org'),
 	 (1059,409,'Trixi Lamasna','tlamasna1m@narod.ru'),
-	 (1060,164,'Selene McElrea','smcelrea1n@flickr.com'),
-	 (1060,975,'Selene McElrea','smcelrea1n@flickr.com'),
+	 (1060,164,'Selene Mcelrea','smcelrea1n@flickr.com'),
+	 (1060,975,'Selene Mcelrea','smcelrea1n@flickr.com'),
 	 (1061,434,'Tomasina Trippick','ttrippick1o@economist.com'),
 	 (1061,523,'Tomasina Trippick','ttrippick1o@economist.com'),
-	 (1061,919,'Tomasina Trippick','ttrippick1o@economist.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1061,919,'Tomasina Trippick','ttrippick1o@economist.com'),
 	 (1062,294,'Harold Izacenko','hizacenko1p@pen.io'),
-	 (1062,554,'Harold Izacenko','hizacenko1p@pen.io'),
+	 (1062,554,'Harold Izacenko','hizacenko1p@pen.io');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1063,995,'Lib Asprey','lasprey1q@statcounter.com'),
 	 (1064,194,'Jeri Seakes','jseakes1r@t.co'),
 	 (1065,438,'Clyve Rochell','crochell1s@china.com.cn'),
@@ -1977,10 +1975,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1066,440,'Sloan Haucke','shaucke1t@lulu.com'),
 	 (1066,757,'Sloan Haucke','shaucke1t@lulu.com'),
 	 (1067,268,'Rhea Hirsthouse','rhirsthouse1u@army.mil'),
-	 (1067,462,'Rhea Hirsthouse','rhirsthouse1u@army.mil');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1067,462,'Rhea Hirsthouse','rhirsthouse1u@army.mil'),
 	 (1068,256,'Chucho Duffy','cduffy1v@com.com'),
-	 (1068,901,'Chucho Duffy','cduffy1v@com.com'),
+	 (1068,901,'Chucho Duffy','cduffy1v@com.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1069,261,'Hillie Corradi','hcorradi1w@theglobeandmail.com'),
 	 (1069,331,'Hillie Corradi','hcorradi1w@theglobeandmail.com'),
 	 (1070,3,'Teador Presnell','tpresnell1x@msu.edu'),
@@ -1988,10 +1986,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1070,503,'Teador Presnell','tpresnell1x@msu.edu'),
 	 (1071,714,'Carmen Craigg','ccraigg1y@hud.gov'),
 	 (1072,855,'Caz Abbot','cabbot1z@sbwire.com'),
-	 (1072,914,'Caz Abbot','cabbot1z@sbwire.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1072,914,'Caz Abbot','cabbot1z@sbwire.com'),
 	 (1073,802,'Robinson Renfrew','rrenfrew20@deviantart.com'),
-	 (1073,873,'Robinson Renfrew','rrenfrew20@deviantart.com'),
+	 (1073,873,'Robinson Renfrew','rrenfrew20@deviantart.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1074,339,'Ardyth Arnal','aarnal21@godaddy.com'),
 	 (1074,429,'Ardyth Arnal','aarnal21@godaddy.com'),
 	 (1075,254,'Rik Youde','ryoude22@usda.gov'),
@@ -1999,10 +1997,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1077,161,'Hayes Trett','htrett24@ifeng.com'),
 	 (1077,637,'Hayes Trett','htrett24@ifeng.com'),
 	 (1077,779,'Hayes Trett','htrett24@ifeng.com'),
-	 (1078,99,'Isabel Chenery','ichenery25@gnu.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1078,99,'Isabel Chenery','ichenery25@gnu.org'),
 	 (1079,206,'Brynna Hucker','bhucker26@tmall.com'),
-	 (1080,654,'Marni Capron','mcapron27@github.io'),
+	 (1080,654,'Marni Capron','mcapron27@github.io');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1081,101,'Ly Coady','lcoady28@slate.com'),
 	 (1081,508,'Ly Coady','lcoady28@slate.com'),
 	 (1081,539,'Ly Coady','lcoady28@slate.com'),
@@ -2010,10 +2008,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1083,531,'Barnabe Cristoforo','bcristoforo2a@cnet.com'),
 	 (1083,897,'Barnabe Cristoforo','bcristoforo2a@cnet.com'),
 	 (1084,341,'Katinka Wolfarth','kwolfarth2b@businesswire.com'),
-	 (1085,172,'Dasha Galier','dgalier2c@posterous.com');
+	 (1085,172,'Dasha Galier','dgalier2c@posterous.com'),
+	 (1086,531,'Germana Mckeevers','gmckeevers2d@cmu.edu'),
+	 (1087,120,'Davina Ketchaside','dketchaside2e@cnn.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1086,531,'Germana McKeevers','gmckeevers2d@cmu.edu'),
-	 (1087,120,'Davina Ketchaside','dketchaside2e@cnn.com'),
 	 (1088,23,'Demetra Roddie','droddie2f@cafepress.com'),
 	 (1088,213,'Demetra Roddie','droddie2f@cafepress.com'),
 	 (1089,643,'Vance Casali','vcasali2g@feedburner.com'),
@@ -2021,10 +2019,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1090,855,'Sarge Tooke','stooke2h@earthlink.net'),
 	 (1091,504,'Roxana Troy','rtroy2i@tinyurl.com'),
 	 (1092,306,'Celia Wedge','cwedge2j@craigslist.org'),
-	 (1092,613,'Celia Wedge','cwedge2j@craigslist.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1092,613,'Celia Wedge','cwedge2j@craigslist.org'),
 	 (1093,973,'Mathew Cowderoy','mcowderoy2k@imageshack.us'),
-	 (1094,729,'Blayne Horbath','bhorbath2l@stumbleupon.com'),
+	 (1094,729,'Blayne Horbath','bhorbath2l@stumbleupon.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1094,848,'Blayne Horbath','bhorbath2l@stumbleupon.com'),
 	 (1095,893,'Luciana Munkley','lmunkley2m@unblog.fr'),
 	 (1096,200,'Maure Babidge','mbabidge2n@fotki.com'),
@@ -2032,10 +2030,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1096,581,'Maure Babidge','mbabidge2n@fotki.com'),
 	 (1097,712,'Diann Size','dsize2o@free.fr'),
 	 (1098,3,'Anallise Menat','amenat2p@simplemachines.org'),
-	 (1098,472,'Anallise Menat','amenat2p@simplemachines.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1098,472,'Anallise Menat','amenat2p@simplemachines.org'),
 	 (1098,650,'Anallise Menat','amenat2p@simplemachines.org'),
-	 (1099,266,'Julee Barenskie','jbarenskie2q@unc.edu'),
+	 (1099,266,'Julee Barenskie','jbarenskie2q@unc.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1100,708,'Sybilla Lamble','slamble2r@sogou.com'),
 	 (1101,227,'Laurice Causon','lcauson2s@cnbc.com'),
 	 (1101,514,'Laurice Causon','lcauson2s@cnbc.com'),
@@ -2043,10 +2041,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1102,385,'Flora Cyseley','fcyseley2t@youku.com'),
 	 (1102,537,'Flora Cyseley','fcyseley2t@youku.com'),
 	 (1102,762,'Flora Cyseley','fcyseley2t@youku.com'),
-	 (1103,107,'Trudie Clash','tclash2u@mac.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1103,107,'Trudie Clash','tclash2u@mac.com'),
 	 (1104,451,'Andrea Headford','aheadford2v@wix.com'),
-	 (1105,209,'Winifield Bilham','wbilham2w@google.co.uk'),
+	 (1105,209,'Winifield Bilham','wbilham2w@google.co.uk');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1105,654,'Winifield Bilham','wbilham2w@google.co.uk'),
 	 (1105,689,'Winifield Bilham','wbilham2w@google.co.uk'),
 	 (1105,985,'Winifield Bilham','wbilham2w@google.co.uk'),
@@ -2054,10 +2052,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1107,227,'Mag Eble','meble2y@posterous.com'),
 	 (1107,276,'Mag Eble','meble2y@posterous.com'),
 	 (1107,787,'Mag Eble','meble2y@posterous.com'),
-	 (1107,926,'Mag Eble','meble2y@posterous.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1107,926,'Mag Eble','meble2y@posterous.com'),
 	 (1108,614,'Denver Cotte','dcotte2z@tumblr.com'),
-	 (1109,355,'Marilyn Risson','mrisson30@weather.com'),
+	 (1109,355,'Marilyn Risson','mrisson30@weather.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1110,189,'Ely Carlan','ecarlan31@huffingtonpost.com'),
 	 (1110,201,'Ely Carlan','ecarlan31@huffingtonpost.com'),
 	 (1111,129,'Eberhard Friedlos','efriedlos32@bluehost.com'),
@@ -2065,10 +2063,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1112,295,'Jim Pinwill','jpinwill33@rediff.com'),
 	 (1112,907,'Jim Pinwill','jpinwill33@rediff.com'),
 	 (1113,453,'Sean Franken','sfranken34@dedecms.com'),
-	 (1114,34,'Parsifal Burdess','pburdess35@jalbum.net');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1114,34,'Parsifal Burdess','pburdess35@jalbum.net'),
 	 (1114,216,'Parsifal Burdess','pburdess35@jalbum.net'),
-	 (1114,536,'Parsifal Burdess','pburdess35@jalbum.net'),
+	 (1114,536,'Parsifal Burdess','pburdess35@jalbum.net');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1115,419,'Hilly Yelyashev','hyelyashev36@mac.com'),
 	 (1115,557,'Hilly Yelyashev','hyelyashev36@mac.com'),
 	 (1115,560,'Hilly Yelyashev','hyelyashev36@mac.com'),
@@ -2076,10 +2074,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1116,225,'Urban Spavins','uspavins37@over-blog.com'),
 	 (1117,254,'Nettie Halladey','nhalladey38@gizmodo.com'),
 	 (1118,328,'Rosette Willmore','rwillmore39@cnbc.com'),
-	 (1119,262,'Shalom Astlett','sastlett3a@youtube.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1119,262,'Shalom Astlett','sastlett3a@youtube.com'),
 	 (1120,264,'Opalina Bentham3','obentham3b@issuu.com'),
-	 (1120,785,'Opalina Bentham3','obentham3b@issuu.com'),
+	 (1120,785,'Opalina Bentham3','obentham3b@issuu.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1121,843,'Lynnea Tournie','ltournie3c@sfgate.com'),
 	 (1122,155,'Kaleena Mapletoft','kmapletoft3d@amazonaws.com'),
 	 (1122,505,'Kaleena Mapletoft','kmapletoft3d@amazonaws.com'),
@@ -2087,10 +2085,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1123,919,'Carleton Welds','cwelds3e@usatoday.com'),
 	 (1124,557,'Gannon Wederell','gwederell3f@cisco.com'),
 	 (1125,512,'Raine Antonchik','rantonchik3g@independent.co.uk'),
-	 (1125,844,'Raine Antonchik','rantonchik3g@independent.co.uk');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1125,844,'Raine Antonchik','rantonchik3g@independent.co.uk'),
 	 (1126,110,'Regen Elsie','relsie3h@loc.gov'),
-	 (1126,525,'Regen Elsie','relsie3h@loc.gov'),
+	 (1126,525,'Regen Elsie','relsie3h@loc.gov');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1127,412,'Jennilee Tuma','jtuma3i@spotify.com'),
 	 (1128,51,'Renee Congdon','rcongdon3j@chronoengine.com'),
 	 (1129,404,'Georgena Stango','gstango3k@amazonaws.com'),
@@ -2098,10 +2096,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1130,142,'Marline Neiland','mneiland3l@sphinn.com'),
 	 (1130,171,'Marline Neiland','mneiland3l@sphinn.com'),
 	 (1130,963,'Marline Neiland','mneiland3l@sphinn.com'),
-	 (1131,463,'Derrik Rao','drao3m@myspace.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1131,463,'Derrik Rao','drao3m@myspace.com'),
 	 (1131,984,'Derrik Rao','drao3m@myspace.com'),
-	 (1132,75,'Celine Noller','cnoller3n@tmall.com'),
+	 (1132,75,'Celine Noller','cnoller3n@tmall.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1133,95,'Matteo Beccera','mbeccera3o@ucsd.edu'),
 	 (1133,447,'Matteo Beccera','mbeccera3o@ucsd.edu'),
 	 (1133,927,'Matteo Beccera','mbeccera3o@ucsd.edu'),
@@ -2109,10 +2107,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1135,5,'Ardeen Domenge','adomenge3q@salon.com'),
 	 (1135,229,'Ardeen Domenge','adomenge3q@salon.com'),
 	 (1136,275,'Clarine Pryer','cpryer3r@google.nl'),
-	 (1137,178,'Durand Everiss','deveriss3s@umn.edu');
+	 (1137,178,'Durand Everiss','deveriss3s@umn.edu'),
+	 (1138,784,'Mike Mcdonell','mmcdonell3t@sbwire.com'),
+	 (1139,408,'Erina Dungay','edungay3u@prweb.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1138,784,'Mike McDonell','mmcdonell3t@sbwire.com'),
-	 (1139,408,'Erina Dungay','edungay3u@prweb.com'),
 	 (1139,863,'Erina Dungay','edungay3u@prweb.com'),
 	 (1140,15,'Chico Culleton','cculleton3v@yahoo.co.jp'),
 	 (1140,662,'Chico Culleton','cculleton3v@yahoo.co.jp'),
@@ -2120,10 +2118,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1141,300,'Shandie Baiss','sbaiss3w@rambler.ru'),
 	 (1142,359,'Andra Eisold','aeisold3x@washingtonpost.com'),
 	 (1143,252,'Lenette Shepton','lshepton3y@people.com.cn'),
-	 (1144,818,'Fairlie Rockhall','frockhall3z@va.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1144,818,'Fairlie Rockhall','frockhall3z@va.gov'),
 	 (1145,227,'Cristionna Wagon','cwagon40@ifeng.com'),
-	 (1145,362,'Cristionna Wagon','cwagon40@ifeng.com'),
+	 (1145,362,'Cristionna Wagon','cwagon40@ifeng.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1146,389,'Cece Gebby','cgebby41@imgur.com'),
 	 (1147,193,'Riane Nassi','rnassi42@goo.ne.jp'),
 	 (1147,906,'Riane Nassi','rnassi42@goo.ne.jp'),
@@ -2131,10 +2129,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1149,187,'Leopold Mattiessen','lmattiessen44@ebay.com'),
 	 (1150,50,'Joyann Keslake','jkeslake45@blogger.com'),
 	 (1151,116,'Guilbert Norcross','gnorcross46@cafepress.com'),
-	 (1152,44,'Lilah MacNish','lmacnish47@washington.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1152,44,'Lilah Macnish','lmacnish47@washington.edu'),
 	 (1153,566,'Drusy Vecard','dvecard48@addthis.com'),
-	 (1154,862,'Gilberto Stavers','gstavers49@berkeley.edu'),
+	 (1154,862,'Gilberto Stavers','gstavers49@berkeley.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1154,887,'Gilberto Stavers','gstavers49@berkeley.edu'),
 	 (1155,696,'Dorice Petris','dpetris4a@theguardian.com'),
 	 (1156,706,'Rania Lewnden','rlewnden4b@vk.com'),
@@ -2142,10 +2140,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1157,670,'Hamnet Lidgate','hlidgate4c@prweb.com'),
 	 (1157,832,'Hamnet Lidgate','hlidgate4c@prweb.com'),
 	 (1158,885,'Geordie Baskerville','gbaskerville4d@webs.com'),
-	 (1159,184,'Clyde Gait','cgait4e@fastcompany.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1159,184,'Clyde Gait','cgait4e@fastcompany.com'),
 	 (1159,953,'Clyde Gait','cgait4e@fastcompany.com'),
-	 (1160,746,'Illa Kinnaird','ikinnaird4f@apache.org'),
+	 (1160,746,'Illa Kinnaird','ikinnaird4f@apache.org');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1160,994,'Illa Kinnaird','ikinnaird4f@apache.org'),
 	 (1161,700,'Elspeth "Van Rembrandt"','evanrembrandt4g@discovery.com'),
 	 (1161,946,'Elspeth "Van Rembrandt"','evanrembrandt4g@discovery.com'),
@@ -2153,10 +2151,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1162,652,'Olwen Giovanardi','ogiovanardi4h@yandex.ru'),
 	 (1162,994,'Olwen Giovanardi','ogiovanardi4h@yandex.ru'),
 	 (1163,436,'Filia Capp','fcapp4i@cdc.gov'),
-	 (1164,225,'Jaquelyn L''Homme','jlhomme4j@latimes.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1164,225,'Jaquelyn L''Homme','jlhomme4j@latimes.com'),
 	 (1165,140,'Danica Jellicorse','djellicorse4k@shutterfly.com'),
-	 (1166,106,'Sarette Watling','swatling4l@wikipedia.org'),
+	 (1166,106,'Sarette Watling','swatling4l@wikipedia.org');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1167,4,'Preston Prium','pprium4m@163.com'),
 	 (1167,367,'Preston Prium','pprium4m@163.com'),
 	 (1167,992,'Preston Prium','pprium4m@163.com'),
@@ -2164,10 +2162,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1168,923,'Betty Meek','bmeek4n@globo.com'),
 	 (1168,962,'Betty Meek','bmeek4n@globo.com'),
 	 (1169,731,'Mycah Sprull','msprull4o@ycombinator.com'),
-	 (1170,476,'Basil Vanichkov','bvanichkov4p@weebly.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1170,476,'Basil Vanichkov','bvanichkov4p@weebly.com'),
 	 (1171,82,'Camella Anglish','canglish4q@thetimes.co.uk'),
-	 (1171,343,'Camella Anglish','canglish4q@thetimes.co.uk'),
+	 (1171,343,'Camella Anglish','canglish4q@thetimes.co.uk');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1172,630,'Josephine Baiss','jbaiss4r@mysql.com'),
 	 (1173,283,'Natassia Dearl','ndearl4s@friendfeed.com'),
 	 (1174,497,'Iormina Dunkerton','idunkerton4t@washington.edu'),
@@ -2175,10 +2173,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1176,417,'Dollie Comley','dcomley4v@twitpic.com'),
 	 (1177,127,'Alon Itschakov','aitschakov4w@photobucket.com'),
 	 (1177,896,'Alon Itschakov','aitschakov4w@photobucket.com'),
-	 (1177,897,'Alon Itschakov','aitschakov4w@photobucket.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1177,897,'Alon Itschakov','aitschakov4w@photobucket.com'),
 	 (1177,932,'Alon Itschakov','aitschakov4w@photobucket.com'),
-	 (1178,244,'Kimberley Mordecai','kmordecai4x@msn.com'),
+	 (1178,244,'Kimberley Mordecai','kmordecai4x@msn.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1178,286,'Kimberley Mordecai','kmordecai4x@msn.com'),
 	 (1179,265,'Jane Bradneck','jbradneck4y@house.gov'),
 	 (1180,228,'Allx Juara','ajuara4z@yahoo.co.jp'),
@@ -2186,21 +2184,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1181,298,'Dulci Toth','dtoth50@biblegateway.com'),
 	 (1181,497,'Dulci Toth','dtoth50@biblegateway.com'),
 	 (1182,124,'Conroy Smoth','csmoth51@delicious.com'),
-	 (1182,263,'Conroy Smoth','csmoth51@delicious.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1182,263,'Conroy Smoth','csmoth51@delicious.com'),
 	 (1182,401,'Conroy Smoth','csmoth51@delicious.com'),
-	 (1182,807,'Conroy Smoth','csmoth51@delicious.com'),
+	 (1182,807,'Conroy Smoth','csmoth51@delicious.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1183,403,'Drud Moulden','dmoulden52@google.com.hk'),
 	 (1184,883,'Roseline Plampin','rplampin53@sohu.com'),
 	 (1184,907,'Roseline Plampin','rplampin53@sohu.com'),
 	 (1185,888,'Jayne Tilliard','jtilliard54@hibu.com'),
 	 (1186,434,'Elfreda Gadd','egadd55@imdb.com'),
 	 (1186,995,'Elfreda Gadd','egadd55@imdb.com'),
-	 (1187,272,'Maryanne MacNaughton','mmacnaughton56@oaic.gov.au'),
-	 (1188,440,'Frans Teague','fteague57@narod.ru');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1187,272,'Maryanne Macnaughton','mmacnaughton56@oaic.gov.au'),
+	 (1188,440,'Frans Teague','fteague57@narod.ru'),
 	 (1188,955,'Frans Teague','fteague57@narod.ru'),
-	 (1189,872,'Gay Wind','gwind58@jigsy.com'),
+	 (1189,872,'Gay Wind','gwind58@jigsy.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1190,551,'Grove Feander','gfeander59@si.edu'),
 	 (1190,669,'Grove Feander','gfeander59@si.edu'),
 	 (1191,81,'Ramon Keyzman','rkeyzman5a@jiathis.com'),
@@ -2208,21 +2206,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1193,17,'Cassaundra Passey','cpassey5c@csmonitor.com'),
 	 (1193,746,'Cassaundra Passey','cpassey5c@csmonitor.com'),
 	 (1194,172,'Yasmin Errichelli','yerrichelli5d@baidu.com'),
-	 (1195,936,'Revkah Stronack','rstronack5e@msn.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1195,936,'Revkah Stronack','rstronack5e@msn.com'),
 	 (1196,152,'Guglielma Brogiotti','gbrogiotti5f@wp.com'),
-	 (1196,665,'Guglielma Brogiotti','gbrogiotti5f@wp.com'),
+	 (1196,665,'Guglielma Brogiotti','gbrogiotti5f@wp.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1197,302,'Pepi Buckney','pbuckney5g@bizjournals.com'),
 	 (1198,492,'Myrle Magill','mmagill5h@about.me'),
 	 (1199,407,'Livvyy Rising','lrising5i@pbs.org'),
-	 (1200,166,'Robinet MacGee','rmacgee5j@nbcnews.com'),
-	 (1200,646,'Robinet MacGee','rmacgee5j@nbcnews.com'),
+	 (1200,166,'Robinet Macgee','rmacgee5j@nbcnews.com'),
+	 (1200,646,'Robinet Macgee','rmacgee5j@nbcnews.com'),
 	 (1201,881,'Natka Casarili','ncasarili5k@webnode.com'),
 	 (1202,113,'Dallas Gouldsmith','dgouldsmith5l@wordpress.com'),
-	 (1203,828,'Noreen Stanluck','nstanluck5m@independent.co.uk');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1203,828,'Noreen Stanluck','nstanluck5m@independent.co.uk'),
 	 (1204,498,'Katrine Esposita','kesposita5n@example.com'),
-	 (1204,661,'Katrine Esposita','kesposita5n@example.com'),
+	 (1204,661,'Katrine Esposita','kesposita5n@example.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1205,139,'Eduino Lumsden','elumsden5o@salon.com'),
 	 (1205,144,'Eduino Lumsden','elumsden5o@salon.com'),
 	 (1205,237,'Eduino Lumsden','elumsden5o@salon.com'),
@@ -2230,10 +2228,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1206,451,'Bard Fennell','bfennell5p@merriam-webster.com'),
 	 (1207,915,'Fidel Iacobetto','fiacobetto5q@ftc.gov'),
 	 (1208,714,'Emmery Allington','eallington5r@bigcartel.com'),
-	 (1209,681,'Victoria Blatherwick','vblatherwick5s@prweb.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1209,681,'Victoria Blatherwick','vblatherwick5s@prweb.com'),
 	 (1210,237,'Stefan Altree','saltree5t@ftc.gov'),
-	 (1211,486,'Suki Bagshawe','sbagshawe5u@skyrock.com'),
+	 (1211,486,'Suki Bagshawe','sbagshawe5u@skyrock.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1212,194,'Myrah Bywater','mbywater5v@behance.net'),
 	 (1212,863,'Myrah Bywater','mbywater5v@behance.net'),
 	 (1213,376,'Mirella Salterne','msalterne5w@woothemes.com'),
@@ -2241,10 +2239,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1214,252,'Barbette Morford','bmorford5x@disqus.com'),
 	 (1214,912,'Barbette Morford','bmorford5x@disqus.com'),
 	 (1215,147,'Meggi Eickhoff','meickhoff5y@google.com.hk'),
-	 (1215,356,'Meggi Eickhoff','meickhoff5y@google.com.hk');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1215,356,'Meggi Eickhoff','meickhoff5y@google.com.hk'),
 	 (1215,590,'Meggi Eickhoff','meickhoff5y@google.com.hk'),
-	 (1216,652,'Wendell Craigheid','wcraigheid5z@arstechnica.com'),
+	 (1216,652,'Wendell Craigheid','wcraigheid5z@arstechnica.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1217,57,'Sapphira Collough','scollough60@howstuffworks.com'),
 	 (1218,451,'Erhart Lampkin','elampkin61@twitter.com'),
 	 (1218,572,'Erhart Lampkin','elampkin61@twitter.com'),
@@ -2252,21 +2250,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1219,689,'Agnes Curwen','acurwen62@ocn.ne.jp'),
 	 (1220,361,'Monica Tinto','mtinto63@nationalgeographic.com'),
 	 (1221,532,'Jackie Palumbo','jpalumbo64@buzzfeed.com'),
-	 (1222,389,'Charlotta Pina','cpina65@yellowpages.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1222,389,'Charlotta Pina','cpina65@yellowpages.com'),
 	 (1223,108,'Spence Coopland','scoopland66@accuweather.com'),
-	 (1223,851,'Spence Coopland','scoopland66@accuweather.com'),
+	 (1223,851,'Spence Coopland','scoopland66@accuweather.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1224,813,'Laura Warne','lwarne67@vinaora.com'),
 	 (1225,494,'Yorker Bohlens','ybohlens68@nymag.com'),
 	 (1226,939,'Morrie Sirrell','msirrell69@springer.com'),
 	 (1227,558,'Hort Denning','hdenning6a@zdnet.com'),
 	 (1228,449,'Arni Monday','amonday6b@yelp.com'),
 	 (1229,368,'Orbadiah Gason','ogason6c@chronoengine.com'),
-	 (1230,892,'Maximilian MacAvddy','mmacavddy6d@biglobe.ne.jp'),
-	 (1231,397,'Othello Edney','oedney6e@histats.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1230,892,'Maximilian Macavddy','mmacavddy6d@biglobe.ne.jp'),
+	 (1231,397,'Othello Edney','oedney6e@histats.com'),
 	 (1232,231,'Katharine Monnoyer','kmonnoyer6f@marriott.com'),
-	 (1232,247,'Katharine Monnoyer','kmonnoyer6f@marriott.com'),
+	 (1232,247,'Katharine Monnoyer','kmonnoyer6f@marriott.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1232,583,'Katharine Monnoyer','kmonnoyer6f@marriott.com'),
 	 (1232,895,'Katharine Monnoyer','kmonnoyer6f@marriott.com'),
 	 (1233,645,'Tallulah Janata','tjanata6g@acquirethisname.com'),
@@ -2274,10 +2272,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1234,433,'Natalina Rudolfer','nrudolfer6h@arizona.edu'),
 	 (1234,751,'Natalina Rudolfer','nrudolfer6h@arizona.edu'),
 	 (1235,391,'Betteann Loddy','bloddy6i@accuweather.com'),
-	 (1236,62,'Urban Samsin','usamsin6j@dell.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1236,62,'Urban Samsin','usamsin6j@dell.com'),
 	 (1237,645,'Orion Adanez','oadanez6k@ning.com'),
-	 (1237,690,'Orion Adanez','oadanez6k@ning.com'),
+	 (1237,690,'Orion Adanez','oadanez6k@ning.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1237,937,'Orion Adanez','oadanez6k@ning.com'),
 	 (1237,940,'Orion Adanez','oadanez6k@ning.com'),
 	 (1238,699,'Zebadiah Ducker','zducker6l@yale.edu'),
@@ -2285,10 +2283,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1238,742,'Zebadiah Ducker','zducker6l@yale.edu'),
 	 (1238,918,'Zebadiah Ducker','zducker6l@yale.edu'),
 	 (1239,707,'Leena Mullins','lmullins6m@go.com'),
-	 (1240,36,'Ansley Collaton','acollaton6n@foxnews.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1240,36,'Ansley Collaton','acollaton6n@foxnews.com'),
 	 (1240,894,'Ansley Collaton','acollaton6n@foxnews.com'),
-	 (1241,259,'Aurlie Extil','aextil6o@nasa.gov'),
+	 (1241,259,'Aurlie Extil','aextil6o@nasa.gov');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1241,414,'Aurlie Extil','aextil6o@nasa.gov'),
 	 (1242,41,'Royall Wimms','rwimms6p@reuters.com'),
 	 (1242,301,'Royall Wimms','rwimms6p@reuters.com'),
@@ -2296,21 +2294,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1243,57,'Dasie Blouet','dblouet6q@slate.com'),
 	 (1243,302,'Dasie Blouet','dblouet6q@slate.com'),
 	 (1244,994,'Carson Cadore','ccadore6r@comcast.net'),
-	 (1245,257,'Mitchel Babbage','mbabbage6s@wordpress.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1245,257,'Mitchel Babbage','mbabbage6s@wordpress.com'),
 	 (1245,603,'Mitchel Babbage','mbabbage6s@wordpress.com'),
-	 (1245,987,'Mitchel Babbage','mbabbage6s@wordpress.com'),
+	 (1245,987,'Mitchel Babbage','mbabbage6s@wordpress.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1246,952,'Ernie Camilio','ecamilio6t@friendfeed.com'),
-	 (1247,601,'Dorolisa McCluskey','dmccluskey6u@columbia.edu'),
-	 (1247,915,'Dorolisa McCluskey','dmccluskey6u@columbia.edu'),
+	 (1247,601,'Dorolisa Mccluskey','dmccluskey6u@columbia.edu'),
+	 (1247,915,'Dorolisa Mccluskey','dmccluskey6u@columbia.edu'),
 	 (1248,1,'Rozina Dearlove','rdearlove6v@scribd.com'),
 	 (1248,674,'Rozina Dearlove','rdearlove6v@scribd.com'),
 	 (1248,860,'Rozina Dearlove','rdearlove6v@scribd.com'),
 	 (1249,938,'Baxter Flaonier','bflaonier6w@cyberchimps.com'),
-	 (1250,512,'Calypso Gass','cgass6x@about.me');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1250,512,'Calypso Gass','cgass6x@about.me'),
 	 (1250,706,'Calypso Gass','cgass6x@about.me'),
-	 (1251,755,'Mickey Cromer','mcromer6y@qq.com'),
+	 (1251,755,'Mickey Cromer','mcromer6y@qq.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1252,87,'Etti Staziker','estaziker6z@biblegateway.com'),
 	 (1253,500,'Gertie Sager','gsager70@goo.gl'),
 	 (1254,657,'Brandtr Petzold','bpetzold71@mapy.cz'),
@@ -2318,10 +2316,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1256,129,'Joshuah Samwaye','jsamwaye73@infoseek.co.jp'),
 	 (1257,524,'Bastian Conibear','bconibear74@github.io'),
 	 (1258,567,'Jimmy Goldney','jgoldney75@columbia.edu'),
-	 (1259,908,'Alvira Spilsbury','aspilsbury76@php.net');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1259,908,'Alvira Spilsbury','aspilsbury76@php.net'),
 	 (1260,787,'Emmie Roncelli','eroncelli77@nifty.com'),
-	 (1261,382,'Drugi Stoodley','dstoodley78@admin.ch'),
+	 (1261,382,'Drugi Stoodley','dstoodley78@admin.ch');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1261,520,'Drugi Stoodley','dstoodley78@admin.ch'),
 	 (1261,668,'Drugi Stoodley','dstoodley78@admin.ch'),
 	 (1261,823,'Drugi Stoodley','dstoodley78@admin.ch'),
@@ -2329,10 +2327,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1263,340,'Skylar Corkel','scorkel7a@ustream.tv'),
 	 (1263,550,'Skylar Corkel','scorkel7a@ustream.tv'),
 	 (1263,700,'Skylar Corkel','scorkel7a@ustream.tv'),
-	 (1264,51,'Skipton Chessor','schessor7b@yandex.ru');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1264,51,'Skipton Chessor','schessor7b@yandex.ru'),
 	 (1264,807,'Skipton Chessor','schessor7b@yandex.ru'),
-	 (1264,984,'Skipton Chessor','schessor7b@yandex.ru'),
+	 (1264,984,'Skipton Chessor','schessor7b@yandex.ru');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1265,879,'Matteo Minmagh','mminmagh7c@amazon.de'),
 	 (1265,884,'Matteo Minmagh','mminmagh7c@amazon.de'),
 	 (1266,484,'Carmelina Bartosik','cbartosik7d@google.cn'),
@@ -2340,10 +2338,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1267,153,'Arden Giabucci','agiabucci7e@vkontakte.ru'),
 	 (1267,353,'Arden Giabucci','agiabucci7e@vkontakte.ru'),
 	 (1267,936,'Arden Giabucci','agiabucci7e@vkontakte.ru'),
-	 (1268,432,'Kristen Guterson','kguterson7f@scribd.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1268,432,'Kristen Guterson','kguterson7f@scribd.com'),
 	 (1268,881,'Kristen Guterson','kguterson7f@scribd.com'),
-	 (1269,405,'Nichole Durand','ndurand7g@histats.com'),
+	 (1269,405,'Nichole Durand','ndurand7g@histats.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1270,981,'Alister Clipston','aclipston7h@vimeo.com'),
 	 (1271,75,'Jayne Reijmers','jreijmers7i@ifeng.com'),
 	 (1272,433,'Annabal Kieran','akieran7j@ameblo.jp'),
@@ -2351,10 +2349,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1273,895,'Kent Adamec','kadamec7k@i2i.jp'),
 	 (1274,304,'Pen Baigrie','pbaigrie7l@yellowpages.com'),
 	 (1274,953,'Pen Baigrie','pbaigrie7l@yellowpages.com'),
-	 (1275,416,'Kissee Bovis','kbovis7m@wix.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1275,416,'Kissee Bovis','kbovis7m@wix.com'),
 	 (1276,390,'Solomon Bassick','sbassick7n@smugmug.com'),
-	 (1276,874,'Solomon Bassick','sbassick7n@smugmug.com'),
+	 (1276,874,'Solomon Bassick','sbassick7n@smugmug.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1277,61,'Pattin Benthall','pbenthall7o@is.gd'),
 	 (1278,343,'Fonzie Bachellier','fbachellier7p@wired.com'),
 	 (1278,365,'Fonzie Bachellier','fbachellier7p@wired.com'),
@@ -2362,10 +2360,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1279,102,'Ernesta Alben','ealben7q@domainmarket.com'),
 	 (1279,135,'Ernesta Alben','ealben7q@domainmarket.com'),
 	 (1279,604,'Ernesta Alben','ealben7q@domainmarket.com'),
-	 (1280,206,'Sheeree Sheddan','ssheddan7r@t.co');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1280,206,'Sheeree Sheddan','ssheddan7r@t.co'),
 	 (1281,180,'Aristotle Syder','asyder7s@howstuffworks.com'),
-	 (1281,743,'Aristotle Syder','asyder7s@howstuffworks.com'),
+	 (1281,743,'Aristotle Syder','asyder7s@howstuffworks.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1282,834,'Kenon Weeden','kweeden7t@ifeng.com'),
 	 (1283,729,'Kathye Georgeau','kgeorgeau7u@sina.com.cn'),
 	 (1284,177,'Skip Filpo','sfilpo7v@shop-pro.jp'),
@@ -2373,10 +2371,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1285,21,'Ethelind Laybourne','elaybourne7w@free.fr'),
 	 (1286,259,'Aguste Robarts','arobarts7x@yahoo.com'),
 	 (1286,456,'Aguste Robarts','arobarts7x@yahoo.com'),
-	 (1286,1000,'Aguste Robarts','arobarts7x@yahoo.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1286,1000,'Aguste Robarts','arobarts7x@yahoo.com'),
 	 (1287,268,'Yanaton Tuny','ytuny7y@google.ca'),
-	 (1287,287,'Yanaton Tuny','ytuny7y@google.ca'),
+	 (1287,287,'Yanaton Tuny','ytuny7y@google.ca');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1288,225,'Gilberto Joliffe','gjoliffe7z@tripod.com'),
 	 (1289,151,'Sly Starbucke','sstarbucke80@ted.com'),
 	 (1289,422,'Sly Starbucke','sstarbucke80@ted.com'),
@@ -2384,10 +2382,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1290,683,'Janina Denford','jdenford81@earthlink.net'),
 	 (1290,996,'Janina Denford','jdenford81@earthlink.net'),
 	 (1291,735,'Brynn Castell','bcastell82@networkadvertising.org'),
-	 (1292,16,'Gert Binks','gbinks83@irs.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1292,16,'Gert Binks','gbinks83@irs.gov'),
 	 (1292,285,'Gert Binks','gbinks83@irs.gov'),
-	 (1292,539,'Gert Binks','gbinks83@irs.gov'),
+	 (1292,539,'Gert Binks','gbinks83@irs.gov');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1292,862,'Gert Binks','gbinks83@irs.gov'),
 	 (1293,32,'Johannes Santello','jsantello84@vinaora.com'),
 	 (1293,886,'Johannes Santello','jsantello84@vinaora.com'),
@@ -2395,10 +2393,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1294,868,'Dianna Manoelli','dmanoelli85@nature.com'),
 	 (1295,853,'Jordon Hardie','jhardie86@typepad.com'),
 	 (1295,971,'Jordon Hardie','jhardie86@typepad.com'),
-	 (1296,466,'Huntlee Burl','hburl87@irs.gov');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1296,466,'Huntlee Burl','hburl87@irs.gov'),
 	 (1297,668,'Cort Kenion','ckenion88@shutterfly.com'),
-	 (1298,144,'Suzette Maskelyne','smaskelyne89@tinypic.com'),
+	 (1298,144,'Suzette Maskelyne','smaskelyne89@tinypic.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1298,549,'Suzette Maskelyne','smaskelyne89@tinypic.com'),
 	 (1299,818,'Ermin Cristobal','ecristobal8a@census.gov'),
 	 (1300,59,'Elyse Mechell','emechell8b@upenn.edu'),
@@ -2406,10 +2404,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1301,209,'Eleanora Clemon','eclemon8c@reverbnation.com'),
 	 (1301,521,'Eleanora Clemon','eclemon8c@reverbnation.com'),
 	 (1302,216,'Gui Vint','gvint8d@berkeley.edu'),
-	 (1302,353,'Gui Vint','gvint8d@berkeley.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1302,353,'Gui Vint','gvint8d@berkeley.edu'),
 	 (1302,528,'Gui Vint','gvint8d@berkeley.edu'),
-	 (1303,560,'Lizzy Donneely','ldonneely8e@xing.com'),
+	 (1303,560,'Lizzy Donneely','ldonneely8e@xing.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1304,262,'Vinson Bohlens','vbohlens8f@lycos.com'),
 	 (1304,274,'Vinson Bohlens','vbohlens8f@lycos.com'),
 	 (1304,627,'Vinson Bohlens','vbohlens8f@lycos.com'),
@@ -2417,10 +2415,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1306,178,'Callean Debenham','cdebenham8h@ehow.com'),
 	 (1306,374,'Callean Debenham','cdebenham8h@ehow.com'),
 	 (1307,114,'Eartha Gosnoll','egosnoll8i@php.net'),
-	 (1307,944,'Eartha Gosnoll','egosnoll8i@php.net');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1307,944,'Eartha Gosnoll','egosnoll8i@php.net'),
 	 (1308,37,'Dion Nys','dnys8j@ucoz.com'),
-	 (1308,388,'Dion Nys','dnys8j@ucoz.com'),
+	 (1308,388,'Dion Nys','dnys8j@ucoz.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1309,426,'Wolfy Swatman','wswatman8k@prnewswire.com'),
 	 (1310,372,'Raoul Dransfield','rdransfield8l@uol.com.br'),
 	 (1310,540,'Raoul Dransfield','rdransfield8l@uol.com.br'),
@@ -2428,20 +2426,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1310,882,'Raoul Dransfield','rdransfield8l@uol.com.br'),
 	 (1311,124,'Rubie Kington','rkington8m@biglobe.ne.jp'),
 	 (1312,172,'Antonius Sanbroke','asanbroke8n@jiathis.com'),
-	 (1312,828,'Antonius Sanbroke','asanbroke8n@jiathis.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1312,828,'Antonius Sanbroke','asanbroke8n@jiathis.com'),
 	 (1313,990,'Esme Ateridge','eateridge8o@so-net.ne.jp'),
-	 (1314,219,'Alyssa Grayshan','agrayshan8p@mozilla.com'),
+	 (1314,219,'Alyssa Grayshan','agrayshan8p@mozilla.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1314,511,'Alyssa Grayshan','agrayshan8p@mozilla.com'),
+	 (1507,890,'Kiley Gibbe','kgibbee2@sbwire.com'),
 	 (1315,925,'Diana Kleimt','dkleimt8q@cargocollective.com'),
 	 (1315,993,'Diana Kleimt','dkleimt8q@cargocollective.com'),
 	 (1316,405,'Nanni Kiss','nkiss8r@apache.org'),
 	 (1317,131,'Winifield Epinoy','wepinoy8s@dot.gov'),
 	 (1317,409,'Winifield Epinoy','wepinoy8s@dot.gov'),
 	 (1318,146,'Claus Rockcliff','crockcliff8t@twitter.com'),
-	 (1318,601,'Claus Rockcliff','crockcliff8t@twitter.com');
+	 (1318,601,'Claus Rockcliff','crockcliff8t@twitter.com'),
+	 (1318,789,'Claus Rockcliff','crockcliff8t@twitter.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1318,789,'Claus Rockcliff','crockcliff8t@twitter.com'),
 	 (1319,326,'Viola Sives','vsives8u@google.de'),
 	 (1320,942,'Violetta Coppledike','vcoppledike8v@blogger.com'),
 	 (1321,492,'Corty Deguara','cdeguara8w@theglobeandmail.com'),
@@ -2450,9 +2449,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1321,782,'Corty Deguara','cdeguara8w@theglobeandmail.com'),
 	 (1322,412,'Jodie Shales','jshales8x@mapy.cz'),
 	 (1322,441,'Jodie Shales','jshales8x@mapy.cz'),
-	 (1322,605,'Jodie Shales','jshales8x@mapy.cz');
+	 (1322,605,'Jodie Shales','jshales8x@mapy.cz'),
+	 (1323,579,'Cherry Klamman','cklamman8y@omniture.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1323,579,'Cherry Klamman','cklamman8y@omniture.com'),
 	 (1323,803,'Cherry Klamman','cklamman8y@omniture.com'),
 	 (1324,300,'Carmela Gravener','cgravener8z@jiathis.com'),
 	 (1324,921,'Carmela Gravener','cgravener8z@jiathis.com'),
@@ -2461,9 +2460,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1326,163,'Bealle Spadari','bspadari91@discuz.net'),
 	 (1327,244,'Gerardo Wickmann','gwickmann92@zdnet.com'),
 	 (1328,508,'Prue Habble','phabble93@ask.com'),
-	 (1329,37,'Kirstin Philippart','kphilippart94@altervista.org');
+	 (1329,37,'Kirstin Philippart','kphilippart94@altervista.org'),
+	 (1329,243,'Kirstin Philippart','kphilippart94@altervista.org');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1329,243,'Kirstin Philippart','kphilippart94@altervista.org'),
 	 (1329,424,'Kirstin Philippart','kphilippart94@altervista.org'),
 	 (1330,618,'Freeman Walls','fwalls95@infoseek.co.jp'),
 	 (1330,927,'Freeman Walls','fwalls95@infoseek.co.jp'),
@@ -2472,9 +2471,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1332,400,'Bertie Drover','bdrover97@xinhuanet.com'),
 	 (1332,717,'Bertie Drover','bdrover97@xinhuanet.com'),
 	 (1333,345,'Chase Supple','csupple98@cpanel.net'),
-	 (1333,846,'Chase Supple','csupple98@cpanel.net');
+	 (1333,846,'Chase Supple','csupple98@cpanel.net'),
+	 (1333,854,'Chase Supple','csupple98@cpanel.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1333,854,'Chase Supple','csupple98@cpanel.net'),
 	 (1333,876,'Chase Supple','csupple98@cpanel.net'),
 	 (1334,606,'Colette Velez','cvelez99@craigslist.org'),
 	 (1334,682,'Colette Velez','cvelez99@craigslist.org'),
@@ -2483,20 +2482,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1335,986,'Tremayne Stritton','tstritton9a@issuu.com'),
 	 (1336,875,'Saul Allso','sallso9b@ning.com'),
 	 (1336,941,'Saul Allso','sallso9b@ning.com'),
-	 (1337,816,'Kenny Dewsbury','kdewsbury9c@weather.com');
+	 (1337,816,'Kenny Dewsbury','kdewsbury9c@weather.com'),
+	 (1338,758,'Nadean Tures','ntures9d@seesaa.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1338,758,'Nadean Tures','ntures9d@seesaa.net'),
 	 (1339,620,'Jone Cordes','jcordes9e@redcross.org'),
 	 (1340,905,'Jehanna Sleany','jsleany9f@ed.gov'),
 	 (1341,915,'Nobie Large','nlarge9g@jalbum.net'),
 	 (1342,237,'Celinda Calliss','ccalliss9h@twitpic.com'),
 	 (1342,395,'Celinda Calliss','ccalliss9h@twitpic.com'),
 	 (1342,710,'Celinda Calliss','ccalliss9h@twitpic.com'),
-	 (1343,584,'Gerick MacRitchie','gmacritchie9i@friendfeed.com'),
+	 (1343,584,'Gerick Macritchie','gmacritchie9i@friendfeed.com'),
 	 (1344,556,'Suzy Pincked','spincked9j@foxnews.com'),
-	 (1344,991,'Suzy Pincked','spincked9j@foxnews.com');
+	 (1344,991,'Suzy Pincked','spincked9j@foxnews.com'),
+	 (1344,995,'Suzy Pincked','spincked9j@foxnews.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1344,995,'Suzy Pincked','spincked9j@foxnews.com'),
 	 (1345,694,'Gearard Longstreeth','glongstreeth9k@google.com.au'),
 	 (1345,969,'Gearard Longstreeth','glongstreeth9k@google.com.au'),
 	 (1346,986,'Mariam Cleen','mcleen9l@diigo.com'),
@@ -2505,20 +2504,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1349,292,'Charla Guye','cguye9o@eepurl.com'),
 	 (1350,113,'Erie Streeter','estreeter9p@symantec.com'),
 	 (1350,188,'Erie Streeter','estreeter9p@symantec.com'),
-	 (1351,164,'Vickie Rocco','vrocco9q@nationalgeographic.com');
+	 (1351,164,'Vickie Rocco','vrocco9q@nationalgeographic.com'),
+	 (1352,282,'Roberto Doull','rdoull9r@indiegogo.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1352,282,'Roberto Doull','rdoull9r@indiegogo.com'),
 	 (1352,391,'Roberto Doull','rdoull9r@indiegogo.com'),
 	 (1353,262,'Garv Peery','gpeery9s@icio.us'),
 	 (1353,860,'Garv Peery','gpeery9s@icio.us'),
 	 (1354,844,'Hettie Dodgshon','hdodgshon9t@bbc.co.uk'),
 	 (1354,973,'Hettie Dodgshon','hdodgshon9t@bbc.co.uk'),
-	 (1355,540,'Madelena MacNeilly','mmacneilly9u@altervista.org'),
-	 (1356,513,'Milena McGowran','mmcgowran9v@g.co'),
+	 (1355,540,'Madelena Macneilly','mmacneilly9u@altervista.org'),
+	 (1356,513,'Milena Mcgowran','mmcgowran9v@g.co'),
 	 (1357,347,'Nadine Houseley','nhouseley9w@ning.com'),
-	 (1358,893,'Doroteya Syme','dsyme9x@cisco.com');
+	 (1358,893,'Doroteya Syme','dsyme9x@cisco.com'),
+	 (1359,979,'Hephzibah Dawley','hdawley9y@cpanel.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1359,979,'Hephzibah Dawley','hdawley9y@cpanel.net'),
 	 (1360,510,'Ashley Loseke','aloseke9z@nasa.gov'),
 	 (1361,739,'Kev Sone','ksonea0@accuweather.com'),
 	 (1361,998,'Kev Sone','ksonea0@accuweather.com'),
@@ -2527,9 +2526,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1363,430,'Annette Tschursch','atschurscha2@cpanel.net'),
 	 (1364,321,'Cassaundra Birchwood','cbirchwooda3@dell.com'),
 	 (1364,655,'Cassaundra Birchwood','cbirchwooda3@dell.com'),
-	 (1364,878,'Cassaundra Birchwood','cbirchwooda3@dell.com');
+	 (1364,878,'Cassaundra Birchwood','cbirchwooda3@dell.com'),
+	 (1365,6,'Mame Romanini','mromaninia4@wikispaces.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1365,6,'Mame Romanini','mromaninia4@wikispaces.com'),
 	 (1365,424,'Mame Romanini','mromaninia4@wikispaces.com'),
 	 (1366,902,'Xever Demchen','xdemchena5@networksolutions.com'),
 	 (1367,6,'Pepi Millmore','pmillmorea6@geocities.com'),
@@ -2538,9 +2537,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1368,558,'Stanwood Murtimer','smurtimera7@dagondesign.com'),
 	 (1368,766,'Stanwood Murtimer','smurtimera7@dagondesign.com'),
 	 (1369,540,'Pauly Thurber','pthurbera8@plala.or.jp'),
-	 (1369,929,'Pauly Thurber','pthurbera8@plala.or.jp');
+	 (1369,929,'Pauly Thurber','pthurbera8@plala.or.jp'),
+	 (1370,901,'Denyse Salan','dsalana9@barnesandnoble.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1370,901,'Denyse Salan','dsalana9@barnesandnoble.com'),
 	 (1371,88,'Homerus Clemes','hclemesaa@businesswire.com'),
 	 (1372,127,'Abbott Kendrew','akendrewab@yale.edu'),
 	 (1373,388,'Ulrick "De Andreis"','udeandreisac@plala.or.jp'),
@@ -2549,9 +2548,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1376,595,'Wilek Scarsbrooke','wscarsbrookeaf@wordpress.com'),
 	 (1376,966,'Wilek Scarsbrooke','wscarsbrookeaf@wordpress.com'),
 	 (1377,258,'Michal Bensen','mbensenag@ovh.net'),
-	 (1377,342,'Michal Bensen','mbensenag@ovh.net');
+	 (1377,342,'Michal Bensen','mbensenag@ovh.net'),
+	 (1378,105,'Decca Boddy','dboddyah@over-blog.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1378,105,'Decca Boddy','dboddyah@over-blog.com'),
 	 (1378,550,'Decca Boddy','dboddyah@over-blog.com'),
 	 (1379,220,'Elsie Corradengo','ecorradengoai@rakuten.co.jp'),
 	 (1380,323,'Fidelio Domney','fdomneyaj@cafepress.com'),
@@ -2560,9 +2559,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1381,157,'Cristen Tooby','ctoobyak@deviantart.com'),
 	 (1381,522,'Cristen Tooby','ctoobyak@deviantart.com'),
 	 (1381,606,'Cristen Tooby','ctoobyak@deviantart.com'),
-	 (1381,904,'Cristen Tooby','ctoobyak@deviantart.com');
+	 (1381,904,'Cristen Tooby','ctoobyak@deviantart.com'),
+	 (1382,204,'Nicola Price','npriceal@jalbum.net');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1382,204,'Nicola Price','npriceal@jalbum.net'),
 	 (1382,981,'Nicola Price','npriceal@jalbum.net'),
 	 (1383,114,'Hunt Brennenstuhl','hbrennenstuhlam@answers.com'),
 	 (1383,336,'Hunt Brennenstuhl','hbrennenstuhlam@answers.com'),
@@ -2571,20 +2570,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1385,905,'Wendall Gillicuddy','wgillicuddyao@jiathis.com'),
 	 (1385,924,'Wendall Gillicuddy','wgillicuddyao@jiathis.com'),
 	 (1386,390,'Allyn Ianni','aianniap@yahoo.co.jp'),
-	 (1386,569,'Allyn Ianni','aianniap@yahoo.co.jp');
+	 (1386,569,'Allyn Ianni','aianniap@yahoo.co.jp'),
+	 (1387,165,'Fancy Hazart','fhazartaq@baidu.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1387,165,'Fancy Hazart','fhazartaq@baidu.com'),
 	 (1387,506,'Fancy Hazart','fhazartaq@baidu.com'),
-	 (1388,192,'Salim McCreery','smccreeryar@webmd.com'),
+	 (1388,192,'Salim Mccreery','smccreeryar@webmd.com'),
 	 (1389,753,'Steffane Addicote','saddicoteas@sakura.ne.jp'),
 	 (1390,376,'Ronny Rubinowitsch','rrubinowitschat@ebay.co.uk'),
 	 (1391,182,'Michelle Yoxall','myoxallau@cbsnews.com'),
 	 (1391,225,'Michelle Yoxall','myoxallau@cbsnews.com'),
 	 (1392,342,'Nert Verrills','nverrillsav@barnesandnoble.com'),
 	 (1393,42,'Isabella Toogood','itoogoodaw@imgur.com'),
-	 (1393,859,'Isabella Toogood','itoogoodaw@imgur.com');
+	 (1393,859,'Isabella Toogood','itoogoodaw@imgur.com'),
+	 (1394,825,'Kit Schiefersten','kschieferstenax@gizmodo.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1394,825,'Kit Schiefersten','kschieferstenax@gizmodo.com'),
 	 (1395,576,'Belvia Ellwell','bellwellay@ftc.gov'),
 	 (1396,201,'Carlos Bromwich','cbromwichaz@nationalgeographic.com'),
 	 (1397,864,'Allyn Bilham','abilhamb0@discovery.com'),
@@ -2593,9 +2592,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1399,307,'Cynthia Kunat','ckunatb2@hubpages.com'),
 	 (1400,394,'Dedie Dodding','ddoddingb3@vk.com'),
 	 (1401,668,'Angele Churchman','achurchmanb4@dmoz.org'),
-	 (1401,911,'Angele Churchman','achurchmanb4@dmoz.org');
+	 (1401,911,'Angele Churchman','achurchmanb4@dmoz.org'),
+	 (1402,60,'Angel Quenby','aquenbyb5@dailymail.co.uk');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1402,60,'Angel Quenby','aquenbyb5@dailymail.co.uk'),
 	 (1403,248,'Ivar Osinin','iosininb6@cisco.com'),
 	 (1403,654,'Ivar Osinin','iosininb6@cisco.com'),
 	 (1404,30,'Wren Deare','wdeareb7@google.com'),
@@ -2604,9 +2603,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1406,71,'Paxton Perree','pperreeb9@irs.gov'),
 	 (1406,642,'Paxton Perree','pperreeb9@irs.gov'),
 	 (1407,909,'Flint Barhams','fbarhamsba@wikipedia.org'),
-	 (1408,554,'Jillene Aldwich','jaldwichbb@blog.com');
+	 (1408,554,'Jillene Aldwich','jaldwichbb@blog.com'),
+	 (1409,233,'Amalia Poundsford','apoundsfordbc@google.com.au');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1409,233,'Amalia Poundsford','apoundsfordbc@google.com.au'),
 	 (1409,477,'Amalia Poundsford','apoundsfordbc@google.com.au'),
 	 (1410,301,'Giulietta Siveyer','gsiveyerbd@1688.com'),
 	 (1411,732,'Griff Heaford','gheafordbe@blogger.com'),
@@ -2615,9 +2614,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1412,791,'Jacquelin Tutchener','jtutchenerbf@reuters.com'),
 	 (1413,54,'Gherardo Sirey','gsireybg@digg.com'),
 	 (1413,839,'Gherardo Sirey','gsireybg@digg.com'),
-	 (1414,891,'Eudora Bocke','ebockebh@amazonaws.com');
+	 (1414,891,'Eudora Bocke','ebockebh@amazonaws.com'),
+	 (1415,517,'Dudley Kidds','dkiddsbi@multiply.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1415,517,'Dudley Kidds','dkiddsbi@multiply.com'),
 	 (1415,519,'Dudley Kidds','dkiddsbi@multiply.com'),
 	 (1415,949,'Dudley Kidds','dkiddsbi@multiply.com'),
 	 (1416,498,'Anstice Filer','afilerbj@w3.org'),
@@ -2626,20 +2625,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1418,525,'Bobine Chettle','bchettlebl@wordpress.org'),
 	 (1419,486,'Dwain Wolfart','dwolfartbm@latimes.com'),
 	 (1420,700,'Gerti Elphee','gelpheebn@java.com'),
-	 (1421,520,'Claybourne Crawforth','ccrawforthbo@marriott.com');
+	 (1421,520,'Claybourne Crawforth','ccrawforthbo@marriott.com'),
+	 (1421,879,'Claybourne Crawforth','ccrawforthbo@marriott.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1421,879,'Claybourne Crawforth','ccrawforthbo@marriott.com'),
-	 (1422,60,'Luci McCaughren','lmccaughrenbp@princeton.edu'),
-	 (1422,101,'Luci McCaughren','lmccaughrenbp@princeton.edu'),
-	 (1422,335,'Luci McCaughren','lmccaughrenbp@princeton.edu'),
+	 (1422,60,'Luci Mccaughren','lmccaughrenbp@princeton.edu'),
+	 (1422,101,'Luci Mccaughren','lmccaughrenbp@princeton.edu'),
+	 (1422,335,'Luci Mccaughren','lmccaughrenbp@princeton.edu'),
 	 (1423,475,'Joane Lovewell','jlovewellbq@deliciousdays.com'),
 	 (1424,327,'Alis Staries','astariesbr@time.com'),
 	 (1425,623,'Sybil Sterland','ssterlandbs@behance.net'),
-	 (1426,545,'Editha todor','etodorbt@ted.com'),
+	 (1426,545,'Editha Todor','etodorbt@ted.com'),
 	 (1427,818,'Cordelie Rickertsen','crickertsenbu@de.vu'),
-	 (1428,46,'Claudell Quarrie','cquarriebv@wunderground.com');
+	 (1428,46,'Claudell Quarrie','cquarriebv@wunderground.com'),
+	 (1428,85,'Claudell Quarrie','cquarriebv@wunderground.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1428,85,'Claudell Quarrie','cquarriebv@wunderground.com'),
 	 (1428,299,'Claudell Quarrie','cquarriebv@wunderground.com'),
 	 (1428,650,'Claudell Quarrie','cquarriebv@wunderground.com'),
 	 (1428,652,'Claudell Quarrie','cquarriebv@wunderground.com'),
@@ -2648,9 +2647,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1430,28,'Lorrayne "De Atta"','ldeattabx@hhs.gov'),
 	 (1431,151,'Kyrstin Pascoe','kpascoeby@fc2.com'),
 	 (1431,813,'Kyrstin Pascoe','kpascoeby@fc2.com'),
-	 (1432,80,'Octavius Cussen','ocussenbz@mashable.com');
+	 (1432,80,'Octavius Cussen','ocussenbz@mashable.com'),
+	 (1433,983,'Belle Kneesha','bkneeshac0@springer.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1433,983,'Belle Kneesha','bkneeshac0@springer.com'),
 	 (1434,254,'Cesya Necolds','cnecoldsc1@sun.com'),
 	 (1435,264,'Theresita Grelak','tgrelakc2@flickr.com'),
 	 (1436,205,'Kendra Barnardo','kbarnardoc3@purevolume.com'),
@@ -2659,9 +2658,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1437,701,'Thatch Ikin','tikinc4@usa.gov'),
 	 (1437,770,'Thatch Ikin','tikinc4@usa.gov'),
 	 (1438,712,'Carling Syers','csyersc5@elegantthemes.com'),
-	 (1439,495,'Kelly Tomsen','ktomsenc6@bloomberg.com');
+	 (1439,495,'Kelly Tomsen','ktomsenc6@bloomberg.com'),
+	 (1439,953,'Kelly Tomsen','ktomsenc6@bloomberg.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1439,953,'Kelly Tomsen','ktomsenc6@bloomberg.com'),
 	 (1440,126,'Vassili Lukash','vlukashc7@xrea.com'),
 	 (1440,994,'Vassili Lukash','vlukashc7@xrea.com'),
 	 (1441,88,'Reid Ciotti','rciottic8@ihg.com'),
@@ -2670,9 +2669,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1443,358,'Saw Gomez','sgomezca@discovery.com'),
 	 (1443,534,'Saw Gomez','sgomezca@discovery.com'),
 	 (1444,245,'Nicholle Fielden','nfieldencb@ihg.com'),
-	 (1444,399,'Nicholle Fielden','nfieldencb@ihg.com');
+	 (1444,399,'Nicholle Fielden','nfieldencb@ihg.com'),
+	 (1445,156,'Audie Wildblood','awildbloodcc@xinhuanet.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1445,156,'Audie Wildblood','awildbloodcc@xinhuanet.com'),
 	 (1445,626,'Audie Wildblood','awildbloodcc@xinhuanet.com'),
 	 (1446,567,'Kessiah Sunnucks','ksunnuckscd@guardian.co.uk'),
 	 (1446,642,'Kessiah Sunnucks','ksunnuckscd@guardian.co.uk'),
@@ -2681,20 +2680,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1448,267,'Bert Keetley','bkeetleycf@topsy.com'),
 	 (1448,709,'Bert Keetley','bkeetleycf@topsy.com'),
 	 (1449,293,'Abby Chevins','achevinscg@un.org'),
-	 (1449,336,'Abby Chevins','achevinscg@un.org');
+	 (1449,336,'Abby Chevins','achevinscg@un.org'),
+	 (1450,263,'Fianna Joutapavicius','fjoutapaviciusch@fotki.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1450,263,'Fianna Joutapavicius','fjoutapaviciusch@fotki.com'),
 	 (1451,166,'Elizabet Ketts','ekettsci@webs.com'),
 	 (1451,240,'Elizabet Ketts','ekettsci@webs.com'),
 	 (1451,433,'Elizabet Ketts','ekettsci@webs.com'),
-	 (1452,185,'Lucretia McClymond','lmcclymondcj@slashdot.org'),
-	 (1452,538,'Lucretia McClymond','lmcclymondcj@slashdot.org'),
+	 (1452,185,'Lucretia Mcclymond','lmcclymondcj@slashdot.org'),
+	 (1452,538,'Lucretia Mcclymond','lmcclymondcj@slashdot.org'),
 	 (1453,673,'Nike Kennaird','nkennairdck@1und1.de'),
 	 (1454,985,'Whitman Medler','wmedlercl@skype.com'),
 	 (1455,986,'Nadine Blackburne','nblackburnecm@mozilla.com'),
-	 (1456,769,'Shell Wroe','swroecn@mit.edu');
+	 (1456,769,'Shell Wroe','swroecn@mit.edu'),
+	 (1457,6,'Trstram Jellman','tjellmanco@bravesites.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1457,6,'Trstram Jellman','tjellmanco@bravesites.com'),
 	 (1457,865,'Trstram Jellman','tjellmanco@bravesites.com'),
 	 (1458,394,'Dwayne Junes','djunescp@mit.edu'),
 	 (1458,629,'Dwayne Junes','djunescp@mit.edu'),
@@ -2703,9 +2702,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1460,516,'Matthus Gliddon','mgliddoncr@theguardian.com'),
 	 (1461,599,'Thain Rodway','trodwaycs@bing.com'),
 	 (1462,81,'Merwin Feakins','mfeakinsct@cornell.edu'),
-	 (1462,777,'Merwin Feakins','mfeakinsct@cornell.edu');
+	 (1462,777,'Merwin Feakins','mfeakinsct@cornell.edu'),
+	 (1463,183,'Tadio Lucchi','tlucchicu@prlog.org');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1463,183,'Tadio Lucchi','tlucchicu@prlog.org'),
 	 (1464,120,'Deloria Skpsey','dskpseycv@usda.gov'),
 	 (1464,605,'Deloria Skpsey','dskpseycv@usda.gov'),
 	 (1465,268,'Germaine Aseef','gaseefcw@fastcompany.com'),
@@ -2714,9 +2713,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1466,922,'Eustace Gocke','egockecx@stanford.edu'),
 	 (1467,897,'Shaine Cockell','scockellcy@apache.org'),
 	 (1468,601,'Halie Moffett','hmoffettcz@npr.org'),
-	 (1469,477,'Jemmy Espinola','jespinolad0@sogou.com');
+	 (1469,477,'Jemmy Espinola','jespinolad0@sogou.com'),
+	 (1470,525,'Terra Peever','tpeeverd1@si.edu');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1470,525,'Terra Peever','tpeeverd1@si.edu'),
 	 (1470,885,'Terra Peever','tpeeverd1@si.edu'),
 	 (1471,61,'Michelle Kornyakov','mkornyakovd2@wsj.com'),
 	 (1472,863,'Rafaellle Theurer','rtheurerd3@macromedia.com'),
@@ -2725,9 +2724,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1474,738,'Gherardo Crissil','gcrissild5@ft.com'),
 	 (1475,535,'Izaak Roz','irozd6@de.vu'),
 	 (1475,954,'Izaak Roz','irozd6@de.vu'),
-	 (1476,549,'Jeniece Harkus','jharkusd7@4shared.com');
+	 (1476,549,'Jeniece Harkus','jharkusd7@4shared.com'),
+	 (1477,919,'Consalve Vigors','cvigorsd8@about.me');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1477,919,'Consalve Vigors','cvigorsd8@about.me'),
 	 (1478,73,'Winne Cutsforth','wcutsforthd9@cnn.com'),
 	 (1479,596,'Lorain Gradly','lgradlyda@is.gd'),
 	 (1480,953,'Candace Betteney','cbetteneydb@nps.gov'),
@@ -2736,20 +2735,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1483,115,'Katerine Boylin','kboylinde@google.cn'),
 	 (1483,762,'Katerine Boylin','kboylinde@google.cn'),
 	 (1484,88,'Falkner Mees','fmeesdf@youtube.com'),
-	 (1484,233,'Falkner Mees','fmeesdf@youtube.com');
+	 (1484,233,'Falkner Mees','fmeesdf@youtube.com'),
+	 (1484,872,'Falkner Mees','fmeesdf@youtube.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1484,872,'Falkner Mees','fmeesdf@youtube.com'),
 	 (1485,52,'Sutton Grunder','sgrunderdg@yandex.ru'),
 	 (1486,254,'Natalya Cannam','ncannamdh@nationalgeographic.com'),
 	 (1486,944,'Natalya Cannam','ncannamdh@nationalgeographic.com'),
 	 (1487,265,'Frasco Conkay','fconkaydi@github.io'),
-	 (1488,217,'Sigismondo MacDermott','smacdermottdj@tripadvisor.com'),
+	 (1488,217,'Sigismondo Macdermott','smacdermottdj@tripadvisor.com'),
 	 (1489,205,'Maiga Howey','mhoweydk@mlb.com'),
 	 (1490,398,'Brew Pindar','bpindardl@prweb.com'),
 	 (1491,421,'Natka Coppen','ncoppendm@so-net.ne.jp'),
-	 (1491,652,'Natka Coppen','ncoppendm@so-net.ne.jp');
+	 (1491,652,'Natka Coppen','ncoppendm@so-net.ne.jp'),
+	 (1491,657,'Natka Coppen','ncoppendm@so-net.ne.jp');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1491,657,'Natka Coppen','ncoppendm@so-net.ne.jp'),
 	 (1492,38,'Sisely Sivill','ssivilldn@msn.com'),
 	 (1492,804,'Sisely Sivill','ssivilldn@msn.com'),
 	 (1493,167,'Nanice Nutter','nnutterdo@dmoz.org'),
@@ -2758,9 +2757,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1494,554,'Vasily Poulden','vpouldendp@zimbio.com'),
 	 (1495,499,'Analise Larvin','alarvindq@lulu.com'),
 	 (1496,327,'Kassandra Caslett','kcaslettdr@sitemeter.com'),
-	 (1496,853,'Kassandra Caslett','kcaslettdr@sitemeter.com');
+	 (1496,853,'Kassandra Caslett','kcaslettdr@sitemeter.com'),
+	 (1496,902,'Kassandra Caslett','kcaslettdr@sitemeter.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1496,902,'Kassandra Caslett','kcaslettdr@sitemeter.com'),
 	 (1497,91,'Friedrich Fallows','ffallowsds@squidoo.com'),
 	 (1497,688,'Friedrich Fallows','ffallowsds@squidoo.com'),
 	 (1498,94,'Dorella Bulpitt','dbulpittdt@mit.edu'),
@@ -2769,9 +2768,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1499,316,'Ransom Clive','rclivedu@icio.us'),
 	 (1499,376,'Ransom Clive','rclivedu@icio.us'),
 	 (1499,888,'Ransom Clive','rclivedu@icio.us'),
-	 (1500,766,'Conan Safell','csafelldv@uol.com.br');
+	 (1500,766,'Conan Safell','csafelldv@uol.com.br'),
+	 (1500,982,'Conan Safell','csafelldv@uol.com.br');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1500,982,'Conan Safell','csafelldv@uol.com.br'),
 	 (1501,982,'Natka Howells','nhowellsdw@squarespace.com'),
 	 (1502,67,'Reinold Fransman','rfransmandx@google.com.br'),
 	 (1503,782,'Arlen Plum','aplumdy@newsvine.com'),
@@ -2780,21 +2779,20 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1505,928,'Jillene Satyford','jsatyforde0@scientificamerican.com'),
 	 (1506,284,'Jorge Caney','jcaneye1@addthis.com'),
 	 (1506,453,'Jorge Caney','jcaneye1@addthis.com'),
-	 (1507,890,'Kiley Gibbe','kgibbee2@sbwire.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1507,994,'Kiley Gibbe','kgibbee2@sbwire.com'),
-	 (1508,542,'Jeramie McCrann','jmccranne3@blog.com'),
-	 (1508,891,'Jeramie McCrann','jmccranne3@blog.com'),
+	 (1508,542,'Jeramie Mccrann','jmccranne3@blog.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1508,891,'Jeramie Mccrann','jmccranne3@blog.com'),
 	 (1509,24,'Tann Booy','tbooye4@odnoklassniki.ru'),
 	 (1509,769,'Tann Booy','tbooye4@odnoklassniki.ru'),
 	 (1510,407,'Conny Yaldren','cyaldrene5@boston.com'),
-	 (1511,181,'Syd "de Leon"','sdeleone6@ed.gov'),
-	 (1511,212,'Syd "de Leon"','sdeleone6@ed.gov'),
+	 (1511,181,'Syd "De Leon"','sdeleone6@ed.gov'),
+	 (1511,212,'Syd "De Leon"','sdeleone6@ed.gov'),
 	 (1512,8,'Alissa Oakhill','aoakhille7@usatoday.com'),
-	 (1512,456,'Alissa Oakhill','aoakhille7@usatoday.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1512,456,'Alissa Oakhill','aoakhille7@usatoday.com'),
 	 (1513,778,'Barbette Kem','bkeme8@list-manage.com'),
-	 (1514,59,'Therese Coal','tcoale9@tamu.edu'),
+	 (1514,59,'Therese Coal','tcoale9@tamu.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1515,998,'Griselda Leatherborrow','gleatherborrowea@mapy.cz'),
 	 (1516,292,'Phyllida Doy','pdoyeb@yellowpages.com'),
 	 (1516,491,'Phyllida Doy','pdoyeb@yellowpages.com'),
@@ -2802,10 +2800,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1517,279,'Jaime Chadburn','jchadburnec@shutterfly.com'),
 	 (1517,532,'Jaime Chadburn','jchadburnec@shutterfly.com'),
 	 (1518,45,'Pierson Prudence','pprudenceed@ycombinator.com'),
-	 (1518,470,'Pierson Prudence','pprudenceed@ycombinator.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1518,470,'Pierson Prudence','pprudenceed@ycombinator.com'),
 	 (1519,82,'Cornelia Spohrmann','cspohrmannee@desdev.cn'),
-	 (1519,971,'Cornelia Spohrmann','cspohrmannee@desdev.cn'),
+	 (1519,971,'Cornelia Spohrmann','cspohrmannee@desdev.cn');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1520,270,'Shanon Spering','ssperingef@goodreads.com'),
 	 (1521,271,'Ginnifer Rodson','grodsoneg@cpanel.net'),
 	 (1522,832,'Orella Willmetts','owillmettseh@cargocollective.com'),
@@ -2813,10 +2811,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1524,85,'Adiana Tipperton','atippertonej@ucoz.ru'),
 	 (1524,802,'Adiana Tipperton','atippertonej@ucoz.ru'),
 	 (1524,946,'Adiana Tipperton','atippertonej@ucoz.ru'),
-	 (1525,29,'Dewey Ainsby','dainsbyek@gmpg.org');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1525,29,'Dewey Ainsby','dainsbyek@gmpg.org'),
 	 (1525,461,'Dewey Ainsby','dainsbyek@gmpg.org'),
-	 (1525,847,'Dewey Ainsby','dainsbyek@gmpg.org'),
+	 (1525,847,'Dewey Ainsby','dainsbyek@gmpg.org');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1526,210,'Cynthie Pantling','cpantlingel@lycos.com'),
 	 (1527,209,'Cherry Abley','cableyem@goodreads.com'),
 	 (1528,714,'Chelsae Shanley','cshanleyen@japanpost.jp'),
@@ -2824,10 +2822,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1529,600,'Estell Hamby','ehambyeo@slashdot.org'),
 	 (1530,820,'Rosamund Gritten','rgrittenep@foxnews.com'),
 	 (1530,963,'Rosamund Gritten','rgrittenep@foxnews.com'),
-	 (1531,15,'Aurelie Daughtry','adaughtryeq@blinklist.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1531,15,'Aurelie Daughtry','adaughtryeq@blinklist.com'),
 	 (1532,375,'Anastassia Attoc','aattocer@hexun.com'),
-	 (1533,325,'Gusty Stitch','gstitches@china.com.cn'),
+	 (1533,325,'Gusty Stitch','gstitches@china.com.cn');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1533,534,'Gusty Stitch','gstitches@china.com.cn'),
 	 (1534,507,'Anica Kobel','akobelet@histats.com'),
 	 (1534,930,'Anica Kobel','akobelet@histats.com'),
@@ -2835,10 +2833,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1535,110,'Sterne Johnikin','sjohnikineu@intel.com'),
 	 (1535,340,'Sterne Johnikin','sjohnikineu@intel.com'),
 	 (1535,467,'Sterne Johnikin','sjohnikineu@intel.com'),
-	 (1536,960,'Melony Crinson','mcrinsonev@tripod.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1536,960,'Melony Crinson','mcrinsonev@tripod.com'),
 	 (1537,243,'Lynn Rogeron','lrogeronew@guardian.co.uk'),
-	 (1537,294,'Lynn Rogeron','lrogeronew@guardian.co.uk'),
+	 (1537,294,'Lynn Rogeron','lrogeronew@guardian.co.uk');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1537,372,'Lynn Rogeron','lrogeronew@guardian.co.uk'),
 	 (1538,147,'Brena Hands','bhandsex@java.com'),
 	 (1538,370,'Brena Hands','bhandsex@java.com'),
@@ -2846,21 +2844,21 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1540,752,'Ricki Izhakov','rizhakovez@redcross.org'),
 	 (1541,45,'Stevana Golt','sgoltf0@dropbox.com'),
 	 (1541,715,'Stevana Golt','sgoltf0@dropbox.com'),
-	 (1542,205,'Cyrill O''Corren','cocorrenf1@addtoany.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1542,205,'Cyrill O''Corren','cocorrenf1@addtoany.com'),
 	 (1542,307,'Cyrill O''Corren','cocorrenf1@addtoany.com'),
-	 (1543,174,'Cissy Hearsey','chearseyf2@wunderground.com'),
+	 (1543,174,'Cissy Hearsey','chearseyf2@wunderground.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1543,563,'Cissy Hearsey','chearseyf2@wunderground.com'),
 	 (1543,857,'Cissy Hearsey','chearseyf2@wunderground.com'),
-	 (1544,349,'Callie MacDonald','cmacdonaldf3@archive.org'),
+	 (1544,349,'Callie Macdonald','cmacdonaldf3@archive.org'),
 	 (1545,70,'Deana Matusevich','dmatusevichf4@multiply.com'),
 	 (1545,170,'Deana Matusevich','dmatusevichf4@multiply.com'),
 	 (1545,365,'Deana Matusevich','dmatusevichf4@multiply.com'),
 	 (1546,310,'Euphemia Barbe','ebarbef5@marriott.com'),
-	 (1546,470,'Euphemia Barbe','ebarbef5@marriott.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1546,470,'Euphemia Barbe','ebarbef5@marriott.com'),
 	 (1547,104,'Der Baulch','dbaulchf6@xing.com'),
-	 (1547,729,'Der Baulch','dbaulchf6@xing.com'),
+	 (1547,729,'Der Baulch','dbaulchf6@xing.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1548,392,'Freda Chrismas','fchrismasf7@google.ru'),
 	 (1549,536,'Leda Futter','lfutterf8@google.fr'),
 	 (1550,847,'Horacio Flemyng','hflemyngf9@buzzfeed.com'),
@@ -2868,10 +2866,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1551,382,'Katleen Schreiner','kschreinerfa@arizona.edu'),
 	 (1552,38,'Greggory Parcell','gparcellfb@about.me'),
 	 (1552,109,'Greggory Parcell','gparcellfb@about.me'),
-	 (1552,263,'Greggory Parcell','gparcellfb@about.me');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1552,263,'Greggory Parcell','gparcellfb@about.me'),
 	 (1552,721,'Greggory Parcell','gparcellfb@about.me'),
-	 (1553,181,'Johan Jutson','jjutsonfc@cmu.edu'),
+	 (1553,181,'Johan Jutson','jjutsonfc@cmu.edu');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1553,224,'Johan Jutson','jjutsonfc@cmu.edu'),
 	 (1553,337,'Johan Jutson','jjutsonfc@cmu.edu'),
 	 (1554,541,'Fredrika Pitcock','fpitcockfd@earthlink.net'),
@@ -2879,10 +2877,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1555,442,'Wenda Rome','wromefe@t.co'),
 	 (1556,490,'Emmet Kupis','ekupisff@desdev.cn'),
 	 (1557,712,'Selinda Bale','sbalefg@ameblo.jp'),
-	 (1558,20,'Ari Kildea','akildeafh@vkontakte.ru');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1558,20,'Ari Kildea','akildeafh@vkontakte.ru'),
 	 (1558,310,'Ari Kildea','akildeafh@vkontakte.ru'),
-	 (1559,561,'Mose Pover','mpoverfi@ifeng.com'),
+	 (1559,561,'Mose Pover','mpoverfi@ifeng.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1560,376,'Aleen Ovendale','aovendalefj@google.fr'),
 	 (1560,709,'Aleen Ovendale','aovendalefj@google.fr'),
 	 (1560,839,'Aleen Ovendale','aovendalefj@google.fr'),
@@ -2890,10 +2888,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1561,570,'Zelma Shipman','zshipmanfk@blog.com'),
 	 (1562,384,'Malena Colbeck','mcolbeckfl@cnn.com'),
 	 (1563,200,'Gearalt Ambrogi','gambrogifm@msu.edu'),
-	 (1563,792,'Gearalt Ambrogi','gambrogifm@msu.edu');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1563,792,'Gearalt Ambrogi','gambrogifm@msu.edu'),
 	 (1564,173,'Pearle Iacomelli','piacomellifn@sciencedaily.com'),
-	 (1564,590,'Pearle Iacomelli','piacomellifn@sciencedaily.com'),
+	 (1564,590,'Pearle Iacomelli','piacomellifn@sciencedaily.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1564,757,'Pearle Iacomelli','piacomellifn@sciencedaily.com'),
 	 (1565,280,'Judy Claibourn','jclaibournfo@archive.org'),
 	 (1566,897,'Raff Bowkett','rbowkettfp@yelp.com'),
@@ -2901,10 +2899,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1567,43,'Lynette Baldung','lbaldungfq@tamu.edu'),
 	 (1568,108,'Tan Nossent','tnossentfr@bloglovin.com'),
 	 (1568,343,'Tan Nossent','tnossentfr@bloglovin.com'),
-	 (1568,548,'Tan Nossent','tnossentfr@bloglovin.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1568,548,'Tan Nossent','tnossentfr@bloglovin.com'),
 	 (1569,392,'Christoph Densham','cdenshamfs@geocities.jp'),
-	 (1569,782,'Christoph Densham','cdenshamfs@geocities.jp'),
+	 (1569,782,'Christoph Densham','cdenshamfs@geocities.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1570,134,'Griffin Creamen','gcreamenft@businessweek.com'),
 	 (1570,992,'Griffin Creamen','gcreamenft@businessweek.com'),
 	 (1571,866,'Reinaldos Casaccio','rcasacciofu@pbs.org'),
@@ -2912,10 +2910,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1573,48,'Bord Howkins','bhowkinsfw@cdbaby.com'),
 	 (1573,147,'Bord Howkins','bhowkinsfw@cdbaby.com'),
 	 (1573,216,'Bord Howkins','bhowkinsfw@cdbaby.com'),
-	 (1574,14,'Caryl Hearon','chearonfx@tinypic.com');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1574,14,'Caryl Hearon','chearonfx@tinypic.com'),
 	 (1575,825,'Saraann Willoughey','swillougheyfy@csmonitor.com'),
-	 (1576,3,'Mireielle Jorgesen','mjorgesenfz@aol.com'),
+	 (1576,3,'Mireielle Jorgesen','mjorgesenfz@aol.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1576,16,'Mireielle Jorgesen','mjorgesenfz@aol.com'),
 	 (1576,716,'Mireielle Jorgesen','mjorgesenfz@aol.com'),
 	 (1577,466,'Christina Cliff','ccliffg0@omniture.com'),
@@ -2923,10 +2921,10 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1578,691,'Pier Donovin','pdonoving1@mtv.com'),
 	 (1579,287,'Magda Elleton','melletong2@oaic.gov.au'),
 	 (1579,590,'Magda Elleton','melletong2@oaic.gov.au'),
-	 (1579,960,'Magda Elleton','melletong2@oaic.gov.au');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1579,960,'Magda Elleton','melletong2@oaic.gov.au'),
 	 (1580,479,'Merrill Nunnerley','mnunnerleyg3@patch.com'),
-	 (1581,152,'Flossi Duncanson','fduncansong4@webmd.com'),
+	 (1581,152,'Flossi Duncanson','fduncansong4@webmd.com');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1582,960,'Florrie Cowans','fcowansg5@chicagotribune.com'),
 	 (1583,488,'Batsheva Leneham','blenehamg6@dropbox.com'),
 	 (1584,68,'Wilbert Oades','woadesg7@intel.com'),
@@ -2934,10 +2932,12 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1585,770,'Christophe Bennen','cbenneng8@about.com'),
 	 (1585,982,'Christophe Bennen','cbenneng8@about.com'),
 	 (1586,194,'Lowrance Else','lelseg9@i2i.jp'),
-	 (1586,244,'Lowrance Else','lelseg9@i2i.jp');
-INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1586,244,'Lowrance Else','lelseg9@i2i.jp'),
 	 (1586,387,'Lowrance Else','lelseg9@i2i.jp'),
-	 (1586,478,'Lowrance Else','lelseg9@i2i.jp'),
+	 (1586,478,'Lowrance Else','lelseg9@i2i.jp');
+INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
+	 (1587,830,'Bev Try','btryga@1688.com'),
+	 (1587,884,'Bev Try','btryga@1688.com'),
 	 (1588,953,'Raine Paaso','rpaasogb@ox.ac.uk'),
 	 (1589,279,'Marvin Orme','mormegc@japanpost.jp'),
 	 (1590,114,'Dennie Dikes','ddikesgd@state.gov'),
@@ -3032,7 +3032,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1638,291,'Boonie Blumfield','bblumfieldhp@1und1.de'),
 	 (1639,31,'Jodee Grayer','jgrayerhq@diigo.com'),
 	 (1639,914,'Jodee Grayer','jgrayerhq@diigo.com'),
-	 (1640,15,'Jerrie McAleese','jmcaleesehr@vistaprint.com'),
+	 (1640,15,'Jerrie Mcaleese','jmcaleesehr@vistaprint.com'),
 	 (1641,765,'Ahmed Casson','acassonhs@lulu.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1642,440,'Lin Speck','lspeckht@creativecommons.org'),
@@ -3051,8 +3051,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1647,618,'Sophronia Durbann','sdurbannhy@newyorker.com'),
 	 (1648,744,'Renata Belt','rbelthz@nps.gov'),
 	 (1649,247,'Lezley Gillman','lgillmani0@myspace.com'),
-	 (1650,306,'Helen-elizabeth Toffanelli','htoffanellii1@xinhuanet.com'),
-	 (1650,678,'Helen-elizabeth Toffanelli','htoffanellii1@xinhuanet.com'),
+	 (1650,306,'Helen-Elizabeth Toffanelli','htoffanellii1@xinhuanet.com'),
+	 (1650,678,'Helen-Elizabeth Toffanelli','htoffanellii1@xinhuanet.com'),
 	 (1651,498,'Darcy Render','drenderi2@tinyurl.com'),
 	 (1652,13,'Elden Linnell','elinnelli3@sciencedirect.com'),
 	 (1652,20,'Elden Linnell','elinnelli3@sciencedirect.com');
@@ -3103,7 +3103,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1673,449,'Peria Jeandet','pjeandetio@abc.net.au'),
 	 (1674,36,'Dolf Lasty','dlastyip@columbia.edu'),
-	 (1675,765,'Cullie McGowan','cmcgowaniq@t.co'),
+	 (1675,765,'Cullie Mcgowan','cmcgowaniq@t.co'),
 	 (1676,55,'Arielle Wastling','awastlingir@imdb.com'),
 	 (1676,264,'Arielle Wastling','awastlingir@imdb.com'),
 	 (1676,553,'Arielle Wastling','awastlingir@imdb.com'),
@@ -3120,7 +3120,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1683,781,'Moshe Gorsse','mgorsseiy@bing.com'),
 	 (1684,642,'Donia Jossum','djossumiz@sina.com.cn'),
 	 (1685,73,'Claudelle Mattingley','cmattingleyj0@pagesperso-orange.fr'),
-	 (1686,882,'Neville MacGarvey','nmacgarveyj1@stanford.edu'),
+	 (1686,882,'Neville Macgarvey','nmacgarveyj1@stanford.edu'),
 	 (1687,387,'Patricia Huban','phubanj2@dyndns.org');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1687,547,'Patricia Huban','phubanj2@dyndns.org'),
@@ -3161,7 +3161,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1708,571,'Devin Buckthorp','dbuckthorpjn@va.gov'),
 	 (1709,289,'Shena Ubank','subankjo@timesonline.co.uk'),
 	 (1709,613,'Shena Ubank','subankjo@timesonline.co.uk'),
-	 (1710,836,'Vergil MacKay','vmackayjp@elegantthemes.com'),
+	 (1710,836,'Vergil Mackay','vmackayjp@elegantthemes.com'),
 	 (1711,904,'Catlin Lidgey','clidgeyjq@fotki.com'),
 	 (1712,134,'Marielle Flatman','mflatmanjr@comcast.net'),
 	 (1713,516,'Grete Folcarelli','gfolcarellijs@ifeng.com'),
@@ -3193,9 +3193,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1729,793,'Whitney Skipworth','wskipworthk8@topsy.com'),
 	 (1730,105,'Nanon Gurnay','ngurnayk9@washingtonpost.com'),
 	 (1730,350,'Nanon Gurnay','ngurnayk9@washingtonpost.com'),
-	 (1731,377,'Horatia MacMeeking','hmacmeekingka@is.gd'),
-	 (1732,6,'Garret McKay','gmckaykb@netvibes.com'),
-	 (1732,204,'Garret McKay','gmckaykb@netvibes.com'),
+	 (1731,377,'Horatia Macmeeking','hmacmeekingka@is.gd'),
+	 (1732,6,'Garret Mckay','gmckaykb@netvibes.com'),
+	 (1732,204,'Garret Mckay','gmckaykb@netvibes.com'),
 	 (1733,427,'Vaclav Broadbury','vbroadburykc@ucla.edu'),
 	 (1734,400,'Dag Josselsohn','djosselsohnkd@java.com'),
 	 (1734,792,'Dag Josselsohn','djosselsohnkd@java.com');
@@ -3216,8 +3216,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1742,897,'Casey Bartoszek','cbartoszekkl@ocn.ne.jp'),
 	 (1743,286,'Xena Kretchmer','xkretchmerkm@canalblog.com'),
 	 (1743,420,'Xena Kretchmer','xkretchmerkm@canalblog.com'),
-	 (1744,616,'Florette "De la Yglesias"','fdelayglesiaskn@scribd.com'),
-	 (1744,675,'Florette "De la Yglesias"','fdelayglesiaskn@scribd.com'),
+	 (1744,616,'Florette "De La Yglesias"','fdelayglesiaskn@scribd.com'),
+	 (1744,675,'Florette "De La Yglesias"','fdelayglesiaskn@scribd.com'),
 	 (1745,972,'Adriano Hyman','ahymanko@intel.com'),
 	 (1746,191,'Hamid Jeacocke','hjeacockekp@digg.com'),
 	 (1746,929,'Hamid Jeacocke','hjeacockekp@digg.com');
@@ -3237,8 +3237,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1755,598,'Ethel Estoile','eestoileky@wikispaces.com'),
 	 (1755,944,'Ethel Estoile','eestoileky@wikispaces.com'),
 	 (1756,612,'Vivienne Pepperill','vpepperillkz@cbslocal.com'),
-	 (1757,602,'Monique McOrkil','mmcorkill0@ow.ly'),
-	 (1757,706,'Monique McOrkil','mmcorkill0@ow.ly'),
+	 (1757,602,'Monique Mcorkil','mmcorkill0@ow.ly'),
+	 (1757,706,'Monique Mcorkil','mmcorkill0@ow.ly'),
 	 (1758,2,'Sherilyn Featonby','sfeatonbyl1@ucoz.ru'),
 	 (1758,688,'Sherilyn Featonby','sfeatonbyl1@ucoz.ru'),
 	 (1759,30,'Jane Couzens','jcouzensl2@last.fm'),
@@ -3328,9 +3328,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1805,309,'Sidnee Tabbitt','stabbittmc@nationalgeographic.com'),
 	 (1805,616,'Sidnee Tabbitt','stabbittmc@nationalgeographic.com'),
 	 (1806,287,'Ellsworth Philpots','ephilpotsmd@guardian.co.uk'),
-	 (1807,186,'Lorrie McIlharga','lmcilhargame@so-net.ne.jp'),
-	 (1808,599,'Thorvald McAughtry','tmcaughtrymf@ask.com'),
-	 (1808,789,'Thorvald McAughtry','tmcaughtrymf@ask.com');
+	 (1807,186,'Lorrie Mcilharga','lmcilhargame@so-net.ne.jp'),
+	 (1808,599,'Thorvald Mcaughtry','tmcaughtrymf@ask.com'),
+	 (1808,789,'Thorvald Mcaughtry','tmcaughtrymf@ask.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1809,252,'Kristin Weld','kweldmg@etsy.com'),
 	 (1809,361,'Kristin Weld','kweldmg@etsy.com'),
@@ -3398,7 +3398,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1843,102,'Neil Ogg','noggne@wufoo.com'),
 	 (1843,228,'Neil Ogg','noggne@wufoo.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1844,77,'Alaine McKinless','amckinlessnf@patch.com'),
+	 (1844,77,'Alaine Mckinless','amckinlessnf@patch.com'),
 	 (1845,107,'Miguel Fromont','mfromontng@issuu.com'),
 	 (1846,563,'Moira Kares','mkaresnh@paginegialle.it'),
 	 (1846,723,'Moira Kares','mkaresnh@paginegialle.it'),
@@ -3435,7 +3435,7 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1864,61,'Bianka Knight','bknightnz@myspace.com'),
 	 (1865,117,'Cart Kettleson','ckettlesono0@tiny.cc'),
 	 (1865,726,'Cart Kettleson','ckettlesono0@tiny.cc'),
-	 (1866,691,'Shay MacPherson','smacphersono1@list-manage.com'),
+	 (1866,691,'Shay Macpherson','smacphersono1@list-manage.com'),
 	 (1867,36,'Ninnette Wark','nwarko2@wp.com'),
 	 (1867,290,'Ninnette Wark','nwarko2@wp.com'),
 	 (1867,921,'Ninnette Wark','nwarko2@wp.com'),
@@ -3488,9 +3488,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1898,69,'Rheta Sparrowe','rsparroweox@jimdo.com'),
 	 (1899,21,'Johnathan Gothrup','jgothrupoy@home.pl'),
-	 (1900,686,'Vivie McVie','vmcvieoz@oracle.com'),
-	 (1900,763,'Vivie McVie','vmcvieoz@oracle.com'),
-	 (1900,841,'Vivie McVie','vmcvieoz@oracle.com'),
+	 (1900,686,'Vivie Mcvie','vmcvieoz@oracle.com'),
+	 (1900,763,'Vivie Mcvie','vmcvieoz@oracle.com'),
+	 (1900,841,'Vivie Mcvie','vmcvieoz@oracle.com'),
 	 (1901,351,'Thedrick Henrichs','thenrichsp0@businesswire.com'),
 	 (1901,622,'Thedrick Henrichs','thenrichsp0@businesswire.com'),
 	 (1901,677,'Thedrick Henrichs','thenrichsp0@businesswire.com'),
@@ -3519,9 +3519,9 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 	 (1913,380,'Thacher Lacey','tlaceypc@java.com'),
 	 (1913,789,'Thacher Lacey','tlaceypc@java.com');
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
-	 (1914,98,'Kayle MacPaik','kmacpaikpd@dmoz.org'),
-	 (1914,131,'Kayle MacPaik','kmacpaikpd@dmoz.org'),
-	 (1914,837,'Kayle MacPaik','kmacpaikpd@dmoz.org'),
+	 (1914,98,'Kayle Macpaik','kmacpaikpd@dmoz.org'),
+	 (1914,131,'Kayle Macpaik','kmacpaikpd@dmoz.org'),
+	 (1914,837,'Kayle Macpaik','kmacpaikpd@dmoz.org'),
 	 (1915,48,'Derwin Matashkin','dmatashkinpe@ftc.gov'),
 	 (1916,284,'Nady Toombes','ntoombespf@google.ru'),
 	 (1916,613,'Nady Toombes','ntoombespf@google.ru'),
@@ -3631,8 +3631,8 @@ INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email
 INSERT INTO dwh_gravity.dim_customer (customer_id,address_id,nama_customer,email) VALUES
 	 (1970,686,'Kimberly Dunmore','kdunmoreqx@liveinternet.ru'),
 	 (1971,467,'Kimmie Erbe','kerbeqy@hud.gov'),
-	 (1972,16,'Gavrielle "d'' Eye"','gdeyeqz@typepad.com'),
-	 (1972,310,'Gavrielle "d'' Eye"','gdeyeqz@typepad.com'),
+	 (1972,16,'Gavrielle "D'' Eye"','gdeyeqz@typepad.com'),
+	 (1972,310,'Gavrielle "D'' Eye"','gdeyeqz@typepad.com'),
 	 (1973,246,'Horatia Haig','hhaigr0@globo.com'),
 	 (1973,825,'Horatia Haig','hhaigr0@globo.com'),
 	 (1973,947,'Horatia Haig','hhaigr0@globo.com'),

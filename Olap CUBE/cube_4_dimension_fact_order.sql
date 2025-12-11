@@ -1,12 +1,90 @@
-SELECT 
+with a as (
+select 
+    cast(null as int) as customer_id,
+    cast(null as int) as book_id,
+    cast(null as int) as alamat_tujuan_id,
+    cast(null as int) as method_id,
+    sum(total) as jumlah_penjualan,
+    avg(total) as rata_rata_penjualan,
+    min(total) as min_penjualan,
+    max(total) as max_penjualan
+from dwh_gravity.fact_order
+where status_id IN (4)
+
+union
+
+select 
+    cast(customer_id as int),
+    cast(null as int),
+    cast(null as int),
+    cast(null as int),
+    sum(total),
+    avg(total),
+    min(total),
+    max(total)
+from dwh_gravity.fact_order
+where status_id IN (4)
+group by customer_id
+
+union
+
+select
+    cast(null as int),
+    cast(book_id as int),
+    cast(null as int),
+    cast(null as int),
+    sum(total),
+    avg(total),
+    min(total),
+    max(total)
+from dwh_gravity.fact_order
+where status_id IN (4)
+group by book_id
+
+union
+
+select
+    cast(null as int),
+    cast(null as int),
+    cast(alamat_tujuan_id as int),
+    cast(null as int),
+    sum(total),
+    avg(total),
+    min(total),
+    max(total)
+from dwh_gravity.fact_order
+where status_id IN (4)
+group by alamat_tujuan_id
+
+union
+
+select
+    cast(null as int),
+    cast(null as int),
+    cast(null as int),
+    cast(method_id as int),
+    sum(total),
+    avg(total),
+    min(total),
+    max(total)
+from dwh_gravity.fact_order
+where status_id IN (4)
+group by method_id
+
+union
+
+select 
     customer_id,
     book_id,
-    alamat_tujuan_id, 
+    alamat_tujuan_id,
     method_id,
-    SUM(total) AS jumlah_penjualan,
-    AVG(total) AS rata_rata_penjualan,
-    MAX(total) AS maksimum_penjualan,
-    MIN(total) AS minimum_penjualan
-FROM dwh_gravity.fact_order
-WHERE status_id = '4'
-GROUP BY CUBE (customer_id, book_id, alamat_tujuan_id, method_id);
+    round(sum(total)) as jumlah_penjualan,
+    round(avg(total)) as rata_rata_penjualan,
+    min(total) as min_penjualan,
+    max(total) as max_penjualan
+from dwh_gravity.fact_order
+where status_id IN (4)
+group by customer_id, book_id, alamat_tujuan_id, method_id
+)
+
+select count(1) from a;
